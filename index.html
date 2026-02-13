@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>חיים ארוכים — חדשות בריאות ואריכות ימים</title>
+  <meta name="description" content="פורטל החדשות המוביל בעברית לבריאות, אריכות ימים ומחקר מדעי. סיכומים יומיים מבוססי ראיות.">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Hebrew:wght@400;700&family=Rubik:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Tailwind CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            serif: ['Noto Serif Hebrew', 'David Libre', 'Georgia', 'serif'],
+            sans: ['Rubik', 'Assistant', 'Arial', 'sans-serif'],
+          },
+          colors: {
+            sage: { 50: '#F0F4F1', 100: '#DCE6DD', 200: '#B8CDB9', 300: '#8BAF8F', 400: '#6B8F71', 500: '#4A6B4F', 600: '#3A5440' },
+            medical: { 50: '#E8EEF4', 100: '#C5D4E6', 400: '#2D5A8E', 500: '#1E3A5F', 600: '#152A45' },
+          }
+        }
+      }
+    }
+  </script>
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="font-sans text-gray-800 bg-white">
+
+  <!-- ═══ NAVBAR ═══ -->
+  <nav id="navbar" class="fixed top-0 right-0 left-0 z-50">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="flex items-center justify-between h-16">
+        <!-- Logo -->
+        <a href="index.html" class="flex items-center gap-2">
+          <span class="text-sage-400 text-2xl">🌿</span>
+          <span class="font-serif text-xl font-bold text-medical-500">חיים ארוכים</span>
+        </a>
+
+        <!-- Desktop Nav -->
+        <div class="hidden md:flex items-center gap-8">
+          <a href="index.html" class="nav-link font-medium">ראשי</a>
+          <a href="archive.html" class="nav-link">ארכיון</a>
+          <a href="about.html" class="nav-link">אודות</a>
+        </div>
+
+        <!-- Mobile Hamburger -->
+        <button id="hamburger" class="md:hidden hamburger flex flex-col gap-[6px] p-2" aria-label="תפריט">
+          <span class="hamburger-line"></span>
+          <span class="hamburger-line"></span>
+          <span class="hamburger-line"></span>
+        </button>
+      </div>
+
+      <!-- Mobile Menu -->
+      <div id="mobile-menu" class="md:hidden">
+        <div class="py-4 space-y-3 border-t border-gray-100">
+          <a href="index.html" class="block text-medical-500 font-medium py-2">ראשי</a>
+          <a href="archive.html" class="block text-medical-500 py-2">ארכיון</a>
+          <a href="about.html" class="block text-medical-500 py-2">אודות</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ═══ HERO SECTION ═══ -->
+  <section class="hero-section pb-16">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 pt-12">
+      <!-- Site tagline -->
+      <div class="text-center mb-10" data-animate>
+        <p class="text-medical-500 text-sm tracking-wide mb-2">מבוסס מחקר מדעי | מתעדכן יומית</p>
+        <h1 class="font-serif text-3xl md:text-4xl font-bold text-gray-900 mb-3">מדע אריכות החיים, בעברית פשוטה</h1>
+        <div class="section-divider mt-4"></div>
+      </div>
+
+      <!-- Hero Card -->
+      <div class="bg-white rounded-lg shadow-md border border-gray-100 p-6 md:p-10 max-w-3xl mx-auto" data-animate>
+        <span id="hero-category" class="hero-category-badge mb-4">טוען...</span>
+        <h2 id="hero-title" class="font-serif text-2xl md:text-3xl font-bold text-gray-900 mt-4 leading-tight">טוען כתבה ראשית...</h2>
+        <p id="hero-summary" class="text-gray-600 mt-4 leading-relaxed text-lg">...</p>
+
+        <!-- Bottom Line inline -->
+        <div class="bottom-line-box mt-6">
+          <div class="label flex items-center gap-2">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+            השורה התחתונה
+          </div>
+          <p id="hero-bottom-line" class="text">...</p>
+        </div>
+
+        <a id="hero-cta" href="#" class="inline-flex items-center gap-2 mt-6 text-sage-400 font-medium hover:text-sage-500 transition-colors">
+          לכתבה המלאה
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5"/><path d="M12 19l-7-7 7-7"/></svg>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══ LATEST ARTICLES ═══ -->
+  <section class="py-16 px-4 sm:px-6">
+    <div class="max-w-6xl mx-auto">
+      <div class="flex items-center justify-between mb-8">
+        <h2 class="font-serif text-2xl font-bold text-gray-900">כתבות אחרונות</h2>
+        <a href="archive.html" class="text-sage-400 text-sm font-medium hover:text-sage-500 transition-colors">כל הכתבות &larr;</a>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <!-- Main grid -->
+        <div id="articles-grid" class="col-span-full lg:col-span-2 grid grid-cols-1 md:grid-cols-2 gap-6">
+          <!-- Rendered by feed.js -->
+          <div class="skeleton h-48 rounded"></div>
+          <div class="skeleton h-48 rounded"></div>
+        </div>
+
+        <!-- Sidebar: Most Read -->
+        <aside class="lg:col-span-1">
+          <div class="bg-sage-50 rounded-lg p-6 sticky top-20">
+            <h3 class="font-serif text-lg font-bold text-gray-900 mb-4 flex items-center gap-2">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+              נקראו לאחרונה
+            </h3>
+            <div id="latest-sidebar">
+              <!-- Rendered by feed.js -->
+            </div>
+          </div>
+
+          <!-- Categories Box -->
+          <div class="mt-6 bg-white border border-gray-200 rounded-lg p-6">
+            <h3 class="font-serif text-lg font-bold text-gray-900 mb-4">קטגוריות</h3>
+            <div class="space-y-2">
+              <a href="archive.html?cat=מחקר" class="flex items-center gap-2 text-sm text-gray-600 hover:text-medical-500 py-1 transition-colors">🔬 מחקר</a>
+              <a href="archive.html?cat=תזונה" class="flex items-center gap-2 text-sm text-gray-600 hover:text-medical-500 py-1 transition-colors">🥗 תזונה</a>
+              <a href="archive.html?cat=אורח חיים" class="flex items-center gap-2 text-sm text-gray-600 hover:text-medical-500 py-1 transition-colors">🏃 אורח חיים</a>
+              <a href="archive.html?cat=טכנולוגיה רפואית" class="flex items-center gap-2 text-sm text-gray-600 hover:text-medical-500 py-1 transition-colors">🩺 טכנולוגיה רפואית</a>
+              <a href="archive.html?cat=גנטיקה" class="flex items-center gap-2 text-sm text-gray-600 hover:text-medical-500 py-1 transition-colors">🧬 גנטיקה</a>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══ ABOUT TEASER ═══ -->
+  <section class="bg-sage-50 py-16 px-4 sm:px-6">
+    <div class="max-w-3xl mx-auto text-center" data-animate>
+      <h2 class="font-serif text-2xl font-bold text-gray-900 mb-4">מדע, לא טרנדים</h2>
+      <p class="text-gray-600 leading-relaxed max-w-xl mx-auto">
+        "חיים ארוכים" מסכם עבורכם את המחקרים החשובים ביותר בתחום אריכות הימים — ישירות מכתבי העת המובילים בעולם, בעברית נגישה ומבוססת ראיות.
+      </p>
+      <a href="about.html" class="inline-flex items-center gap-2 mt-6 text-sage-400 font-medium hover:text-sage-500 transition-colors">
+        עוד על הפרויקט
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5"/><path d="M12 19l-7-7 7-7"/></svg>
+      </a>
+    </div>
+  </section>
+
+  <!-- ═══ FOOTER ═══ -->
+  <footer class="footer-section py-12 px-4 sm:px-6">
+    <div class="max-w-6xl mx-auto">
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
+        <!-- Brand -->
+        <div>
+          <div class="flex items-center gap-2 mb-3">
+            <span class="text-sage-300 text-xl">🌿</span>
+            <span class="font-serif text-lg font-bold text-white">חיים ארוכים</span>
+          </div>
+          <p class="text-sm opacity-70 leading-relaxed">חדשות בריאות ואריכות ימים מבוססות מחקר מדעי. מתעדכן אוטומטית כל יום.</p>
+        </div>
+
+        <!-- Links -->
+        <div>
+          <h4 class="font-bold text-white mb-3">ניווט</h4>
+          <div class="space-y-2">
+            <a href="index.html" class="block text-sm">ראשי</a>
+            <a href="archive.html" class="block text-sm">ארכיון כתבות</a>
+            <a href="about.html" class="block text-sm">אודות</a>
+          </div>
+        </div>
+
+        <!-- Sources -->
+        <div>
+          <h4 class="font-bold text-white mb-3">מקורות</h4>
+          <div class="space-y-2">
+            <span class="block text-sm">PubMed</span>
+            <span class="block text-sm">ScienceDaily</span>
+            <span class="block text-sm">Medical News Today</span>
+            <span class="block text-sm">OpenAlex</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="border-t border-white/10 pt-6 text-center text-sm opacity-50">
+        &copy; 2026 חיים ארוכים. כל התכנים מבוססים על מקורות מדעיים ציבוריים. אין לראות בתכנים ייעוץ רפואי.
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="js/main.js"></script>
+  <script src="js/feed.js"></script>
+</body>
+</html>

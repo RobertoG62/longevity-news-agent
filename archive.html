@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ארכיון כתבות — חיים ארוכים</title>
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Hebrew:wght@400;700&family=Rubik:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Tailwind CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            serif: ['Noto Serif Hebrew', 'David Libre', 'Georgia', 'serif'],
+            sans: ['Rubik', 'Assistant', 'Arial', 'sans-serif'],
+          },
+          colors: {
+            sage: { 50: '#F0F4F1', 100: '#DCE6DD', 200: '#B8CDB9', 300: '#8BAF8F', 400: '#6B8F71', 500: '#4A6B4F', 600: '#3A5440' },
+            medical: { 50: '#E8EEF4', 100: '#C5D4E6', 400: '#2D5A8E', 500: '#1E3A5F', 600: '#152A45' },
+          }
+        }
+      }
+    }
+  </script>
+
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="font-sans text-gray-800 bg-white">
+
+  <!-- ═══ NAVBAR ═══ -->
+  <nav id="navbar" class="fixed top-0 right-0 left-0 z-50">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="flex items-center justify-between h-16">
+        <a href="index.html" class="flex items-center gap-2">
+          <span class="text-sage-400 text-2xl">🌿</span>
+          <span class="font-serif text-xl font-bold text-medical-500">חיים ארוכים</span>
+        </a>
+        <div class="hidden md:flex items-center gap-8">
+          <a href="index.html" class="nav-link">ראשי</a>
+          <a href="archive.html" class="nav-link font-medium">ארכיון</a>
+          <a href="about.html" class="nav-link">אודות</a>
+        </div>
+        <button id="hamburger" class="md:hidden hamburger flex flex-col gap-[6px] p-2" aria-label="תפריט">
+          <span class="hamburger-line"></span>
+          <span class="hamburger-line"></span>
+          <span class="hamburger-line"></span>
+        </button>
+      </div>
+      <div id="mobile-menu" class="md:hidden">
+        <div class="py-4 space-y-3 border-t border-gray-100">
+          <a href="index.html" class="block text-medical-500 py-2">ראשי</a>
+          <a href="archive.html" class="block text-medical-500 font-medium py-2">ארכיון</a>
+          <a href="about.html" class="block text-medical-500 py-2">אודות</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ═══ ARCHIVE HEADER ═══ -->
+  <section class="bg-sage-50 pt-24 pb-10 px-4 sm:px-6">
+    <div class="max-w-6xl mx-auto text-center">
+      <h1 class="font-serif text-3xl font-bold text-gray-900 mb-3">ארכיון כתבות</h1>
+      <p class="text-gray-500 mb-8">כל הכתבות שפורסמו באתר, ממוינות לפי תאריך</p>
+
+      <!-- Search -->
+      <div class="max-w-md mx-auto relative">
+        <input id="search-input" type="text" placeholder="חיפוש כתבות..." class="search-input">
+        <svg class="absolute top-1/2 right-4 -translate-y-1/2 text-gray-400" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══ FILTERS + GRID ═══ -->
+  <section class="py-10 px-4 sm:px-6">
+    <div class="max-w-6xl mx-auto">
+      <!-- Category Filters -->
+      <div id="category-filters" class="flex flex-wrap gap-2 mb-8 items-center">
+        <span class="text-sm text-gray-500 ml-2">סנן לפי:</span>
+        <button class="filter-btn active" data-category="הכל">הכל</button>
+        <button class="filter-btn" data-category="מחקר">🔬 מחקר</button>
+        <button class="filter-btn" data-category="תזונה">🥗 תזונה</button>
+        <button class="filter-btn" data-category="אורח חיים">🏃 אורח חיים</button>
+        <button class="filter-btn" data-category="טכנולוגיה רפואית">🩺 טכנולוגיה רפואית</button>
+        <button class="filter-btn" data-category="גנטיקה">🧬 גנטיקה</button>
+      </div>
+
+      <!-- Results Count -->
+      <div class="flex items-center justify-between mb-6">
+        <span id="results-count" class="text-sm text-gray-400"></span>
+      </div>
+
+      <!-- Articles Grid -->
+      <div id="archive-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div class="skeleton h-48 rounded"></div>
+        <div class="skeleton h-48 rounded"></div>
+        <div class="skeleton h-48 rounded"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══ FOOTER ═══ -->
+  <footer class="footer-section py-10 px-4 sm:px-6">
+    <div class="max-w-6xl mx-auto text-center">
+      <div class="flex items-center justify-center gap-2 mb-3">
+        <span class="text-sage-300">🌿</span>
+        <span class="font-serif text-lg font-bold text-white">חיים ארוכים</span>
+      </div>
+      <p class="text-sm opacity-50">&copy; 2026 חיים ארוכים. אין לראות בתכנים ייעוץ רפואי.</p>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+  <script src="js/archive.js"></script>
+</body>
+</html>
