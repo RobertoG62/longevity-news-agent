@@ -33,16 +33,16 @@
   <!-- Custom CSS -->
   <link rel="stylesheet" href="css/styles.css">
 </head>
-<body class="font-sans text-gray-800 bg-white">
+<body class="font-sans text-gray-800">
 
   <!-- ═══ NAVBAR ═══ -->
   <nav id="navbar" class="fixed top-0 right-0 left-0 z-50">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+    <div class="max-w-[1200px] mx-auto px-4 sm:px-6 lg:px-8">
       <div class="flex items-center justify-between h-16">
         <!-- Logo -->
-        <a href="index.html" class="flex items-center gap-2">
+        <a href="index.html" class="flex items-center gap-2.5">
           <span class="text-sage-400 text-2xl">🌿</span>
-          <span class="font-serif text-xl font-bold text-medical-500">חיים ארוכים</span>
+          <span class="font-serif text-xl font-bold text-medical-500 tracking-wide">חיים ארוכים</span>
         </a>
 
         <!-- Desktop Nav -->
@@ -71,100 +71,149 @@
     </div>
   </nav>
 
-  <!-- ═══ HERO SECTION ═══ -->
-  <section class="hero-section pb-16">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 pt-12">
+  <!-- ═══ HERO — LEAD STORY ═══ -->
+  <section class="hero-section pb-12 md:pb-16">
+    <div class="max-w-[1200px] mx-auto px-4 sm:px-6 lg:px-8 pt-8">
       <!-- Site tagline -->
-      <div class="text-center mb-10" data-animate>
-        <p class="text-medical-500 text-sm tracking-wide mb-2">מבוסס מחקר מדעי | מתעדכן יומית</p>
-        <h1 class="font-serif text-3xl md:text-4xl font-bold text-gray-900 mb-3">מדע אריכות החיים, בעברית פשוטה</h1>
-        <div class="section-divider mt-4"></div>
+      <div class="text-center mb-8 md:mb-10" data-animate>
+        <p class="text-medical-400 text-sm tracking-wide mb-2 font-medium">מבוסס מחקר מדעי · מתעדכן יומית</p>
+        <h1 class="font-serif text-3xl md:text-[2.75rem] font-bold text-gray-900 mb-3 leading-tight">מדע אריכות החיים, בעברית פשוטה</h1>
+        <div class="section-divider mt-5"></div>
       </div>
 
-      <!-- Hero Card -->
-      <div class="bg-white rounded-lg shadow-md border border-gray-100 p-6 md:p-10 max-w-3xl mx-auto" data-animate>
-        <span id="hero-category" class="hero-category-badge mb-4">טוען...</span>
-        <h2 id="hero-title" class="font-serif text-2xl md:text-3xl font-bold text-gray-900 mt-4 leading-tight">טוען כתבה ראשית...</h2>
-        <p id="hero-summary" class="text-gray-600 mt-4 leading-relaxed text-lg">...</p>
+      <!-- Hero Card — full width lead story -->
+      <div class="bg-white rounded-lg shadow-lg border border-gray-100 overflow-hidden" data-animate>
+        <div class="grid grid-cols-1 lg:grid-cols-5 gap-0">
+          <!-- Main content — 3/5 width -->
+          <div class="lg:col-span-3 p-6 md:p-10">
+            <span id="hero-category" class="hero-category-badge">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+              טוען...
+            </span>
+            <h2 id="hero-title" class="font-serif text-2xl md:text-[2rem] lg:text-[2.25rem] font-bold text-gray-900 mt-5 leading-[1.4]">טוען כתבה ראשית...</h2>
+            <p id="hero-summary" class="text-gray-600 mt-4 leading-relaxed text-[1.05rem] md:text-lg">...</p>
 
-        <!-- Bottom Line inline -->
-        <div class="bottom-line-box mt-6">
-          <div class="label flex items-center gap-2">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
-            השורה התחתונה
+            <a id="hero-cta" href="#" class="inline-flex items-center gap-2 mt-6 bg-sage-400 text-white px-5 py-2.5 rounded font-medium text-sm hover:bg-sage-500 transition-colors">
+              לכתבה המלאה
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5"/><path d="M12 19l-7-7 7-7"/></svg>
+            </a>
           </div>
-          <p id="hero-bottom-line" class="text">...</p>
-        </div>
 
-        <a id="hero-cta" href="#" class="inline-flex items-center gap-2 mt-6 text-sage-400 font-medium hover:text-sage-500 transition-colors">
-          לכתבה המלאה
+          <!-- Side panel — bottom line + meta — 2/5 width -->
+          <div class="lg:col-span-2 bg-sage-50 p-6 md:p-8 flex flex-col justify-center border-t lg:border-t-0 lg:border-r border-sage-100">
+            <div class="bottom-line-box bg-white/70 border-r-sage-400">
+              <div class="label flex items-center gap-2">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+                השורה התחתונה
+              </div>
+              <p id="hero-bottom-line" class="text">...</p>
+            </div>
+
+            <!-- Stats mini -->
+            <div class="mt-6 grid grid-cols-3 gap-3">
+              <div class="text-center">
+                <div id="stat-total" class="font-serif text-2xl font-bold text-sage-400">—</div>
+                <div class="text-xs text-gray-500 mt-0.5">כתבות</div>
+              </div>
+              <div class="text-center">
+                <div class="font-serif text-2xl font-bold text-sage-400">5</div>
+                <div class="text-xs text-gray-500 mt-0.5">מקורות</div>
+              </div>
+              <div class="text-center">
+                <div class="font-serif text-2xl font-bold text-sage-400">5</div>
+                <div class="text-xs text-gray-500 mt-0.5">קטגוריות</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══ LATEST ARTICLES — 3-Column Grid ═══ -->
+  <section class="py-12 md:py-16 px-4 sm:px-6 lg:px-8">
+    <div class="max-w-[1200px] mx-auto">
+      <!-- Section Header -->
+      <div class="section-header">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#6B8F71" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+        <h2>כתבות אחרונות</h2>
+        <span class="accent-line"></span>
+        <a href="archive.html" class="text-sage-400 text-sm font-medium hover:text-sage-500 transition-colors whitespace-nowrap">כל הכתבות &larr;</a>
+      </div>
+
+      <!-- 3-Column Grid -->
+      <div id="articles-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <!-- Rendered by feed.js -->
+        <div class="skeleton h-64 rounded-lg"></div>
+        <div class="skeleton h-64 rounded-lg"></div>
+        <div class="skeleton h-64 rounded-lg"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══ CATEGORIES BAR ═══ -->
+  <section class="bg-white py-10 px-4 sm:px-6 lg:px-8 border-y border-gray-100">
+    <div class="max-w-[1200px] mx-auto">
+      <h3 class="font-serif text-lg font-bold text-gray-900 mb-5 text-center">חקרו לפי קטגוריה</h3>
+      <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-3">
+        <a href="archive.html?cat=מחקר" class="flex items-center gap-3 p-4 rounded-lg border border-gray-200 hover:border-medical-400 hover:shadow-md transition-all group">
+          <span class="w-10 h-10 rounded-lg bg-blue-50 flex items-center justify-center group-hover:bg-blue-100 transition-colors">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#1E3A5F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 2v6"/><path d="M15 2v6"/><path d="M12 17v5"/><path d="M5 8h14"/><path d="M5 8a2 2 0 0 0-2 2v4a6 6 0 0 0 12 0V10a2 2 0 0 0-2-2"/><path d="M19 8a2 2 0 0 1 2 2v1a5 5 0 0 1-5 5"/></svg>
+          </span>
+          <span class="font-medium text-sm text-gray-700 group-hover:text-medical-500">מחקר</span>
+        </a>
+        <a href="archive.html?cat=תזונה" class="flex items-center gap-3 p-4 rounded-lg border border-gray-200 hover:border-amber-400 hover:shadow-md transition-all group">
+          <span class="w-10 h-10 rounded-lg bg-amber-50 flex items-center justify-center group-hover:bg-amber-100 transition-colors">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#B45309" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 2l10 6.5V22"/><path d="M22 2L12 8.5"/><path d="M16 8c0 5.5-8 5.5-8 0"/><path d="M7.5 12c-2.5 1-4.5 3-4.5 6 0 2 1 4 4 4h10c3 0 4-2 4-4 0-3-2-5-4.5-6"/></svg>
+          </span>
+          <span class="font-medium text-sm text-gray-700 group-hover:text-amber-700">תזונה</span>
+        </a>
+        <a href="archive.html?cat=אורח חיים" class="flex items-center gap-3 p-4 rounded-lg border border-gray-200 hover:border-sage-400 hover:shadow-md transition-all group">
+          <span class="w-10 h-10 rounded-lg bg-green-50 flex items-center justify-center group-hover:bg-green-100 transition-colors">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#6B8F71" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 8a6 6 0 0 0-12 0c0 7-3 9-3 9h18s-3-2-3-9"/><circle cx="12" cy="2" r="1"/><path d="M12 2v2"/><path d="M6.5 14.5L4 17"/><path d="M17.5 14.5L20 17"/></svg>
+          </span>
+          <span class="font-medium text-sm text-gray-700 group-hover:text-sage-500">אורח חיים</span>
+        </a>
+        <a href="archive.html?cat=טכנולוגיה רפואית" class="flex items-center gap-3 p-4 rounded-lg border border-gray-200 hover:border-purple-400 hover:shadow-md transition-all group">
+          <span class="w-10 h-10 rounded-lg bg-purple-50 flex items-center justify-center group-hover:bg-purple-100 transition-colors">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#7C3AED" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"/><path d="M12 5 9.04 7.96a2.17 2.17 0 0 0 0 3.08c.82.82 2.13.85 3 .07l2.07-1.9a2.82 2.82 0 0 1 3.79 0l2.96 2.66"/><path d="m18 15-2-2"/><path d="m15 18-2-2"/></svg>
+          </span>
+          <span class="font-medium text-sm text-gray-700 group-hover:text-purple-700">טכנולוגיה רפואית</span>
+        </a>
+        <a href="archive.html?cat=גנטיקה" class="flex items-center gap-3 p-4 rounded-lg border border-gray-200 hover:border-red-400 hover:shadow-md transition-all group">
+          <span class="w-10 h-10 rounded-lg bg-red-50 flex items-center justify-center group-hover:bg-red-100 transition-colors">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#DC2626" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 15c6.667-6 13.333 0 20-6"/><path d="M9 22c1.798-1.998 2.518-3.995 2.807-5.993"/><path d="M15 2c-1.798 1.998-2.518 3.995-2.807 5.993"/><path d="m17 6-2.5-2.5"/><path d="m14 8-1-1"/><path d="m7 18 2.5 2.5"/><path d="m3.5 14.5.5.5"/><path d="m20 9 .5.5"/><path d="m6.5 12.5 1 1"/><path d="m16.5 10.5 1 1"/><path d="m10 16 1.5 1.5"/></svg>
+          </span>
+          <span class="font-medium text-sm text-gray-700 group-hover:text-red-700">גנטיקה</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══ ABOUT TEASER ═══ -->
+  <section class="py-14 px-4 sm:px-6 lg:px-8">
+    <div class="max-w-[1200px] mx-auto">
+      <div class="bg-white rounded-xl shadow-md border border-gray-100 p-8 md:p-12 flex flex-col md:flex-row items-center gap-8" data-animate>
+        <div class="flex-shrink-0 w-16 h-16 rounded-2xl bg-sage-50 flex items-center justify-center">
+          <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#6B8F71" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+        </div>
+        <div class="text-center md:text-right flex-1">
+          <h2 class="font-serif text-2xl font-bold text-gray-900 mb-2">מדע, לא טרנדים</h2>
+          <p class="text-gray-600 leading-relaxed max-w-2xl">
+            "חיים ארוכים" מסכם עבורכם את המחקרים החשובים ביותר בתחום אריכות הימים — ישירות מכתבי העת המובילים בעולם, בעברית נגישה ומבוססת ראיות. כל כתבה כוללת שורה תחתונה פרקטית שאפשר ליישם.
+          </p>
+        </div>
+        <a href="about.html" class="flex-shrink-0 inline-flex items-center gap-2 bg-medical-500 text-white px-5 py-2.5 rounded font-medium text-sm hover:bg-medical-400 transition-colors">
+          עוד על הפרויקט
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5"/><path d="M12 19l-7-7 7-7"/></svg>
         </a>
       </div>
     </div>
   </section>
 
-  <!-- ═══ LATEST ARTICLES ═══ -->
-  <section class="py-16 px-4 sm:px-6">
-    <div class="max-w-6xl mx-auto">
-      <div class="flex items-center justify-between mb-8">
-        <h2 class="font-serif text-2xl font-bold text-gray-900">כתבות אחרונות</h2>
-        <a href="archive.html" class="text-sage-400 text-sm font-medium hover:text-sage-500 transition-colors">כל הכתבות &larr;</a>
-      </div>
-
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        <!-- Main grid -->
-        <div id="articles-grid" class="col-span-full lg:col-span-2 grid grid-cols-1 md:grid-cols-2 gap-6">
-          <!-- Rendered by feed.js -->
-          <div class="skeleton h-48 rounded"></div>
-          <div class="skeleton h-48 rounded"></div>
-        </div>
-
-        <!-- Sidebar: Most Read -->
-        <aside class="lg:col-span-1">
-          <div class="bg-sage-50 rounded-lg p-6 sticky top-20">
-            <h3 class="font-serif text-lg font-bold text-gray-900 mb-4 flex items-center gap-2">
-              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
-              נקראו לאחרונה
-            </h3>
-            <div id="latest-sidebar">
-              <!-- Rendered by feed.js -->
-            </div>
-          </div>
-
-          <!-- Categories Box -->
-          <div class="mt-6 bg-white border border-gray-200 rounded-lg p-6">
-            <h3 class="font-serif text-lg font-bold text-gray-900 mb-4">קטגוריות</h3>
-            <div class="space-y-2">
-              <a href="archive.html?cat=מחקר" class="flex items-center gap-2 text-sm text-gray-600 hover:text-medical-500 py-1 transition-colors">🔬 מחקר</a>
-              <a href="archive.html?cat=תזונה" class="flex items-center gap-2 text-sm text-gray-600 hover:text-medical-500 py-1 transition-colors">🥗 תזונה</a>
-              <a href="archive.html?cat=אורח חיים" class="flex items-center gap-2 text-sm text-gray-600 hover:text-medical-500 py-1 transition-colors">🏃 אורח חיים</a>
-              <a href="archive.html?cat=טכנולוגיה רפואית" class="flex items-center gap-2 text-sm text-gray-600 hover:text-medical-500 py-1 transition-colors">🩺 טכנולוגיה רפואית</a>
-              <a href="archive.html?cat=גנטיקה" class="flex items-center gap-2 text-sm text-gray-600 hover:text-medical-500 py-1 transition-colors">🧬 גנטיקה</a>
-            </div>
-          </div>
-        </aside>
-      </div>
-    </div>
-  </section>
-
-  <!-- ═══ ABOUT TEASER ═══ -->
-  <section class="bg-sage-50 py-16 px-4 sm:px-6">
-    <div class="max-w-3xl mx-auto text-center" data-animate>
-      <h2 class="font-serif text-2xl font-bold text-gray-900 mb-4">מדע, לא טרנדים</h2>
-      <p class="text-gray-600 leading-relaxed max-w-xl mx-auto">
-        "חיים ארוכים" מסכם עבורכם את המחקרים החשובים ביותר בתחום אריכות הימים — ישירות מכתבי העת המובילים בעולם, בעברית נגישה ומבוססת ראיות.
-      </p>
-      <a href="about.html" class="inline-flex items-center gap-2 mt-6 text-sage-400 font-medium hover:text-sage-500 transition-colors">
-        עוד על הפרויקט
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5"/><path d="M12 19l-7-7 7-7"/></svg>
-      </a>
-    </div>
-  </section>
-
   <!-- ═══ FOOTER ═══ -->
-  <footer class="footer-section py-12 px-4 sm:px-6">
-    <div class="max-w-6xl mx-auto">
+  <footer class="footer-section py-12 px-4 sm:px-6 lg:px-8">
+    <div class="max-w-[1200px] mx-auto">
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
         <!-- Brand -->
         <div>
@@ -189,10 +238,9 @@
         <div>
           <h4 class="font-bold text-white mb-3">מקורות</h4>
           <div class="space-y-2">
-            <span class="block text-sm">PubMed</span>
-            <span class="block text-sm">ScienceDaily</span>
-            <span class="block text-sm">Medical News Today</span>
-            <span class="block text-sm">OpenAlex</span>
+            <span class="block text-sm">PubMed · ScienceDaily</span>
+            <span class="block text-sm">Medical News Today · OpenAlex</span>
+            <span class="block text-sm">Google News</span>
           </div>
         </div>
       </div>
