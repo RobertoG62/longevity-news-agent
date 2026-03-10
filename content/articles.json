@@ -1,5 +1,41 @@
 [
   {
+    "id": "115",
+    "title": "איך בקרת איכות ה-mRNA משפיעה על הזדקנות ומחלות גיל",
+    "summary": "מחקר מקיף בוחן כיצד מנגנוני בקרת האיכות של מולקולות mRNA בתאים משפיעים על תהליכי הזדקנות והתפתחות מחלות הקשורות לגיל. כשמערכות אלו נפגמות, חלבונים פגומים מצטברים בתאים ותורמים לנזק תאי ולמחלות ניווניות. הבנה מעמיקה יותר של תהליכים אלו עשויה להוביל לפיתוח טיפולים עתידיים.",
+    "bottomLine": "מדובר במחקר בסיסי חשוב, אך טרם קיימות המלצות פרקטיות נגזרות ממנו — המשיכו לשמור על אורח חיים בריא הכולל פעילות גופנית, תזונה נכונה ושינה איכותית.",
+    "category": "גנטיקה",
+    "publishDate": "10 במרץ 2026",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41796800/"
+  },
+  {
+    "id": "114",
+    "title": "פוליאמינים: שפה משותפת בין האדם לחיידקים המעיים שלו",
+    "summary": "מחקר חדש מגלה כיצד מולקולות קטנות הנקראות פוליאמינים משמשות כמעין 'שפה ביוכימית' בין תאי הגוף לבין חיידקי המיקרobiום במעיים. התקשורת הזו חיונית לשמירה על סימביוזה בריאה ועשויה להשפיע על תהליכי הזדקנות ובריאות כללית. הבנת מנגנון זה עשויה לפתוח דרכים חדשות להתערבויות תזונתיות וטיפוליות.",
+    "bottomLine": "שמירה על מיקרobiום מעיים בריא באמצעות תזונה עשירה בסיבים תזונתיים ומזונות מותססים עשויה לתמוך בתקשורת החיונית הזו.",
+    "category": "מחקר",
+    "publishDate": "10 במרץ 2026",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41799286/"
+  },
+  {
+    "id": "113",
+    "title": "מולטי ויטמין עשוי להאט סימני הזדקנות ביולוגיים, מראה מחקר חדש",
+    "summary": "מחקר חדש מצביע על כך שנטילת תוסף מולטי ויטמין יומי עשויה להאט תהליכים ביולוגיים מסוימים הקשורים להזדקנות. הממצאים מצטרפים לגוף מחקר הולך וגדל על הקשר בין תזונה משלימה לבריאות לטווח ארוך. עם זאת, מדובר במחקר תצפיתי ונדרש מחקר נוסף כדי לקבוע קשר סיבתי ברור.",
+    "bottomLine": "תזונה מאוזנת היא תמיד העדיפה הראשונה; תוספי ויטמינים יכולים להיות שימושיים במקרים של חסרים תזונתיים, אך יש להתייעץ עם רופא לפני נטילה קבועה.",
+    "category": "תזונה",
+    "publishDate": "10 במרץ 2026",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3BHR2RMQWZmRUFxMmpFWHllbFI1LVRTSHNVcHdBNlJQeC1ZSnBOWm91a2pfSWY0b205YnlzSnhDc2ZrdWdNWjJiejhRckZFMC1NelNxcEJpY3lySnkxUGZ6TFlIM0RreEZ6WF9wOEE5UU5YVkxOM3NwYTRQdTNzSkZiQlRyYm5LNzUyeEREZVBJZDgyU2UySDB6b2F5SVF1NWQyaGx6N3Q3OThVMzBVSHlVVUUyUQ?oc=5"
+  },
+  {
+    "id": "112",
+    "title": "מומחית טיפוח עור: שני מוצרים בלבד נדרשים להזדקנות בריאה",
+    "summary": "יזמת קוסמטיקה בכירה טוענת שניתן לפשט את שגרת הטיפוח לשני מוצרים בלבד לשם שמירה על עור בריא עם הגיל. הגישה עומדת בניגוד לתעשיית היופי המורכבת ומציעה פתרון מינימליסטי ונגיש יותר. עם זאת, יש לזכור שמדובר בדעה מקצועית אחת, לא במחקר קליני מבוקר.",
+    "bottomLine": "לפני שתפשטו את שגרת הטיפוח בעור, התייעצו עם רופא עור המכיר את סוג העור והצרכים האישיים שלכם.",
+    "category": "אורח חיים",
+    "publishDate": "10 במרץ 2026",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPTGJmNGJ4SXJkMC14dEdLeTZXTWkyNVRqX0hPQ3hIVEhUbzhsQk1LTzlSVTd6dk9hWGhqLVUtZmpncjZjSGxySFZzUXBrNE92Wkd3aF9RTnJZUVV6RmhkdXNmaTg2MVRJaXVpTDVfYVN4LWZ1Um96eTV0ekVKLWV5ZU1oQ0dwRlNMcTYxVkhOTEVkaFU0S0UzeGk5WGRmYnhXdzVWZERiLWF3a1RwcDY5bEJZcEc4ekZndHdRNVhnVlQ2cXNhQ0ZwMzZUMXBEVWpjUnlPMEpvZ0x0R0RBeGlGRnBOWmwwalFpWXlNOW04SC1TTFpKTmVOYWoyMTRXZ3lSOXdha0REUTFudDI3QVhIN3ZTWHFEVE1kV3YyQ1BsNkw4dUNMUWlLZGRVTDBiTEVuU3lXS3p6MFE3VE03YjVDNm5KYkExOE1IWVUtSmdHMW0wcjMzcFRFVUtiQ2NTOVVISUZoU2FBcjV1WHJIYmdXTXY3SVBGbTFnNFVuMWV2Q21BejVQNmc?oc=5"
+  },
+  {
     "id": "111",
     "title": "הצירוף שעובד: הגבלה קלורית ופעילות גופנית משפרים שריר מזדקן",
     "summary": "מחקר חדש בודק את המנגנון המשותף שבו הגבלה קלורית ואימוני סיבולת משפיעים על שריר השלד בגיל מבוגר. הממצאים מזהים מסלולי ויסות משותפים ויעדי התערבות פוטנציאליים לשמירה על תפקוד שרירי בהזדקנות. שילוב של שני הגורמים עשוי להציע יתרונות מעבר לכל אחד מהם בנפרד.",
