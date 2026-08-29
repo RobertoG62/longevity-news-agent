@@ -7,6 +7,14 @@
 (function () {
   'use strict';
 
+  /** Sanitize strings before inserting into HTML templates to prevent XSS */
+  function esc(str) {
+    if (!str) return '';
+    const div = document.createElement('div');
+    div.textContent = String(str);
+    return div.innerHTML;
+  }
+
   // SVG icons per category (Lucide-style)
   const CATEGORY_SVG = {
     'מחקר': '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 2v6"/><path d="M15 2v6"/><path d="M12 17v5"/><path d="M5 8h14"/><path d="M5 8a2 2 0 0 0-2 2v4a6 6 0 0 0 12 0V10a2 2 0 0 0-2-2"/><path d="M19 8a2 2 0 0 1 2 2v1a5 5 0 0 1-5 5"/></svg>',
@@ -43,7 +51,7 @@
     const ctaEl = document.getElementById('hero-cta');
 
     if (categoryEl) {
-      categoryEl.innerHTML = `${CATEGORY_SVG[article.category] || ''} ${article.category}`;
+      categoryEl.innerHTML = `${CATEGORY_SVG[article.category] || ''} ${esc(article.category)}`;
     }
     if (titleEl) titleEl.textContent = article.title;
     if (summaryEl) summaryEl.textContent = article.summary;
@@ -57,32 +65,32 @@
 
     grid.innerHTML = articles.map(article => `
       <article class="article-card ${getCategoryClass(article.category)}" data-animate>
-        <a href="article.html?id=${article.id}" class="block p-5 md:p-6 flex flex-col h-full">
+        <a href="article.html?id=${esc(article.id)}" class="block p-5 md:p-6 flex flex-col h-full">
           <!-- Category with SVG icon -->
           <span class="card-category">
             ${CATEGORY_SVG[article.category] || ''}
-            ${article.category}
+            ${esc(article.category)}
           </span>
 
           <!-- Title — larger -->
-          <h3 class="card-title">${article.title}</h3>
+          <h3 class="card-title">${esc(article.title)}</h3>
 
           <!-- Summary -->
-          <p class="card-summary mt-1 line-clamp-3 flex-1">${article.summary}</p>
+          <p class="card-summary mt-1 line-clamp-3 flex-1">${esc(article.summary)}</p>
 
           <!-- Bottom Line mini -->
           ${article.bottomLine ? `
           <div class="card-bottom-line">
             <p class="flex items-start gap-1.5">
-              <svg class="flex-shrink-0 mt-0.5" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#6B8F71" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
-              <span>${article.bottomLine}</span>
+              <svg class="flex-shrink-0 mt-0.5" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#4A6B4F" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+              <span>${esc(article.bottomLine)}</span>
             </p>
           </div>
           ` : ''}
 
           <!-- Footer -->
           <div class="flex items-center justify-between mt-4 pt-3 border-t border-gray-100">
-            <span class="card-date">${article.publishDate}</span>
+            <span class="card-date">${esc(article.publishDate)}</span>
             <span class="card-read-more">
               קרא עוד
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5"/><path d="M12 19l-7-7 7-7"/></svg>

@@ -3,37 +3,34 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Security policy declared before any resource so it governs them all.
+       frame-ancestors / X-Content-Type-Options need real headers, which
+       GitHub Pages cannot set - see governance/README.md -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; base-uri 'self'; form-action 'self'">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+
+  <!-- Self-hosted assets: zero third-party requests. See governance/README.md -->
+  <link rel="stylesheet" href="assets/css/tailwind.css">
+  <link rel="stylesheet" href="assets/fonts/fonts.css">
   <title>חיים ארוכים — חדשות בריאות ואריכות ימים</title>
   <meta name="description" content="פורטל החדשות המוביל בעברית לבריאות, אריכות ימים ומחקר מדעי. סיכומים יומיים מבוססי ראיות.">
 
-  <!-- Fonts -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Hebrew:wght@400;700&family=Rubik:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-
-  <!-- Tailwind CDN -->
-  <script src="https://cdn.tailwindcss.com"></script>
-  <script>
-    tailwind.config = {
-      theme: {
-        extend: {
-          fontFamily: {
-            serif: ['Noto Serif Hebrew', 'David Libre', 'Georgia', 'serif'],
-            sans: ['Rubik', 'Assistant', 'Arial', 'sans-serif'],
-          },
-          colors: {
-            sage: { 50: '#F0F4F1', 100: '#DCE6DD', 200: '#B8CDB9', 300: '#8BAF8F', 400: '#6B8F71', 500: '#4A6B4F', 600: '#3A5440' },
-            medical: { 50: '#E8EEF4', 100: '#C5D4E6', 400: '#2D5A8E', 500: '#1E3A5F', 600: '#152A45' },
-          }
-        }
-      }
-    }
-  </script>
-
   <!-- Custom CSS -->
   <link rel="stylesheet" href="css/styles.css">
+  <style>
+    /* ===== Contrast corrections (29.08.2026) =====
+       sage-400 (#6B8F71) is the brand green. It reads at 3.63:1 both as text
+       on white and as a background behind white text - under AA either way.
+       sage-500 gives 5.99:1 in both roles, so text roles use it; the lighter
+       tone stays for borders and decorative fills. */
+    .text-sage-400 { color: #4A6B4F !important; }
+    .bg-sage-400   { background-color: #4A6B4F !important; }
+    .text-gray-500 { color: #4B5563 !important; }
+    .text-gray-400 { color: #4B5563 !important; }
+  </style>
 </head>
 <body class="font-sans text-gray-800">
+  <a href="#main" class="skip-link">דלג לתוכן העיקרי</a>
 
   <!-- ═══ NAVBAR ═══ -->
   <nav id="navbar" class="fixed top-0 right-0 left-0 z-50">
@@ -72,11 +69,12 @@
   </nav>
 
   <!-- ═══ HERO — LEAD STORY ═══ -->
+  <main id="main">
   <section class="hero-section pb-12 md:pb-16">
     <div class="max-w-[1200px] mx-auto px-4 sm:px-6 lg:px-8 pt-8">
       <!-- Site tagline -->
       <div class="text-center mb-8 md:mb-10" data-animate>
-        <p class="text-medical-400 text-sm tracking-wide mb-2 font-medium">מבוסס מחקר מדעי · מתעדכן יומית</p>
+        <p class="text-medical-400 text-sm tracking-wide mb-2 font-medium">סיכומים בסיוע AI · מבוסס פרסומים מדעיים</p>
         <h1 class="font-serif text-3xl md:text-[2.75rem] font-bold text-gray-900 mb-3 leading-tight">מדע אריכות החיים, בעברית פשוטה</h1>
         <div class="section-divider mt-5"></div>
       </div>
@@ -212,6 +210,8 @@
   </section>
 
   <!-- ═══ FOOTER ═══ -->
+  </main>
+
   <footer class="footer-section py-12 px-4 sm:px-6 lg:px-8">
     <div class="max-w-[1200px] mx-auto">
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
@@ -221,12 +221,12 @@
             <span class="text-sage-300 text-xl">🌿</span>
             <span class="font-serif text-lg font-bold text-white">חיים ארוכים</span>
           </div>
-          <p class="text-sm opacity-70 leading-relaxed">חדשות בריאות ואריכות ימים מבוססות מחקר מדעי. מתעדכן אוטומטית כל יום.</p>
+          <p class="text-sm opacity-80 leading-relaxed">סיכומי חדשות בריאות ואריכות ימים, שנכתבו בסיוע בינה מלאכותית.</p>
         </div>
 
         <!-- Links -->
         <div>
-          <h4 class="font-bold text-white mb-3">ניווט</h4>
+          <h3 class="font-bold text-white mb-3">ניווט</h3>
           <div class="space-y-2">
             <a href="index.html" class="block text-sm">ראשי</a>
             <a href="archive.html" class="block text-sm">ארכיון כתבות</a>
@@ -236,7 +236,7 @@
 
         <!-- Sources -->
         <div>
-          <h4 class="font-bold text-white mb-3">מקורות</h4>
+          <h3 class="font-bold text-white mb-3">מקורות</h3>
           <div class="space-y-2">
             <span class="block text-sm">PubMed · ScienceDaily</span>
             <span class="block text-sm">Medical News Today · OpenAlex</span>
@@ -245,8 +245,30 @@
         </div>
       </div>
 
-      <div class="border-t border-white/10 pt-6 text-center text-sm opacity-50">
-        &copy; 2026 חיים ארוכים. כל התכנים מבוססים על מקורות מדעיים ציבוריים. אין לראות בתכנים ייעוץ רפואי.
+      <div class="border-t border-white/10 pt-6 mb-6">
+        <p class="text-sm leading-relaxed opacity-90 max-w-3xl mx-auto text-center">
+          <strong class="text-white">שקיפות AI:</strong>
+          הכתבות באתר <strong class="text-white">נכתבו ונערכו בסיוע בינה מלאכותית</strong> — הסיכומים, הכותרות ושורות
+          ה"שורה תחתונה" הם תוצר של מודל שפה, לא של כתב אנושי. ייתכנו אי-דיוקים, פרשנות שגויה של ממצא מחקרי, או מידע שאינו מעודכן.
+        </p>
+        <p class="text-sm leading-relaxed opacity-90 max-w-3xl mx-auto text-center mt-3">
+          <strong class="text-white">אין באתר ייעוץ רפואי.</strong>
+          התכנים הם מידע כללי בלבד ואינם תחליף לאבחון, לטיפול או להתייעצות עם רופא. אל תתחיל, תפסיק או תשנה טיפול,
+          תוסף או תרופה על סמך מה שקראת כאן. במצב רפואי — פנה לרופא.
+        </p>
+        <p class="text-sm leading-relaxed opacity-90 max-w-3xl mx-auto text-center mt-3">
+          <strong class="text-white">קראו את המקור.</strong>
+          לכל כתבה מצורף קישור למקור. סיכום אינו תחליף למחקר עצמו, וממצא מוקדם אינו המלצה קלינית.
+        </p>
+      </div>
+      <div class="flex flex-wrap justify-center gap-x-8 gap-y-2 text-sm mb-6">
+        <a href="privacy.html" class="opacity-90 hover:opacity-100 hover:underline">מדיניות פרטיות</a>
+        <a href="terms.html" class="opacity-90 hover:opacity-100 hover:underline">תנאי שימוש</a>
+        <a href="accessibility.html" class="opacity-90 hover:opacity-100 hover:underline">הצהרת נגישות</a>
+      </div>
+
+      <div class="border-t border-white/10 pt-6 text-center text-sm opacity-80">
+        &copy; 2026 חיים ארוכים
       </div>
     </div>
   </footer>

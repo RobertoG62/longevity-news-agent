@@ -3,35 +3,32 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Security policy declared before any resource so it governs them all.
+       frame-ancestors / X-Content-Type-Options need real headers, which
+       GitHub Pages cannot set - see governance/README.md -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; base-uri 'self'; form-action 'self'">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+
+  <!-- Self-hosted assets: zero third-party requests. See governance/README.md -->
+  <link rel="stylesheet" href="assets/css/tailwind.css">
+  <link rel="stylesheet" href="assets/fonts/fonts.css">
   <title>אודות — חיים ארוכים</title>
 
-  <!-- Fonts -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Hebrew:wght@400;700&family=Rubik:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-
-  <!-- Tailwind CDN -->
-  <script src="https://cdn.tailwindcss.com"></script>
-  <script>
-    tailwind.config = {
-      theme: {
-        extend: {
-          fontFamily: {
-            serif: ['Noto Serif Hebrew', 'David Libre', 'Georgia', 'serif'],
-            sans: ['Rubik', 'Assistant', 'Arial', 'sans-serif'],
-          },
-          colors: {
-            sage: { 50: '#F0F4F1', 100: '#DCE6DD', 200: '#B8CDB9', 300: '#8BAF8F', 400: '#6B8F71', 500: '#4A6B4F', 600: '#3A5440' },
-            medical: { 50: '#E8EEF4', 100: '#C5D4E6', 400: '#2D5A8E', 500: '#1E3A5F', 600: '#152A45' },
-          }
-        }
-      }
-    }
-  </script>
-
   <link rel="stylesheet" href="css/styles.css">
+  <style>
+    /* ===== Contrast corrections (29.08.2026) =====
+       sage-400 (#6B8F71) is the brand green. It reads at 3.63:1 both as text
+       on white and as a background behind white text - under AA either way.
+       sage-500 gives 5.99:1 in both roles, so text roles use it; the lighter
+       tone stays for borders and decorative fills. */
+    .text-sage-400 { color: #4A6B4F !important; }
+    .bg-sage-400   { background-color: #4A6B4F !important; }
+    .text-gray-500 { color: #4B5563 !important; }
+    .text-gray-400 { color: #4B5563 !important; }
+  </style>
 </head>
 <body class="font-sans text-gray-800 bg-white">
+  <a href="#main" class="skip-link">דלג לתוכן העיקרי</a>
 
   <!-- ═══ NAVBAR ═══ -->
   <nav id="navbar" class="fixed top-0 right-0 left-0 z-50">
@@ -63,7 +60,7 @@
   </nav>
 
   <!-- ═══ ABOUT CONTENT ═══ -->
-  <main class="pt-24 pb-16 px-4 sm:px-6">
+  <main id="main" class="pt-24 pb-16 px-4 sm:px-6">
     <div class="max-w-3xl mx-auto">
 
       <!-- Header -->
@@ -162,7 +159,18 @@
         <span class="text-sage-300">🌿</span>
         <span class="font-serif text-lg font-bold text-white">חיים ארוכים</span>
       </div>
-      <p class="text-sm opacity-50">&copy; 2026 חיים ארוכים. אין לראות בתכנים ייעוץ רפואי.</p>
+      <p class="text-sm leading-relaxed opacity-90 max-w-3xl mx-auto mb-4">
+        <strong class="text-white">שקיפות AI:</strong>
+        הכתבות באתר <strong class="text-white">נכתבו ונערכו בסיוע בינה מלאכותית</strong>. ייתכנו אי-דיוקים או פרשנות שגויה של ממצא מחקרי.
+        <strong class="text-white">אין באתר ייעוץ רפואי</strong> — התכנים אינם תחליף לאבחון, לטיפול או להתייעצות עם רופא.
+        אל תתחיל, תפסיק או תשנה טיפול על סמך מה שקראת כאן.
+      </p>
+      <div class="flex flex-wrap justify-center gap-x-8 gap-y-2 text-sm mb-4">
+        <a href="privacy.html" class="opacity-90 hover:opacity-100 hover:underline">מדיניות פרטיות</a>
+        <a href="terms.html" class="opacity-90 hover:opacity-100 hover:underline">תנאי שימוש</a>
+        <a href="accessibility.html" class="opacity-90 hover:opacity-100 hover:underline">הצהרת נגישות</a>
+      </div>
+      <p class="text-sm opacity-80">&copy; 2026 חיים ארוכים</p>
     </div>
   </footer>
 

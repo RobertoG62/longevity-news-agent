@@ -6,6 +6,14 @@
 (function () {
   'use strict';
 
+  /** Sanitize strings before inserting into HTML templates to prevent XSS */
+  function esc(str) {
+    if (!str) return '';
+    const div = document.createElement('div');
+    div.textContent = String(str);
+    return div.innerHTML;
+  }
+
   const CATEGORY_ICONS = {
     'מחקר': '🔬',
     'תזונה': '🥗',
@@ -48,12 +56,12 @@
       const catClass = 'cat-' + article.category.replace(/\s+/g, '-');
       return `
         <article class="article-card ${catClass}" data-animate>
-          <a href="article.html?id=${article.id}" class="block p-6">
-            <span class="card-category">${CATEGORY_ICONS[article.category] || ''} ${article.category}</span>
-            <h3 class="card-title">${article.title}</h3>
-            <p class="card-summary mt-2 line-clamp-3">${article.summary}</p>
+          <a href="article.html?id=${esc(article.id)}" class="block p-6">
+            <span class="card-category">${CATEGORY_ICONS[article.category] || ''} ${esc(article.category)}</span>
+            <h3 class="card-title">${esc(article.title)}</h3>
+            <p class="card-summary mt-2 line-clamp-3">${esc(article.summary)}</p>
             <div class="flex items-center justify-between mt-4">
-              <span class="card-date">${article.publishDate}</span>
+              <span class="card-date">${esc(article.publishDate)}</span>
               <span class="card-read-more">
                 קרא עוד
                 <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5"/><path d="M12 19l-7-7 7-7"/></svg>

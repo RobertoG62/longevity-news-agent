@@ -35,6 +35,26 @@ const MAX_ARTICLES_PER_BATCH = 10;
 
 // ── Helpers ──────────────────────────────────────────────
 
+/** Sanitize external text to prevent prompt injection and control chars */
+function sanitizeText(str, maxLen = 300) {
+  if (!str) return '';
+  return str
+    .replace(/[\x00-\x08\x0B\x0C\x0E-\x1F]/g, '') // control chars
+    .replace(/[<>{}]/g, '')                           // HTML/template chars
+    .trim()
+    .substring(0, maxLen);
+}
+
+/** Validate URL format */
+function isValidUrl(url) {
+  try {
+    const parsed = new URL(url);
+    return ['http:', 'https:'].includes(parsed.protocol);
+  } catch {
+    return false;
+  }
+}
+
 function hebrewDate() {
   return new Date().toLocaleDateString("he-IL", {
     day: "numeric",
@@ -67,10 +87,12 @@ function parseRSSItems(xml) {
   let match;
   while ((match = regex.exec(xml)) !== null) {
     const rawTitle = match[1].trim().replace(/<!\[CDATA\[|\]\]>/g, "");
+    const link = match[2].trim();
+    if (!isValidUrl(link)) continue;
     items.push({
-      title: rawTitle.trim(),
-      link: match[2].trim(),
-      pubDate: match[3].trim(),
+      title: sanitizeText(rawTitle),
+      link: link,
+      pubDate: sanitizeText(match[3].trim(), 50),
     });
   }
   return items;
@@ -196,7 +218,7 @@ async function summarizeWithClaude(items) {
   }
 
   const itemsList = batch
-    .map((item, i) => `[${i + 1}] Title: ${item.title}\n    Source: ${item.source}\n    URL: ${item.link}\n    Date: ${item.pubDate}`)
+    .map((item, i) => `[${i + 1}] Title: ${sanitizeText(item.title)}\n    Source: ${sanitizeText(item.source, 100)}\n    URL: ${item.link}\n    Date: ${sanitizeText(item.pubDate, 50)}`)
     .join("\n\n");
 
   const res = await fetch("https://api.anthropic.com/v1/messages", {
@@ -275,7 +297,13 @@ async function main() {
 
   // ── Mode 1: --apply with --articles=JSON (manual inject) ──
   if (applyMode && articlesJson) {
-    const newArticles = JSON.parse(articlesJson.slice("--articles=".length));
+    let newArticles;
+    try {
+      newArticles = JSON.parse(articlesJson.slice("--articles=".length));
+    } catch (e) {
+      console.error("Failed to parse --articles JSON:", e.message);
+      process.exit(1);
+    }
     const existing = loadExisting();
     let maxId = existing.reduce((max, a) => Math.max(max, parseInt(a.id, 10) || 0), 0);
 
