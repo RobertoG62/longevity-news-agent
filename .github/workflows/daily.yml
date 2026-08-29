@@ -1,8 +1,22 @@
-name: Daily Longevity News Sync
+name: Longevity News Sync (manual, review-gated)
+
+# The schedule was removed on 29.08.2026.
+#
+# This workflow used to run every day at 06:00 UTC and push AI-written health
+# summaries straight to master - so they went live on the site with nobody
+# having read them. On a site about metformin, fasting, supplements and
+# anti-ageing drugs, that is not an acceptable default.
+#
+# What changed:
+#   * no schedule - it runs only when a person starts it
+#   * it no longer pushes to master. New articles land on a content-review
+#     branch and reach the live site only through a pull request, which is the
+#     human review step that was missing.
+#
+# To publish:  Actions -> this workflow -> Run workflow -> review and merge
+#              the pull request it opens.
 
 on:
-  schedule:
-    - cron: '0 6 * * *'  # Every day at 06:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -10,10 +24,13 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pull-requests: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -25,10 +42,41 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
-      - name: Commit updated content
+      - name: Push proposed content to a review branch
         run: |
+          set -e
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet -- content/articles.json; then
+            echo "No new articles - nothing to review."
+            exit 0
+          fi
+
+          BRANCH="content-review/$(date -u +%Y-%m-%d-%H%M)"
+          git checkout -b "$BRANCH"
           git add content/articles.json
-          git diff --cached --quiet || git commit -m "chore: daily article sync $(date -u +%Y-%m-%d)"
-          git push
+          git commit -m "content: proposed article sync $(date -u +%Y-%m-%d)"
+          git push origin "$BRANCH"
+
+          echo "REVIEW_BRANCH=$BRANCH" >> "$GITHUB_ENV"
+          echo "Proposed content pushed to $BRANCH."
+
+      - name: Open a pull request for review
+        if: env.REVIEW_BRANCH != ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh pr create \
+            --base master \
+            --head "$REVIEW_BRANCH" \
+            --title "Review: proposed longevity articles $(date -u +%Y-%m-%d)" \
+            --body "AI-generated health summaries awaiting review.
+
+          Before merging, check each new article for:
+          - a real source link, with no placeholder domains
+          - claims that match what the source actually says
+          - early-stage findings not presented as clinical recommendations
+          - missing caveats on dosage, interactions or contraindications
+
+          Nothing here is live until this pull request is merged."
