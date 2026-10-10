@@ -396,10 +396,11 @@ async function main() {
     let maxId = existing.reduce((max, a) => Math.max(max, parseInt(a.id, 10) || 0), 0);
     let added = 0;
     // The site renders sourceUrl as a link — accept only a URL we fetched, never one the model wrote
-    const fetchedLinks = new Set(newItems.map((item) => item.link));
+    const fetchedByLink = new Map(newItems.map((item) => [item.link, item]));
 
     for (const article of summarized) {
-      if (!fetchedLinks.has(article.sourceUrl)) {
+      const source = fetchedByLink.get(article.sourceUrl);
+      if (!source) {
         console.log(`  SKIP (sourceUrl not among fetched links): ${String(article.sourceUrl).slice(0, 80)}`);
         continue;
       }
@@ -416,6 +417,8 @@ async function main() {
         category: article.category,
         publishDate: hebrewDate(),
         sourceUrl: article.sourceUrl,
+        // Kept for the NotebookLM source doc (Apps Script reads it from the published JSON)
+        abstract: source.abstract,
       };
       existing.unshift(entry);
       added++;

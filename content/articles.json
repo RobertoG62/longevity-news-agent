@@ -6,7 +6,8 @@
     "bottomLine": "תוספי פרוביוטיקה עשויים לתרום להפחתת דלקת קשורת גיל ושיפור מדדים מטבוליים, אך נדרשת התאמה אישית בהתבסס על מחקר עתידי.",
     "category": "תזונה",
     "publishDate": "10 באוקטובר 2026",
-    "sourceUrl": "https://doi.org/10.1016/j.jff.2026.107543"
+    "sourceUrl": "https://doi.org/10.1016/j.jff.2026.107543",
+    "abstract": "Aging is a complex process marked by progressive functional decline and a chronic low-grade inflammatory state termed “inflammaging”, which together form a detrimental cycle that accelerates age-related decline. This state is characterized by an imbalance in pro-inflammatory cytokines (e.g., IL-6, TNF-α) and anti-inflammatory regulators (e.g., IL-10), driven by mechanisms such as oxidative stress, telomere attrition, and cellular senescence, with signaling pathways like NF-κB, JAK-STAT, Wnt/β-Catenin, and NFAT. Targeting the gut microbiome has emerged as a promising strategy to modulate this process, as age-related dysbiosis is a recognized hallmark of aging. Evidence indicates that specific probiotics and postbiotics can counteract inflammaging by restoring gut barrier integrity, reducing the translocation of pro-inflammatory endotoxins, and promoting the production of anti-inflammatory short-chain fatty acids (SCFAs) like butyrate. Clinically, probiotic supplementation has been shown to improve metabolic parameters (e.g., blood glucose and lipid levels), slow neurodegeneration by reducing β-amyloid accumulation, and modulate aging biomarkers such as telomere length. Despite promising outcomes, challenges remain in areas like strain- and individual-specific effects, along with dose standardization. Future efforts should focus on developing personalized probiotic regimens leveraging multi-omics technologies. This review systematically integrates cutting-edge developments in strain-specific mechanisms, preclinical and clinical evidence, and delivery system optimization, filling a gap in the field and providing theoretical reference for interventions in aging-related inflammation and the development of functional probiotics. Given their multi-target regulatory potential, probiotics represent a promising strategy for counteracting inflammation-associated aging."
   },
   {
     "id": "169",
@@ -15,7 +16,8 @@
     "bottomLine": "מחקר בסיסי — עדיין אין המלצה מעשית.",
     "category": "מחקר",
     "publishDate": "10 באוקטובר 2026",
-    "sourceUrl": "https://doi.org/10.64898/2026.09.30.755717"
+    "sourceUrl": "https://doi.org/10.64898/2026.09.30.755717",
+    "abstract": "Aging populations face a growing burden of neurodegenerative disease and behavioral decline. The microbiota is increasingly implicated in host physiology, highlighting an urgent need to understand how gut microbes modulate brain function and late life health. Here, we develop a high-throughput microbe-host screening platform to systematically dissect how bacterial genes shape organismal behavior. Using the Escherichia coli Keio library of 3,985 distinct non-essential single-gene deletion mutants in combination with Caenorhabditis elegans , we quantitatively profiled 768 behavioral features per bacterial clone and uncovered a coherent module of bacterial genes involved in iron homeostasis that robustly reprogrammed host behavior. Bacterial omics analyses revealed that alterations in iron homeostasis amplify siderophore production in a TCA cycle-dependent manner, and loss of enterobactin biosynthesis abolished the bacteria-induced changes in worm movement. Transcriptional, molecular and functional studies demonstrated that bacterial enterobactin activates host neuromuscular responses to shape both lifespan and healthspan in a manner dependent on the mitochondrial unfolded protein response. Thermal proteome profiling identified mitochondrial glutaryl-CoA dehydrogenase and the electron-transfer flavoproteins A and B as enterobactin-binding targets that control mitochondrial function. Finally, genetic manipulation of neuronal mitochondrial and cytosolic reactive oxygen species via superoxide dismutase and catalase revealed that redox state modulates enterobactin-driven changes in movement and lifespan through the secretin-family GPCR neuropeptide receptor PDFR-1. Together, these findings establish microbial enterobactin as a non-canonical neurotransmitter regulating neuronal mitochondrial function, behavior and aging, defining a gut bacteria-brain axis with broad implications for maintaining late-life health."
   },
   {
     "id": "168",
@@ -24,7 +26,8 @@
     "bottomLine": "שילוב פירות יער ועוף בתפריט והפחתת ממתקים ומזון מטוגן עשויים לתרום להזדקנות מוחית בריאה יותר.",
     "category": "תזונה",
     "publishDate": "10 באוקטובר 2026",
-    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260930225503.htm"
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260930225503.htm",
+    "abstract": "People who followed the MIND diet more closely showed slower brain shrinkage and less grey matter loss over time, with the strongest differences equivalent to about 2.5 years of delayed brain aging. Berries and poultry were linked with healthier brain changes, while sweets and fried fast foods were associated with greater tissue loss."
   },
   {
     "id": "167",
@@ -33,7 +36,8 @@
     "bottomLine": "מבוגרים המעוניינים להפחית שומן תוך שימור שריר עשויים לשקול אימוני HIIT במקום אימונים בעצימות בינונית, בהתאם למצבם הבריאותי.",
     "category": "אורח חיים",
     "publishDate": "10 באוקטובר 2026",
-    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261007233348.htm"
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261007233348.htm",
+    "abstract": "A six-month study suggests that high-intensity interval training (HIIT) may offer older adults a powerful advantage: losing body fat while keeping their muscle. Unlike moderate-intensity workouts, which led to a small loss of lean muscle, HIIT preserved it while also improving body composition around the waist."
   },
   {
     "id": "166",
@@ -42,7 +46,9 @@
     "bottomLine": "פעילות גופנית סדירה היא כלי מרכזי לשמירה על מסת שריר ועצמאות תפקודית בגיל מבוגר.",
     "category": "אורח חיים",
     "publishDate": "20 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41856626/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41856626/",
+    "abstract": "Objective: To explore the association between total physical activity, different types of activities, and sarcopenia among older adults aged 65 years and above in 18 longevity areas of China. Methods: The study participants were from the Healthy Ageing and Biomarkers Cohort Study (HABCS) conducted in 2021 across 18 longevity areas in China, with a total of 5 224 adults aged 65 years and above included. Information of sociodemographic characteristics, lifestyle, and physical measurements was collected through questionnaires and physical examinations. Total physical activity was assessed by the Physical Activity Scale for the Elderly (PASE), and the prevalence of sarcopenia was evaluated by the SARC-CalF scale. Participants were categorized into four groups based on their total score of physical activity: no physical activity and, among those with activity, low, moderate, and high levels defined by the tertiles of the activity score. Multivariate logistic regression was employed to analyze the association between physical activity score and sarcopenia. Restricted cubic splines (RCS) were used to examine the exposure-response relationships between physical activity score and sarcopenia. Results: The mean age of the 5 224 participants was (85.42&#xb1;11.56) years. The total physical activity, leisure-time activity, and household activity score [M (Q1, Q3)] were: 52.20 (8.60, 106.00), 8.60 (0.00, 21.40), and 35.00 (0.00, 81.00), respectively. The prevalence of sarcopenia was 50.36%. Multivariate logistic regression analysis showed that after adjusting for confounders, for every increase of one interquartile range (IQR) in total physical activity score, the risk of sarcopenia decreases by 58% (OR=0.42, 95%CI: 0.37-0.49). Compared with inactive individuals, the risks of sarcopenia were reduced by 40% (OR=0.60, 95%CI: 0.48-0.75), 59% (OR=0.41, 95%CI: 0.33-0.52) and 73% (OR=0.27, 95%CI: 0.21-0.34) in the low, moderate, and high physical activity groups, respectively, with a ",
+    "legacy": true
   },
   {
     "id": "165",
@@ -51,7 +57,9 @@
     "bottomLine": "שמירה על פעילות גופנית קבועה גם בגיל מבוגר עשויה להגן על הכבד ולתמוך באיכות חיים טובה יותר.",
     "category": "אורח חיים",
     "publishDate": "20 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41856627/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41856627/",
+    "abstract": "Objective: To investigate the association between physical activity (PA) levels and types (leisure and household) and the risk of non-alcoholic fatty liver disease (NAFLD) among elderly adults aged 65 and above in 18 longevity regions in China. Methods: Participants were derived from the 2021 cross-sectional survey of the Healthy Ageing and Biomarkers Cohort Study (HABCS), involving a total of 3 283 elderly adults aged 65 and above. Demographic characteristics, lifestyle factors, and chronic disease history were collected through questionnaires and physical examinations. PA status was assessed using the Physical Activity Scale for the Elderly (PASE). NAFLD was defined based on the Fatty Liver Index (FLI) and daily alcohol intake. Multivariable logistic regression models were employed to analyze the associations between different PA levels and types with the risk of NAFLD. Restricted cubic splines (RCS) were used to analyze the exposure-response relationship between physical activity and NAFLD. Results: The mean age of the 3 283 participants was (85.57&#xb1;10.77) years, with the median (Q1, Q3) PASE score of 68.60 (25.00, 111.80) and the prevalence of NAFLD about 29.5% (963). Multivariable logistic regression results showed that after adjusting for relevant confounders, each one interquartile range (IQR) increase in total PASE score was associated with a 20% reduction in the risk of NAFLD (OR=0.80, 95%CI: 0.69-0.91). No statistically significant associations were observed for individuals engaging in household activities only or leisure activities only. The RCS model indicated a negative association between physical activity levels and NAFLD risk (Poverall&lt;0.001, Pnon-linear=0.295). Conclusion: Physical activity level is inversely associated with the prevalence of NAFLD among elderly adults aged 65 and above in 18 longevity regions of China. &#x76ee;&#x7684;&#xff1a; &#x63a2;&#x8ba8;&#x6211;&#x56fd;18&#x4e2a;&#x957f;&#x5bff;&#x5730;&#x533a;&#x2265;65&#x5c81;&#x8001",
+    "legacy": true
   },
   {
     "id": "164",
@@ -78,7 +86,9 @@
     "bottomLine": "דיאטה עשירה במזונות אנטי דלקתיים (פירות, ירקות, דגים, אגוזים) משפיעה לא רק על דלקת אלא גם על מיקרוביום והביטוי הגנטי שלכם.",
     "category": "תזונה",
     "publishDate": "19 במרץ 2026",
-    "sourceUrl": "https://doi.org/10.3390/ijms27062734"
+    "sourceUrl": "https://doi.org/10.3390/ijms27062734",
+    "abstract": "An anti-inflammatory dietary pattern represents a key component of non-pharmacological management in obesity and metabolic syndrome (MetS), as it targets chronic low-grade inflammation, adipose tissue dysfunction, insulin resistance, and disturbances of the gut-metabolic axis. In the present work, we outline a framework for an \"omics-based\" approach that integrates data on gut microbiota composition and function (metagenomics), adipokine profiles, nutrigenomics, epigenetics, and related transcriptomic and metabolomic layers in order to enable more precise characterization of the metabolic phenotype and to support precision nutrition strategies. The proposed dietary model emphasizes the quality rather than merely the quantity of macronutrients, with particular focus on lipid profile optimization. Specifically, total fat intake is recommended to remain below 30% of total energy through the reduction in saturated fatty acids (SFA), trans fats, and excessive omega-6 fatty acids, alongside increased consumption of omega-3 PUFA (EPA/DHA) and plant-based sources of α-linolenic acid (ALA). Concurrently, greater intake of lean protein sources and low-glycemic-index carbohydrates rich in dietary fibre-particularly fermentable fractions-is recommended. The model also highlights the importance of polyphenols with antioxidant and immunomodulatory properties. To enhance feasibility and long-term adherence, recommendations are structured as flexible food substitutions rather than rigid prescriptions. Further well-designed interventional studies are required to confirm the impact of a multi-omics-based anti-inflammatory diet on both molecular and clinical endpoints.",
+    "legacy": true
   },
   {
     "id": "161",
@@ -87,7 +97,9 @@
     "bottomLine": "אין להשתמש בתוספי סלניום במינונים גבוהים ללא הדרכה מקצועית — יותר לא בהכרח טוב יותר.",
     "category": "תזונה",
     "publishDate": "19 במרץ 2026",
-    "sourceUrl": "https://doi.org/10.3390/stresses6010015"
+    "sourceUrl": "https://doi.org/10.3390/stresses6010015",
+    "abstract": "Selenium (Se) is a trace element with a narrow margin between beneficial effects and stress from toxic effects. The determinants of the transition from selenium adequacy to toxicity remain unknown. Moreover, the roles of selenoproteins and other adaptive responses also remain unclear. The effects of dynamic and localized redox fluctuations on survival and neurodegeneration also require further investigation. To better understand the underlying mechanisms, several studies utilized the nematode Caenorhabditis elegans (C. elegans) as a model. This review systematically addresses pivotal mechanistic controversies. Thioredoxin reductase-1 (TRXR-1) is the only protein in a small amount of the selenoproteome, and it also has a fully conserved selenocysteine insertion mechanism. Moreover, this systematic review also incorporates the current understanding of the molecular factors that determine selenium homeostasis, ranging from neurotoxicological diseases to biosynthetic circumstances. TRXR-1 supports health benefits such as enhance lipid metabolism, longevity, and stress response. During acute selenium toxicity, TRXR-1 is not needed for survival. Instead, cells defend against adverse effects by using the HIF-1 pathway. Reactive oxygen species (ROS) and hydrogen sulfide (H2S) inhibit the prolyl hydroxylase EGL-9 in high-selenium conditions, stabilizing HIF-1 and initiating a transcriptional detoxification process independent of the selenoprotein mechanism. Finally, this review also discuss selective neurotoxicity, a condition in which degeneration that occurs solely in cholinergic ventral cord motor neurons plays a distinctive and precarious role among trace elements.",
+    "legacy": true
   },
   {
     "id": "160",
@@ -105,7 +117,9 @@
     "bottomLine": "שמירה על מיקרוביום מעיים בריא לאורך החיים — באמצעות תזונה מגוונת ועשירה בסיבים — עשויה להשפיע על קצב ההזדקנות.",
     "category": "מחקר",
     "publishDate": "19 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41850660/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41850660/",
+    "abstract": "The gut microbiota communicates with the homeostatic systems (nervous, immune, and endocrine). As we age, there is an increase in oxidative stress, which can deteriorate these systems, the microbiota, and the communication between them. It has been suggested that the microbiota influence the aging process, though its specific effects remain unclear. This study aimed to assess the impact of transferring microbiota from old to adult mice on behavioral, immune, and redox parameters, as well as their rate of aging and longevity. Adult female mice were divided into three groups (N&#x202f;=&#x202f;10/group): old microbiota (received 200&#x202f;&#x3bc;L of old mice feces resuspended in PBS/3 days week/2 weeks, after a previous intestinal lavage with polyethylene glycol), adult microbiota (received adult mouse feces following the same procedure), and control (no manipulation). Feces were collected after treatment for microbiota and short-chain fatty acid analyses. After microbiota transfer, behavioral tests were performed, and peritoneal leukocytes were extracted to analyze immune and redox parameters, and to quantify biological age. These parameters were re-evaluated in old age, and the animals' longevity was recorded. The results showed that old microbiota group was characterized by the increase of Akkermansia, Anaerostipes, Dubosiella, and Ruminococcus, among others. In addition, the group displayed elevated levels of anxiety, impaired immune function, and increased oxidative-inflammatory stress, effects that continued into old age. These changes translated into higher biological age and lower longevity. In conclusion, microbiota transfer from old to adult mice disrupts neuroimmune homeostasis, increases oxidative-inflammatory stress and accelerates aging process, reducing longevity.",
+    "legacy": true
   },
   {
     "id": "158",
@@ -114,7 +128,9 @@
     "bottomLine": "שתיית קפה במתינות כחלק משגרת יומיומית עשויה לתרום להגנה על התפקוד הקוגניטיבי לאורך זמן.",
     "category": "תזונה",
     "publishDate": "19 במרץ 2026",
-    "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260318033138.htm"
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260318033138.htm",
+    "abstract": "Your morning coffee or tea could be quietly supporting your brain health. A long-term study found that moderate consumption of caffeinated coffee or tea was linked to an 18% lower risk of dementia and better cognitive performance over time. The benefits appeared strongest at 2–3 cups of coffee or 1–2 cups of tea daily—and even held true for people genetically predisposed to dementia.",
+    "legacy": true
   },
   {
     "id": "157",
@@ -141,7 +157,9 @@
     "bottomLine": "היו ספקניים כלפי טענות למוצרים 'נגד הזדקנות' שלא עברו מחקרים קפדניים — רבים מהם אינם עומדים במבחן המדעי.",
     "category": "מחקר",
     "publishDate": "18 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41843349/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41843349/",
+    "abstract": "The Interventions Testing Program (ITP) evaluated eleven compounds in genetically heterogeneous UM-HET3 mice to assess their potential to extend lifespan. These interventions included both novel agents and previously tested compounds administered at novel doses or starting ages. Despite prior evidence suggesting lifespan benefits of these proposed interventions in other models or under different conditions, none of the tested compounds significantly increased lifespan in male or female mice. Notably, astaxanthin, mitoglitazone, and meclizine-previously associated with lifespan extension in the ITP-showed no benefit when administered at different doses or starting at later ages. In females, astaxanthin, late-start mitoglitazone, and pioglitazone were associated with significantly reduced lifespan when pooling the data from all three sites. However, site-specific analysis revealed unusually long lifespans in control females at The Jackson Laboratory, prompting reanalysis using data from the other two sites and only showed a negative effect for mitoglitazone and pioglitazone. This study underscores the importance of rigorous, multi-site testing and highlights the challenges of translating promising initial findings into consistent lifespan benefits at other doses or with alternate starting ages. These results suggest that timing and dosage are critical variables in aging intervention studies and reinforce the need for cautious interpretation of single-site or single-cohort findings.",
+    "legacy": true
   },
   {
     "id": "154",
@@ -150,7 +168,9 @@
     "bottomLine": "שמרו על מגוון תזונתי עשיר ועל הרגלי אכילה יציבים כדי לתמוך בעמידות המיקרוביום שלכם.",
     "category": "מחקר",
     "publishDate": "18 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41843355/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41843355/",
+    "abstract": "Gut microbiota resilience, the capacity of intestinal microbial communities to resist, adapt, and recover from perturbations has emerged as a critical determinant of human health and longevity. Environmental stressors such as antibiotics, pollutants, poor diet, infections, and psychosocial stress challenge this resilience, often leading to dysbiosis (a sustained disruption of microbial community structure and/or function), impaired metabolism, chronic inflammation, and increased disease susceptibility across the lifespan. While dysbiosis has been extensively studied, the resilience dimension remains underexplored, particularly in the context of cumulative and repeated stress exposures. This narrative review explores microbial resilience, identifying environmental disruptors, and their manifestation at life stages, highlighting its hidden yet crucial role in optimizing lifespan. We critically evaluate the consequences of reduced resilience for chronic disease, frailty, and therapeutic response, while emphasizing the protective roles of diversity, functional redundancy, and host-microbe feedback loops. Translational strategies including dietary modulation, microbial therapeutics, behavioral interventions, and precision tools such as multi-omics and biosensors, are assessed for their potential to strengthen resilience and promote healthy aging. By reframing gut microbiota resilience as both a biological property and a public health target, this work advances a novel perspective: that fostering resilience may mitigate environmental insults, personalize interventions, and extend healthspan.",
+    "legacy": true
   },
   {
     "id": "153",
@@ -159,7 +179,9 @@
     "bottomLine": "אם אתם או יקיריכם מטופלים באלצהיימר, שוחחו עם הרופא על ההתפתחויות החדשות ועל ההשלכות הטיפוליות.",
     "category": "טכנולוגיה רפואית",
     "publishDate": "18 במרץ 2026",
-    "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260317064457.htm"
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260317064457.htm",
+    "abstract": "A key Alzheimer’s drug has finally revealed its secret. Researchers discovered that lecanemab works by activating the brain’s immune cells—but only through a specific part of the antibody called the Fc fragment. This piece acts like a trigger, prompting microglia to clear harmful amyloid plaques. The finding could reshape how future Alzheimer’s therapies are designed.",
+    "legacy": true
   },
   {
     "id": "152",
@@ -186,7 +208,9 @@
     "bottomLine": "זהו מחקר בסיסי החושף מנגנון ביולוגי מרתק, אך אין לו עדיין יישום קליני ישיר.",
     "category": "גנטיקה",
     "publishDate": "17 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41837793/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41837793/",
+    "abstract": "Why do some species live for mere months, while others persist for centuries? A leading explanation implicates mitochondria. The mitochondrial theory of aging predicts that mitochondrial efficiency diminishes with age due to the accumulation of mutations within mitochondrial DNA (mtDNA). While experimental evidence for this theory is mixed, evolutionary analyses offer an ideal opportunity to determine if mitochondrial substitution rates are linked to longevity. Here, we explored the relationship between mtDNA evolution and species' lifespans across four clades-Aves, Actinopterygii, Bivalvia, and Sebastidae-using five normalization strategies. Across most methods, long-lived vertebrates showed reduced synonymous and nonsynonymous substitution rates, suggesting lower mtDNA mutation. However, we found that the strength and direction of these relationships varied drastically depending on the normalization approach used (ie correcting for divergence, generation time, and phylogeny). We also analyzed mtDNA mutation spectra and found similar patterns in long- and short-lived species, suggesting decreased rates of mtDNA mutations in long-lived species are not due to suppression of specific mutation processes, as predicted from the free radical theory of aging. We also find little evidence for a relationship between selection on mitochondrial protein-coding genes and lifespan. Our results align with the idea that decreased mutation rates may help preserve mitochondrial integrity in long-lived vertebrate species, but that these species have not been selected to have particularly efficient OXPHOS or protection against a specific mitochondrial mutation process. Together, these findings underscore the critical link between mitochondrial stability and lifespan, and highlight the power of natural systems in this field.",
+    "legacy": true
   },
   {
     "id": "149",
@@ -195,7 +219,9 @@
     "bottomLine": "מחקרי יסוד כאלה מסבירים מדוע התערבויות אנטי-אייג'ינג עשויות לעבוד אחרת אצל גברים ונשים, אך התרגום לבני אדם דורש מחקר נוסף.",
     "category": "מחקר",
     "publishDate": "17 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41838763/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41838763/",
+    "abstract": "Aging is accompanied by loss of motor function driven by mitochondrial oxidative stress. To examine how genotype and sex modulate this process, we exposed Oregon-R (wild-type) and vestigial (wing-deficient) Drosophila of both sexes to chronic paraquat a mitochondrial stressor generating sustained ROS production at 0, 10, or 20&#x2009;mM. We tracked climbing performance from day 5-50 alongside survival. Paraquat impaired locomotion dose- dependently, with effects modified by genotype and sex (four-way ANOVA, all p&#x2009;&lt;&#x2009;0.001). Under control conditions, behavioral half-life (T&#x2085;&#x2080;) occurred at 21.4 days in Oregon-R males and 25.7 days in females. Vestigial flies declined earlier: 14.8 days (males), 18.3 days (females). At 20&#x2009;mM, T&#x2085;&#x2080; fell 48-53% across groups. Female advantage persisted at 10&#x2009;mM but narrowed at 20&#x2009;mM, especially in vestigial flies. Survival mirrored functional decline. The T&#x2085;&#x2080;-to-lifespan interval compressed under severe stress: 18-28 days (controls) versus 8-12 days (20&#x2009;mM). Functional-survival coupling was strong (r&#x2009;=&#x2009;0.87, p&#x2009;&lt;&#x2009;0.001). Oxidative stress accelerates functional aging through mechanisms shaped by genotype and sex. Climbing performance predicts healthspan and may serve as a translational biomarker for neuromuscular aging.",
+    "legacy": true
   },
   {
     "id": "148",
@@ -222,7 +248,9 @@
     "bottomLine": "הבנה זו עשויה להוביל בעתיד לאסטרטגיות אישיות יותר לשמירה על בריאות, בהתאם לפרופיל ההזדקנות האישי של כל אדם.",
     "category": "מחקר",
     "publishDate": "16 במרץ 2026",
-    "sourceUrl": "https://doi.org/10.22541/au.177341917.74005102/v1"
+    "sourceUrl": "https://doi.org/10.22541/au.177341917.74005102/v1",
+    "abstract": "Pablo Burraco1* and Jelle J. Boonekamp2*1 Doñana Biological Station – Spanish National Research Council (CSIC) – Sevilla (Spain)2 School of Biodiversity, One Health and Veterinary Medicine – University of Glasgow – Glasgow (United Kingdom)*Authors have equally contributedCorresponding authors: burraco@ebd.csic.es, Jelle.Boonekamp@glasgow.ac.uk",
+    "legacy": true
   },
   {
     "id": "145",
@@ -231,7 +259,9 @@
     "bottomLine": "מחקר בסיסי זה מעמיק את ההבנה המדעית של הזדקנות, אך עדיין רחוק מיישומים קליניים — המשך מעקב נדרש.",
     "category": "מחקר",
     "publishDate": "16 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41832346/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41832346/",
+    "abstract": "Mitochondria provide energy and maintain homeostasis, and their dysfunction relates to aging. Disrupted structure and function of mitochondria are linked to age-related diseases, but the roles of many mitochondrial proteins in mitochondrial dynamics and aging remain unclear. We studied the role of the mitochondrial fission protein MTP-18 in mitochondrial dynamics and aging in C. elegans. Our data show that loss of mtp-18 increases longevity and stress resistance, alongside changes in key physiological processes. We tested whether mtp-18-mediated longevity is linked to the PI3K-dependent insulin/IGF-1 signaling (IIS) pathway. mtp-18-mediated longevity requires the Forkhead transcription factor DAF-16, a primary effector of the IIS pathway, but is not mediated by the canonical IIS cascade. We also observed unique interactions between mtp-18 and genes encoding components of the mobile electron carrier system in mitochondria, such as coenzyme Q and cytochrome c. Our study reveals that mtp-18 is an evolutionarily conserved, key aging regulator that maintains mitochondrial morphology. What sets this study apart from previous research is the identification of a novel mechanism by which MTP-18 affects these processes independently of the canonical IIS pathway, particularly through unique interactions with genes encoding components of the electron transport chain.",
+    "legacy": true
   },
   {
     "id": "144",
@@ -240,7 +270,9 @@
     "bottomLine": "הבנת הקשר בין הזדקנות כללית לבריאות השחלות עשויה לתרום לאיכות חיים טובה יותר במהלך השנים הרבייתיות ואחריהן.",
     "category": "מחקר",
     "publishDate": "16 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41833148/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41833148/",
+    "abstract": "Ovarian aging is characterized by progressive follicular reserve depletion, mitochondrial dysfunction, oxidative stress, and endocrine decline. This review examines the molecular mechanisms driving ovarian aging and evaluates emerging therapeutic strategies to preserve reproductive longevity. Key mechanistic contributors include telomere attrition, accumulated DNA damage, impaired autophagy, chronic inflammation, and dysregulation of major longevity pathways such as PI3K/AKT/mTOR, AMPK, and sirtuins. Disruption of these interconnected signaling networks accelerates follicular activation, granulosa cell apoptosis, and oocyte quality decline. We further discuss targeted interventions aimed at modulating these pathways, including mTOR inhibitors, AMPK activators, antioxidants, mitochondrial protectants, autophagy regulators, and select nutraceuticals. Compounds such as rapamycin, metformin, resveratrol, and melatonin demonstrate mechanistic promise in preclinical and emerging clinical studies. Nutritional and lifestyle modifications may complement pharmacological approaches. Collectively, advancing mechanistic understanding of ovarian aging provides a foundation for developing precision strategies to delay menopause, preserve fertility, and improve women's healthspan.",
+    "legacy": true
   },
   {
     "id": "143",
@@ -267,7 +299,9 @@
     "bottomLine": "אימוני התנגדות ותזונה עשירה בחלבון נותרים הכלים המוכחים ביותר לשמירה על שריר — מחקר עתידי עשוי להוסיף כלים נוספים.",
     "category": "מחקר",
     "publishDate": "15 במרץ 2026",
-    "sourceUrl": "https://doi.org/10.3803/enm.2025.2816"
+    "sourceUrl": "https://doi.org/10.3803/enm.2025.2816",
+    "abstract": "Cellular senescence is increasingly recognized as a pivotal mechanism driving skeletal muscle aging and the development of sarcopenia, a condition characterized by the progressive loss of muscle mass, strength, and function. This review synthesizes recent evidence detailing the accumulation of senescent cells in aged skeletal muscle, including muscle stem cells (MuSCs), fibro-adipogenic progenitors (FAPs), immune cells, endothelial cells, and even post-mitotic myofibers. Senescence in these cell types impairs regenerative signaling, disrupts niche homeostasis, and propagates chronic inflammation. Emerging therapeutic strategies, termed senotherapeutics, aim to counteract these effects through senolytics (which eliminate senescent cells) and senomorphics (which modulate the senescence-associated secretory phenotype), as promising interventions to restore muscle function and delay sarcopenia. We will also discuss the remaining challenges and future directions for studying senescence in skeletal muscle.",
+    "legacy": true
   },
   {
     "id": "140",
@@ -276,7 +310,9 @@
     "bottomLine": "מחקר בסיסי שמרחיב את ההבנה שלנו על תגובות תאיות ללחץ — ייתכן שיוביל לטיפולים עתידיים במחלות הזדקנות.",
     "category": "מחקר",
     "publishDate": "15 במרץ 2026",
-    "sourceUrl": "https://doi.org/10.64898/2026.03.12.711310"
+    "sourceUrl": "https://doi.org/10.64898/2026.03.12.711310",
+    "abstract": "Abstract Mitochondrial dysfunction and extracellular protein aggregation occur in neurodegenerative diseases such as Alzheimer’s disease (AD). However, it remains unclear if these processes are functionally linked. Here, we identify a signaling pathway that is activated upon accumulation of aggregation-prone proteins in the extracellular space. We find that the transcription factor ATFS-1, which regulates the mitochondrial unfolded protein response, also regulates transcripts required for endosomal recycling, multiple plasma membrane-localized signaling receptors, and secreted proteins that bind aggregation-prone proteins in the extracellular space, including transthyretin and Aβ, and promote their degradation. Interestingly, Aβ(1-42) aggregation induces atfs-1 -dependent transcription by promoting degradation of the bZIP protein ZIP-3, which antagonizes ATFS-1. ZIP-3 accumulates in the cytosol when it is phosphorylated by kinases that function downstream of plasma membrane-localized signaling receptors, including the WNT and glutamate receptors. Upon ligand binding, the signaling receptors stimulate the cognate kinase, many of which we found phosphorylate ZIP-3, impeding ZIP-3 degradation, allowing it to antagonize atfs-1 -dependent transcription. However, accumulation of aggregation-prone proteins such as Aβ(1–42) causes endosomal swelling, which impairs endosomal recycling, instead diverting signaling receptors to lysosomes for degradation. In turn, the depletion of signaling receptors reduces the level of ZIP-3 phosphorylation, resulting in ZIP-3 degradation and activation of atfs-1 -dependent transcription, which promotes extracellular proteostasis. Our findings uncover an unexpected coupling between endocytic quality control and mitochondrial signaling, revealing a circuit that preserves extracellular proteostasis and promotes organismal resilience.",
+    "legacy": true
   },
   {
     "id": "139",
@@ -285,7 +321,9 @@
     "bottomLine": "מחקר בתולעים בלבד — רחוק מיישום אנושי, אך מזהה מטרה מולקולרית חדשה שעשויה להיות רלוונטית למחקר עתידי.",
     "category": "מחקר",
     "publishDate": "15 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41828469/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41828469/",
+    "abstract": "Paederia scandens (Lour.) Merr is a substance exhibiting medicine-food homology (MFH), commonly used in China. However, the antioxidant and anti-aging effects of paederoside (PSG) have not been thoroughly investigated; therefore, in this study, Caenorhabditis elegans (C. elegans) was treated with PSG to investigate these effects. We found that 50, 80, and 100 &#x3bc;g/mL of PSG could prolong the lifespan of C. elegans, and administration of 100 &#x3bc;g/mL PSG significantly reduced the accumulation of lipofuscin. Under conditions of oxidative stress, RT-qPCR analysis revealed that PSG treatment significantly up-regulated the expression of key antioxidant gene skn-1 and longevity-associated gene daf-16. In addition, PSG increased the activity of the antioxidant enzymes SOD and CAT and reduced the level of MDA. When DAF-2 activity is reduced or inhibited in C. elegans, DAF-16 and SKN-1 are activated and translocate to the nucleus to promote stress resistance and prolong lifespan. Finally, by utilizing HeLa cell models, we demonstrated that the core component of Paederia scandens, PSG, promotes targeted degradation of IGF1R through the ubiquitin-proteasome system. Our results suggest that feeding C. elegans PSG is effective in extending this organism's lifespan by improving oxidative stress resistance; thus, PSG has significant potential for development as an anti-aging food product and drug.",
+    "legacy": true
   },
   {
     "id": "138",
@@ -294,7 +332,9 @@
     "bottomLine": "עדיין מוקדם להמליץ על תוספי תזונה ספציפיים, אך המחקר מחזק את החשיבות של תזונה עשירה בפיטו-נוטריינטים ממזונות אמיתיים.",
     "category": "מחקר",
     "publishDate": "15 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41830033/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41830033/",
+    "abstract": "Autophagy is an evolutionarily preserved intracellular degradation process pivotal in maintaining proteostasis, mitochondrial homeostasis, and metabolic equilibrium, all of which are dysregulated with aging. Aberrant autophagy has been recognized as a hallmark of human aging and age-related diseases, including neurodegeneration, metabolic dysfunction, cardiovascular diseases, and cancer. Bioactive natural compounds derived from plants, foods, and marine organisms have emerged as potent modulators of autophagy, offering a promising strategy to counteract aging and promote healthy lifespan. Mechanistically, these compounds regulate autophagy by modulating key signaling pathways, such as AMPK, PI3K/AKT/mTOR, SIRT1, and FOXO, while also alleviating oxidative stress, inflammation, and mitochondrial dysfunction. Natural compounds like polyphenols, flavonoids, alkaloids, terpenoids, and carotenoids exhibit dual roles by restoring age-related suppressed autophagic flux and inhibiting excessive autophagy-induced cell death. In this review, we provide a comprehensive overview of the molecular mechanisms through which bioactive natural compounds modulate autophagy and impact human aging and longevity. We discuss both experimental and clinical evidence supporting their geroprotective effects, limitations regarding bioavailability and dose-dependent effects, and prospects for the utilization of autophagy-targeting natural products in aging intervention strategies.",
+    "legacy": true
   },
   {
     "id": "137",
@@ -321,7 +361,9 @@
     "bottomLine": "בעתיד, תזונה מותאמת אישית תתבסס לא רק על גנטיקה אלא גם על הרכב המיקרוביום שלך — בינתיים, שמור על מגוון במזונות עשירים בפרוביוטיקה ופריביוטיקה.",
     "category": "גנטיקה",
     "publishDate": "14 במרץ 2026",
-    "sourceUrl": "https://doi.org/10.20944/preprints202603.0608.v1"
+    "sourceUrl": "https://doi.org/10.20944/preprints202603.0608.v1",
+    "abstract": "This review explores the modulation of the host cellular flexibility “kinome\" (protein kinases) and \"phosphatome\" (protein phosphatases) by dietary nutrients and gut microbiota metabolites, proposing a potential paradigm in the strategies for healthy aging and metabolic disease prevention. While mainstream nutrition approaches focus on population-wide guidelines, precision nutrition exploits the innovations in personal molecular networks and systems medicine, integrating genomics and metabolomics to address \"metabolic rigidity\"—the cell inability to switch between fuel sources. The review examines how master molecular regulators like AMPK and mTOR, and \"metabolic brakes\" like PTP1B and PTEN, are affected by single nucleotide polymorphisms (SNPs) and microbial signals (SCFAs, secondary bile acids, indoles). Specifically, the \"microbial kinomic interference\" hypothesis is discussed, where gut metabolites act as remote ligands for host signaling enzymes. Finally, the potential role of a personalized phosphoproteomics strategy is highlighted as an effective functional readout to guide nutritional interventions, aiming to restore metabolic plasticity through a gut microbiota/multi-omics approach.",
+    "legacy": true
   },
   {
     "id": "134",
@@ -330,7 +372,9 @@
     "bottomLine": "אם יש בהיסטוריה המשפחתית שלך אלצהיימר, שקול לדון עם הרופא שלך בבדיקות סמנים ביולוגיים — זיהוי מוקדם מאפשר התערבות יעילה יותר.",
     "category": "טכנולוגיה רפואית",
     "publishDate": "14 במרץ 2026",
-    "sourceUrl": "https://doi.org/10.64898/2026.03.10.26348059"
+    "sourceUrl": "https://doi.org/10.64898/2026.03.10.26348059",
+    "abstract": "ABSTRACT Plasma biomarkers of Alzheimer’s pathology have been studied in relation to cognitive decline and dementia, but no prior study has examined their associations with longevity or healthspan. In this cohort study of older women (N=2,576), we examined plasma biomarkers measured at baseline when women were cognitively unimpaired. We found that plasma biomarkers were associated with both exceptional longevity and healthspan, defined as survival to age 90 without cognitive impairment. Elevated levels of plasma p-tau217 (OR, 0.58; 95% CI, 0.50-0.68), p-tau181 (OR, 0.81; 95% CI, 0.71 – 0.93), NfL (OR, 0.70; 95% CI, 0.60 – 0.82) and GFAP (OR, 0.78; 95% CI, 0.68 – 0.90) were all associated with reduced odds of healthspan; findings survived adjustment for multiple comparisons. These findings suggest that plasma biomarkers may not only reflect ADRD pathology but also systemic aging processes that underlie lifespan and healthspan, underscoring their potential value as novel biomarkers of aging.",
+    "legacy": true
   },
   {
     "id": "133",
@@ -339,7 +383,9 @@
     "bottomLine": "צמצם חשיפה למיקרופלסטיק על ידי שימוש בקבוקים לשימוש חוזר מזכוכית או נירוסטה, הימנעות מחימום מזון במיכלי פלסטיק, ובחירה במוצרים ללא פלסטיק כשאפשר.",
     "category": "מחקר",
     "publishDate": "14 במרץ 2026",
-    "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260313002637.htm"
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260313002637.htm",
+    "abstract": "Tiny plastic particles may be quietly threatening brain health. New research suggests microplastics—now widely found in food, water, and even household dust—could trigger inflammation and damage in the brain through multiple biological pathways. Scientists estimate adults may consume about 250 grams of these particles each year, and some can accumulate in organs including the brain.",
+    "legacy": true
   },
   {
     "id": "132",
@@ -366,7 +412,9 @@
     "bottomLine": "אין כרגע עדות מספקת לשימוש בליתיום כתוסף להארכת חיים — אל תיקחו תוספי ליתיום ללא סיבה רפואית מוכחת.",
     "category": "מחקר",
     "publishDate": "13 במרץ 2026",
-    "sourceUrl": "https://doi.org/10.1007/s10522-026-10412-5"
+    "sourceUrl": "https://doi.org/10.1007/s10522-026-10412-5",
+    "abstract": "Pharmacological modulation of ageing is viewed as a viable route to extending lifespan and healthspan, yet the efficacy of putative geroprotectors may depend strongly on physiological and environmental context. Lithium chloride (LiCl) has been reported to extend lifespan in several model organisms, but evidence remains inconsistent and the role of reproductive investment-an energetically costly and often lifespan-correlated process-has rarely been examined. We tested the effects of dietary LiCl on survival and reproductive performance in male Drosophila melanogaster, comparing unmated (UM) and frequently-mated (FM) males. Contrary to previous work, both a concentration previously reported as beneficial (25 mM), and a lower concentration (10 mM) reduced survival, with effects driven exclusively by UM males. FM males were comparatively protected, revealing a strong mating-dependent interaction. LiCl had no detectable effect on male late-life mating latency, sterility, or paternity share, but reduced some post-copulatory performance in FM males by increasing female remating, indicating that somatic and reproductive responses to LiCl can be decoupled. These results demonstrate that lithium's effects on survival are strongly dependent on reproductive environment, highlighting the importance of reproductive context when evaluating its impact on lifespan.",
+    "legacy": true
   },
   {
     "id": "129",
@@ -375,7 +423,9 @@
     "bottomLine": "רחצה חמה קבועה — באמבטיה או בסאונה — היא לא רק הנאה: היא עשויה לתרום באופן מדיד לבריאות הלב ולרווחה הכללית.",
     "category": "אורח חיים",
     "publishDate": "13 במרץ 2026",
-    "sourceUrl": "https://doi.org/10.3390/ijerph23030347"
+    "sourceUrl": "https://doi.org/10.3390/ijerph23030347",
+    "abstract": "Thermal bathing practices, including domestic hot-water immersion and sauna use, have been linked to cardiovascular and systemic health outcomes. However, the amount and type of evidence differ between these practices. This review examines current epidemiological and mechanistic findings and discusses their relevance to cardiovascular health. A narrative review was conducted using Ichushi-Web and PubMed. Observational and interventional studies evaluating habitual bathtub bathing or sauna use in relation to physiological or health-related outcomes were included. Studies involving children or pregnant/postpartum women and those without relevant biological endpoints were excluded. In total, 45 studies met the inclusion criteria (17 on bathtub bathing and 28 on sauna use). Studies of habitual bathtub bathing, conducted mainly in Japan, have reported associations with lower arterial stiffness, improved glycemic control, and selected inflammatory or stress-related markers. Experimental work shows that hot-water immersion increases core body temperature, promotes peripheral vasodilation, and induces heat shock protein expression. Sauna bathing, investigated primarily in Finnish prospective cohorts, has been associated with lower cardiovascular and all-cause mortality, as well as favorable inflammatory and endothelial markers. Bathing conditions, age, sex, and cultural context appear to influence these findings. Thermal exposure produces circulatory and molecular responses relevant to cardiovascular regulation. Prospective data support associations between frequent sauna use and long-term outcomes, whereas evidence for domestic bathtub bathing is limited to observational studies of intermediate markers. Further research with clearly defined exposure parameters and clinical endpoints is needed to better understand the long-term cardiovascular implications of habitual thermal practices.",
+    "legacy": true
   },
   {
     "id": "128",
@@ -384,7 +434,9 @@
     "bottomLine": "תחום שיקום הפה מתקדם: תותבות שיניים עתידיות עשויות להיות חזקות יותר, בריאות יותר, ולדרוש פחות החלפות.",
     "category": "טכנולוגיה רפואית",
     "publishDate": "13 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41819273/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41819273/",
+    "abstract": "This study evaluated the effect of incorporating nanozeolite (NZ) into three-dimensionally (3D) printed denture base resins to address limitations in thermal stability, optical properties, degree of conversion (DC), monomer release, and antibacterial activity. A 3D printed denture base resin was modified with NZ at concentrations of 0.25 % and 0.5 %, alongside an unmodified control. Thermal behavior was assessed using thermogravimetric analysis (TGA) and differential scanning calorimetry (DSC). Color stability and material release (NZ and monomer) were measured using UV-Vis spectrophotometry. DC was analyzed by Fourier Transform Infrared Spectroscopy (FTIR), and antibacterial activity was evaluated through optical density (OD) measurements. Statistical analysis included ANOVA with Tukey post hoc tests, Mann-Whitney U, and Kruskal-Wallis with Dunn post hoc tests. The 0.5 % NZ group demonstrated the highest thermal stability, reflected by increased glass transition (Tg) and melting (Tm) temperatures. Both NZ-modified groups showed improved color stability after aging, whereas the control group exhibited the greatest change (1.61 %). DC values were significantly higher in the 0.5 % NZ group before and after aging. Monomer release was highest in the control group and reduced in NZ-reinforced resins. The 0.25 % NZ group showed the strongest antibacterial effect, yielding the lowest OD value (0.04). NZ reinforcement improved the thermal, optical, and biological performance of 3D printed denture base resins, supporting enhanced material durability and longevity.",
+    "legacy": true
   },
   {
     "id": "127",
@@ -393,7 +445,9 @@
     "bottomLine": "שמירה על בריאות הפה והשיניים בגיל המבוגר היא לא רק עניין של חיוך יפה — היא עשויה להיות קריטית לבריאות כללית ולתוחלת חיים.",
     "category": "מחקר",
     "publishDate": "13 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41819675/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41819675/",
+    "abstract": "Oral health is key but often overlooked in healthy aging. Tooth loss and poor oral function can impair nutrition, communication, and well-being, yet evidence from low- and middle-income countries (LMICs) on their impact on longevity is limited. This study assessed whether tooth retention and dental prostheses are associated with total life expectancy (TLE) and disability-free life expectancy (DFLE) in older Brazilian adults. In a 15-year cohort of 1734 participants, oral health was defined by edentulous vs. non-edentulous status and prosthesis use. TLE and DFLE were estimated using multistate life table models adjusted for time-varying confounders via inverse probability of treatment weighting. Analyses were stratified by sex and education. At age 60, non-edentulous adults lived 0.9 years longer (95 % CI 0.2-1.8) and spent 1.6 additional disability-free years (95 % CI 0.8-2.3) than edentulous adults. Among those with remaining teeth, prosthesis use added 0.6 (95 % CI 0.1-1.2) disability-free years. Women lived longer overall but spent a higher proportion of their lives with disability; prosthesis use improved women's DFLE by 1.1 years (95 % CI 0.5-1.8), while in men, prostheses mainly increased TLE (0.8 years, 95 % CI 0.1-1.6). Higher education was associated with 1.9 more disability-free years (95 % CI 1.1-2.7); prostheses reduced disparities by nearly 30 %. Findings were robust to sensitivity analyses (E-value 2.3). Maintaining natural teeth and ensuring dental prostheses access are associated with meaningful gains in TLE and DFLE, supporting oral health preservation and rehabilitation as strategies to promote healthy, independent, and socially equitable aging in Brazil.",
+    "legacy": true
   },
   {
     "id": "126",
@@ -420,7 +474,9 @@
     "bottomLine": "מחקר זה אינו רלוונטי לבריאות האדם ולא מציע תובנות ישימות לאריכות ימים בבני אדם.",
     "category": "מחקר",
     "publishDate": "12 במרץ 2026",
-    "sourceUrl": "https://doi.org/10.1007/s10336-026-02387-4"
+    "sourceUrl": "https://doi.org/10.1007/s10336-026-02387-4",
+    "abstract": "Abstract Goose farming is gaining importance due to the economic value of meat and by-products; however, despite frequent reports of Plasmodium spp. infections in waterfowls, data on systemic biochemical responses in domestic geese remain limited. This study investigated biochemical alterations associated with natural Plasmodium spp. infection in Anser anser domesticus , focusing on acute phase proteins (APPs), thiol–disulfide homeostasis (TDH), and serum protein profiles. Blood samples were collected from geese with Plasmodium infection defined by combined microscopic examination and PCR (n = 35) and from uninfected geese (n = 20) Serum levels of APPs [Serum amyloid A (SAA), haptoglobin (Hp), total sialic acid (TSA)], TDH parameters [Native thiol (NT), total thiol (TT), disulfide (DS)], and serum proteins (total protein, albumin, globulin) were analyzed. Plasmodium -infected geese showed significantly higher levels of APPs than uninfected geese, indicating a strong acute phase response. Meanwhile, thiol components (TT, NT, DS) were significantly lower in Plasmodium -infected geese, reflecting infection-associated oxidative stress. However, redox ratios remained stable, suggesting preserved redox balance through compensatory antioxidant mechanisms. No significant differences were observed in serum protein concentrations. Correlation analysis revealed that Hp positively correlated with DS and negatively with NT/TT%, highlighting an interaction between inflammation and oxidative imbalance. Principal component analysis (PCA) showed that multivariate differentiation between infected and uninfected geese was mainly associated with protein-related and thiol-based redox parameters. In conclusion, Plasmodium infection triggers a distinct inflammatory and oxidative response in domestic geese, without affecting total serum protein levels. The combined use of APPs and TDH markers provides a promising non-invasive approach for monitoring infection-related physiological response",
+    "legacy": true
   },
   {
     "id": "123",
@@ -429,7 +485,9 @@
     "bottomLine": "אמנם גנטיקה משחקת תפקיד חשוב באריכות ימים, אך מחקרים על משפחות מאריכות חיים עוזרים לזהות הרגלי תזונה שכדאי לאמץ גם ללא יתרון גנטי מובהק.",
     "category": "תזונה",
     "publishDate": "12 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41812376/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41812376/",
+    "abstract": "Many centenarian offspring (CO) show survival and health advantages compared to population controls, yet little is known about their dietary patterns. The New England Centenarian Study (NECS) offers an opportunity to characterize diet quality in this unique longevity-enriched population. To characterize overall and component-level diet quality among CO in the New England Centenarian Study (NECS) using four established indices and to contextualize these patterns relative to published benchmarks from large U.S. cohorts of older adults. We analyzed data from 457 NECS participants who completed a 131-item food frequency questionnaire in 2005. We computed dietary scores using the Alternative Healthy Eating Index (AHEI), Healthy Eating Index (HEI), Mediterranean-DASH Intervention for Neurodegenerative Delay (MIND) diet, and Planetary Health Diet Index (PHDI). We performed linear regression to examine whether these scores differ by sex, age, education, and marital status. Participants' mean (SD) age was 73.6 (9.2) years; 55.1% were women. Overall mean (SD) index scores were: AHEI 51.9 (11.0), HEI 70.1 (9.2), MIND 8.6 (1.9), and PHDI 87.1 (12.0), indicating moderate overall diet quality. NECS participants generally met or approached targets for intakes of fruits, greens/beans, and protein-food quality (including seafood), as well as for moderation components such as sodium, added sugar, and refined grains. However, they fell short on intakes of legumes/soy/nuts and whole grains. Compared with nationally representative studies, NECS participants had modestly higher overall dietary scores across the four indices (P &lt; 0.001). NECS participants had higher component scores for intakes of fruits, vegetables, and omega-3 s, but lower scores for whole grains, legumes, and soy. Higher education was consistently associated with healthier diet scores, while younger age and female sex corresponded to more favorable component patterns. Centenarian offspring exhibit moderately higher ",
+    "legacy": true
   },
   {
     "id": "122",
@@ -438,7 +496,9 @@
     "bottomLine": "מחקר בסיסי זה עדיין בשלבים מוקדמים ואין עדיין יישומים קליניים, אך הוא מחזק את החשיבות של הפחתת דלקת כרונית באמצעות אורח חיים בריא.",
     "category": "מחקר",
     "publishDate": "12 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41813553/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41813553/",
+    "abstract": "Cellular senescence is a complex cell fate characterized by stable cell cycle arrest and other heterogeneous changes. Senescent cells play a causal role in aging, although the underlying mechanisms remain under active investigation. In this opinion article, we propose that senescent cells can act as key mediators of interorgan communication of aging. Recent work defines multifaceted mechanisms, including the production of senescence-associated secretory phenotype factors that act to propagate senescence signals to nearby and distant cells, as well as age-related alterations in immune function that drive chronic inflammation, known as 'inflammaging'. Further investigation of these mechanisms could yield improved strategies to target senescent cells and mitigate their effects on systemic aging via interorgan communication of aging.",
+    "legacy": true
   },
   {
     "id": "121",
@@ -465,7 +525,9 @@
     "bottomLine": "בעוד שטיפולי תאי NK עדיין בשלבי מחקר, שמירה על מערכת חיסון בריאה באמצעות אורח חיים נכון תומכת בפעילות תאים אלו.",
     "category": "טכנולוגיה רפואית",
     "publishDate": "11 במרץ 2026",
-    "sourceUrl": "https://doi.org/10.1007/s44368-026-00021-2"
+    "sourceUrl": "https://doi.org/10.1007/s44368-026-00021-2",
+    "abstract": "The aging process is closely related to changes in the immune system, making the elderly more vulnerable to infections, cancer, autoimmune diseases, and neurodegenerative disorders. As the global elderly population increases, it becomes increasingly important to understand how the immune system ages to prevent and treat diseases in this group. Natural killer (NK) cells, a vital component of the innate immune system, play a crucial role in managing aging and age-associated diseases (AADs). NK cells collaborate with other components of both innate and adaptive immunity to monitor and eliminate senescent cells (SNCs) and regulate their secretory profiles, known as senescence-associated secretory phenotypes (SASPs). However, as people age, NK cell numbers decrease, and their function is compromised. Therefore, maintaining NK cell function during aging is essential to reduce the risk of AADs and promote healthy aging. Alternatively, emerging therapies based on NK cells offer promising approaches to counteract age-related immune decline. Recent studies on adoptive NK cell therapy have shown potential to rejuvenate immune competence, enhance clearance of SNCs, and mitigate adverse SASP effects. This progress presents a significant opportunity to use adoptive NK cell therapy to prevent age-related disorders and represents a promising advancement in the field of longevity therapeutics.",
+    "legacy": true
   },
   {
     "id": "118",
@@ -474,7 +536,9 @@
     "bottomLine": "הפחתת דלקת כרונית באמצעות תזונה נכונה, פעילות גופנית ושינה איכותית עשויה לתמוך בבריאות המוח לטווח ארוך.",
     "category": "מחקר",
     "publishDate": "11 במרץ 2026",
-    "sourceUrl": "https://doi.org/10.3389/fragi.2026.1756670"
+    "sourceUrl": "https://doi.org/10.3389/fragi.2026.1756670",
+    "abstract": "Senescence is the biological aging associated with the gradual deterioration of cells and functions of various organs over time. This irreversible process is caused by genetic, metabolic, and environmental factors, such as telomere shortening, exposure to cytotoxic substances, and accumulated cellular damage over time, although the rate of degradation can be modified by lifestyle factors. Immunosenescence specifically refers to senescent changes in the innate and adaptive immunity and is associated with low inflammation known as inflammaging. As immunosenescence implies, reduced immune function leads to impaired tissue function and an increased risk of infection and heightened susceptibility to chronic, autoimmune, and neurodegenerative disorders, such as Alzheimer's disease (AD) in the elderly. An increase in senescent cells is common in aging, which leads to age-associated diseases. Cellular senescence may also contribute to the onset and severity of Parkinson's disease (PD) neuropathology. Inflammaging with high levels of proinflammatory marker expression may result from changes in immune responses, chronic antigenic stimulation, and senescence-associated secretory phenotype (SASP) factors, such as increased expression of interleukin-6 (IL-6), insulin-like growth factor binding proteins (IGFBPs), transforming growth factor-beta (TGF-β) and matrix metalloproteinase-10 (MMP-10) has been reported in AD patients. The levels of the senescence marker p16INK4a and several SASP factors, such as MMP-3, IL-6, IL-1α and IL-8 are elevated along with low levels of astrocytic lamin B1 in the substantia nigra of PD. This review discusses recent developments in neurosenescence and immunosenescence in AD and PD, as well as potential senolytic therapies.",
+    "legacy": true
   },
   {
     "id": "117",
@@ -483,7 +547,9 @@
     "bottomLine": "אם אתם או בני משפחתכם סובלים מעיוורון צבעים, שקלו בדיקות שתן תקופתיות כחלק מבדיקות השגרה, במיוחד מעל גיל 50.",
     "category": "מחקר",
     "publishDate": "11 במרץ 2026",
-    "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260309225222.htm"
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260309225222.htm",
+    "abstract": "Colorblindness may be doing more than making traffic lights confusing — it could also be hiding a life-threatening warning sign. Researchers analyzing millions of medical records found that people with bladder cancer who are also colorblind have a 52% higher mortality rate over 20 years compared to those with normal vision. The likely reason: many people with color vision deficiency struggle to see red, making it harder to notice blood in urine, the most common early sign of bladder cancer.",
+    "legacy": true
   },
   {
     "id": "116",
@@ -501,7 +567,9 @@
     "bottomLine": "מדובר במחקר בסיסי חשוב, אך טרם קיימות המלצות פרקטיות נגזרות ממנו — המשיכו לשמור על אורח חיים בריא הכולל פעילות גופנית, תזונה נכונה ושינה איכותית.",
     "category": "גנטיקה",
     "publishDate": "10 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41796800/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41796800/",
+    "abstract": "Aging is a complex biological process characterized by the gradual decline of physiological and molecular functions and increased susceptibility to age-associated diseases. Emerging evidence indicates the role of mRNA quality control mechanisms in the regulation of aging and longevity. This review focuses on the function of mRNA surveillance mechanisms, including nonsense-mediated mRNA decay, nonstop decay, and no-go decay, in aging and age-related diseases. We discuss the critical roles of these pathways in maintaining mRNA quality and preventing the accumulation of aberrant transcripts, which can contribute to aging and age-related disorders. Specifically, we discuss the function of nonsense-mediated mRNA decay in aging processes and age-related diseases, including cancer and neurodegenerative disorders. We also review the safeguarding roles of nonstop decay and no-go decay in preventing the accumulation of faulty mRNAs and proteins associated with various diseases. We explore the potential functions of additional mRNA surveillance and the associated signaling pathways, such as ribosome-associated quality control, in aging and age-related diseases. Understanding the intricate relationship between mRNA surveillance mechanisms and aging may provide key information for developing potential therapeutics that boost these pathways for delaying aging and treating age-related diseases.",
+    "legacy": true
   },
   {
     "id": "114",
@@ -510,7 +578,9 @@
     "bottomLine": "שמירה על מיקרobiום מעיים בריא באמצעות תזונה עשירה בסיבים תזונתיים ומזונות מותססים עשויה לתמוך בתקשורת החיונית הזו.",
     "category": "מחקר",
     "publishDate": "10 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41799286/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41799286/",
+    "abstract": "Polyamines are ancient metabolites that serve critical functions in maintaining epithelial integrity, regulating immune response, and supporting healthy aging. The gut microbiota actively synthesizes and converts polyamines, while host factors such as inflammation, barrier function, and nutritional status dynamically modulate this metabolic network. Disruption of this host-microbiota axis reduces polyamine availability, impairs barrier function, and exacerbates inflammation. In contrast, polyamines exert protective effects by promoting epithelial repair, modulating macrophage and T-cell responses, and enhancing autophagy-mediated tissue renewal and longevity. Recent advances in engineered probiotics, microbial small RNAs, and postbiotics further highlight the therapeutic potential of precisely modulating polyamine metabolism in clinical contexts such as inflammatory bowel disease, metabolic syndrome, and neurodegenerative conditions associated with aging.",
+    "legacy": true
   },
   {
     "id": "113",
@@ -537,7 +607,9 @@
     "bottomLine": "שמירה על משקל בריא תוך פעילות גופנית סדירה עשויה להיות האסטרטגיה האופטימלית לשמירה על כוח ותפקוד שרירי בגיל המבוגר.",
     "category": "מחקר",
     "publishDate": "9 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41794155/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41794155/",
+    "abstract": "This study aims to explore the shared transcriptomic features of caloric restriction (CR) and endurance exercise in skeletal muscle among older adults. As age increases, muscle atrophy gradually becomes a common issue of functional decline in the elderly. Utilizing bioinformatics analysis, this research identified 101 overlapping differentially expressed genes (DEGs) involved in both CR and endurance exercise. These genes are primarily enriched in key biological pathways related to longevity, Apelin signaling, AMPK signaling, FoxO signaling, and cGMP-PKG signaling pathways. Additionally, we identified 10 key genes (such as LPL, PPARGC1A, and IGF1), 4 transcription factors (FOXC1, POU2F2, GATA2, and STAT3), and 4 microRNAs (miR-155-5p, miR-124-3p, miR-1-3p, and miR-16-5p) interacting with these genes. Drug-gene interaction analysis identified carotuximab as a compound with potential relevance for future investigation in the context of muscle aging. These findings provide new insights into the molecular mechanisms underlying muscle functional decline in the elderly and propose potential targets and drugs for intervention development.",
+    "legacy": true
   },
   {
     "id": "110",
@@ -546,7 +618,9 @@
     "bottomLine": "הכלי החדש עשוי בעתיד לאפשר זיהוי מוקדם של שחיקה נפשית באמצעים אובייקטיביים, ולא רק על בסיס שאלונים.",
     "category": "טכנולוגיה רפואית",
     "publishDate": "9 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41794925/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41794925/",
+    "abstract": "Burnout is a common phenomenon and appears to be comprehensive in all walks of life. In recent years, the World Health Organization (WHO) has included it in the International Classification of Diseases. The growing discussion by international organizations shows increasing public concern about the impact. In addition, more related studies have pointed out that it has caused a significant economic burden on the world. At this stage, the judgment of burnout is still vague and can only rely on the subjective judgment of the relevant scales, but it is still difficult to be a reliable indicator. An objective and effective burnout assessment system is crucial. This study chose the police as the starting point. Using functional near-infrared spectroscopy (fNIRS) to measure changes in hemoglobin concentration in the prefrontal lobe during 33 active police officers performing the mental arithmetic task and the verbal fluency task. We extracted the features after processing the signals. After that, the group was marked with the relevant scale score and then imported into the support vector machine algorithm. Finally, a model with a training accuracy rate of 91.3% and a test accuracy rate of 90.0% was obtained, demonstrating that the burnout assessment system using fNIRS combined with machine learning is promising.",
+    "legacy": true
   },
   {
     "id": "109",
@@ -555,7 +629,9 @@
     "bottomLine": "אם אתם או קרוביכם סובלים מדמנציה, חשוב לסקור עם הרופא את כל התרופות הנלקחות ולהעריך את הצורך בהן מחדש.",
     "category": "מחקר",
     "publishDate": "9 במרץ 2026",
-    "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260307213244.htm"
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260307213244.htm",
+    "abstract": "A massive UK study of more than 165,000 dementia patients has uncovered troubling new evidence about risperidone, a commonly used drug for severe agitation. Researchers found the antipsychotic increases stroke risk in dementia patients across the board—including those with no prior heart disease or stroke—challenging the long-held belief that some patients might be safer candidates than others. Because risperidone is the only drug of its type licensed for dementia, doctors often use it as a last resort when distressing symptoms become unmanageable.",
+    "legacy": true
   },
   {
     "id": "108",
@@ -573,7 +649,9 @@
     "bottomLine": "שמירה על בריאות המוח לאורך החיים - באמצעות פעילות גופנית, גירוי קוגניטיבי ותזונה נכונה - חשובה עוד יותר לאור הקשר להזדקנות.",
     "category": "מחקר",
     "publishDate": "8 במרץ 2026",
-    "sourceUrl": "https://doi.org/10.15283/ijsc25100"
+    "sourceUrl": "https://doi.org/10.15283/ijsc25100",
+    "abstract": "As global societies age, the prevalence of neurodegenerative disorders, such as Alzheimer's disease, is rapidly increasing, intensifying the need to understand the mechanisms of aging and their contribution to these conditions. Consequently, the focus of aging research has shifted from the traditional concept of chronological age to a more nuanced understanding of biological age. This has spurred active investigation into robust biomarkers, including cellular senescence. However, the application of classical senescence markers to the brain presents a substantial challenge, as their validity in post-mitotic cells, such as neurons, remains unclear. In this review, we highlight the limitations of the current metrics for cellular senescence as indicators of biological aging, and propose a path forward focused on identifying and modeling cell-type-specific aging markers within the brain.",
+    "legacy": true
   },
   {
     "id": "106",
@@ -582,7 +660,9 @@
     "bottomLine": "זהו מחקר בסיסי מעניין, אך עדיין מוקדם מדי לקבוע אם פליתין יכול להועיל לבני אדם - המתן לראיות קליניות.",
     "category": "מחקר",
     "publishDate": "8 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41793542/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41793542/",
+    "abstract": "Neurodegenerative diseases are strongly associated with aging and oxidative stress, underscoring the need for natural compounds that promote healthy aging. The mycosporine-like amino acid (MAA) \"palythine\", a photoprotective metabolite, exhibits promising bioactivity in mitigating age-related decline. Ultraviolet-B (UV-B, 280-315&#xa0;nm) radiation is a major inducer of DNA damage, oxidative stress and apoptosis, all of which accelerate aging. In this study, we investigated the effects of palythine on oxidative stress and cognition using the transgenic, humanized model organism Caenorhabditis elegans. Palythine supplementation reduced key biomarkers of aging, including autofluorescence and lipid accumulation, while enhancing antioxidant enzyme activity. Stress resistance assays showed that UV-B exposure significantly reduced survival, whereas palythine improved UV-B resistance and extended longevity. Additionally, palythine preserved neuronal health by maintaining nicotinic acetylcholine receptor function and reducing &#x3b1;-synuclein aggregation, a hallmark of neurodegeneration. Since acetylcholine and dopamine are essential for cognition, behavior and motor function, these findings suggest that palythine enhances systemic health span. Overall, palythine emerges as a potent natural bioactive molecule with antioxidant, neuroprotective and anti-aging properties, supporting its potential as a therapeutic candidate for healthy aging and cognitive resilience.",
+    "legacy": true
   },
   {
     "id": "105",
@@ -600,7 +680,9 @@
     "bottomLine": "אם אתה חולה סוכרת, חשוב במיוחד לעקוב אחר בדיקות עיניים שוטפות ולשמור על איזון סוכר - טיפולים חדשים עשויים להיות זמינים בעתיד.",
     "category": "טכנולוגיה רפואית",
     "publishDate": "8 במרץ 2026",
-    "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260306224225.htm"
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260306224225.htm",
+    "abstract": "A newly identified protein may hold the key to preventing diabetic blindness. Researchers discovered that LRG1 triggers the earliest damage in diabetic retinopathy by constricting tiny retinal blood vessels and reducing oxygen supply. In mice, shutting down this protein stopped the damage before it could take hold. The finding could pave the way for treatments that protect vision before symptoms ever begin.",
+    "legacy": true
   },
   {
     "id": "103",
@@ -627,7 +709,9 @@
     "bottomLine": "נשים בהריון או המתכננות הריון יכולות להפחית חשיפה למתכות כבדות באמצעות בחירת מזון איכותי, הימנעות ממקורות מים מזוהמים, ובדיקת רמות מינרלים בייעוץ עם רופא.",
     "category": "מחקר",
     "publishDate": "7 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41787901/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41787901/",
+    "abstract": "Pregnancy-triggered shifts in maternal serum elements and gut microbiota may disrupt metabolic balance; yet, their interplay in lipid regulation remains elusive. This study aimed to decode how metal elements and gut microbiota across mid-to-late pregnancy contribute to dyslipidemia and enable early risk prediction. In 689 pregnant women, we measured serum metals and profiled gut microbiota using 16S rRNA sequencing, applying interpretable machine learning and causal inference to unravel element-microbiota-dyslipidemia interactions. Higher serum levels of copper and zinc were linked to adverse lipid profiles, while cobalt showed inverse associations. Metals were also associated with broad alterations in microbial composition and diversity, including shifts in alpha diversity and over 30 significant taxa-level associations, primarily within Firmicutes and Bacteroidota. Microbiota features across pregnancy exhibited extensive associations with lipid metabolism, with reduced alpha diversity linked to elevated levels of triglycerides. Finally, a CatBoost model integrating midpregnancy metals and microbiota robustly predicted late gestational dyslipidemia (AUC = 0.91; AP = 0.94), with SHAP analysis revealing risk-defining microbial thresholds and taxa specific nonlinear effects. These findings demonstrate that maternal elements and microbiota jointly contribute to the development of dyslipidemia, supporting potential strategies for the early identification and prevention of gestational dyslipidemia.",
+    "legacy": true
   },
   {
     "id": "100",
@@ -636,7 +720,9 @@
     "bottomLine": "אם אתם סובלים מאי-ספיקת לב, שאלו את הרופא על מעקב אחר ספירת דם מפורטת וערכי דלקת כחלק מהניטור השוטף.",
     "category": "מחקר",
     "publishDate": "7 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41789332/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41789332/",
+    "abstract": "Heart failure with preserved ejection fraction (HFpEF) is recognized as an aging-related clinical syndrome with high mortality, from which systemic inflammation could represent a primary culprit. Thus, this study aimed to evaluate the association between the lymphocyte-to-monocyte ratio (LMR), a systemic inflammation marker, and clinical outcomes, and to explore the mediation effect of the LMR in the relationship between age and mortality for HFpEF. Participants in the Real-world Data of Cardiometabolic ProtEcTion trial (RED-CARPET) trial were categorized into tertiles based on the recorded LMRs. We employed Cox regression analyses to explore the relationship between the LMR and mortality, as well as mediation analyses to determine whether the LMR serves as a mediator between aging and mortality. A total of 1274 inpatients with HFpEF were enrolled between May 2015 and December 2023. After a median follow-up period of 4.9 years, there were 166 recorded deaths, of which 82 were due to cardiovascular causes. In the third model, each one-unit increase in standard deviation (SD) for age was correlated with a 1.98-fold increase in the risk of overall mortality (95% confidence interval (CI), 1.66-2.35) and a 1.73-fold increase in the risk of death due to cardiovascular disease (95% CI, 1.36-2.21). Compared to patients in the first tertile of the LMR, those in the third tertile exhibited a lower risk of death (hazard ratio (HR) 0.42; 95% CI (0.27-0.65)) and cardiovascular death (HR 0.23; 95% CI (0.12-0.46)). Mediation analyses indicated that the LMR partially mediated the relationship between age and cardiovascular mortality in patients with HFpEF, with a mediation proportion of 17.9% (95% CI (7.2%-36%); p &lt; 0.001). The LMR may serve as a marker for mortality and is implicated in the mediation of age-related cardiovascular death in patients with HFpEF. This study offers a cost-effective predictor for HFpEF and suggests potential mechanisms related to immunosenescence and",
+    "legacy": true
   },
   {
     "id": "99",
@@ -654,7 +740,9 @@
     "bottomLine": "מחקר בסיסי זה מקדם את ההבנה המדעית של הזדקנות, אך עדיין מוקדם מדי ליישומים קליניים — בינתיים, שמירה על אורח חיים בריא היא הדרך הטובה ביותר לתמוך במערכת החיסון.",
     "category": "מחקר",
     "publishDate": "6 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41784043/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41784043/",
+    "abstract": "Immunosenescence represents a critical aspect of the aging process. Centenarians, serving as a nature model of \"healthy aging,\" demonstrate a distinctive immune \"compensatory adaptation\" mechanism that contributes to the maintenance of immune homeostasis. However, the specific immune cell subsets involved and the molecular mechanisms underlying these phenotypic traits remain incompletely understood. In this study, we integrated single-cell RNA sequencing data spanning the entire lifespan of East Asian populations with bulk transcriptomic data from a centenarian cohort in Guangxi. Utilizing the Scissor algorithm, we identified immune cell subpopulations positively (Scissor+) and negatively (Scissor-) associated with longevity phenotypes, thereby constructing an immune cell atlas of \"Longevity Molecular Tag.\" Our findings indicate that Scissor+ cells predominantly comprise natural killer (NK) cells, CD8+ T cells, and &#x3b3;&#x3b4; T cells, characterized by enhanced cytotoxic and immunomodulatory functions. Conversely, Scissor- cells mainly include CD4+ T cells, B cells, and dendritic cells (DCs), which are linked to inflammatory signaling pathways and Th17/Th1 differentiation. Trajectory analysis elucidated the differentiation pathways of NK, CD8+ T cells, CD4+ T cells, and B cells. Differentially expressed genes were enriched in pathways such as NF-&#x3ba;B signaling, T cell receptor signaling, and NK cell cytotoxicity. Furthermore, co-localization analysis revealed five eQTL-colocalized events (rs3793537-GLIPR2/CD72/TLN1 and rs8019902-TRDV2/TRDC) associated with longevity. Collectively, these results suggest that centenarians achieve immune equilibrium by remodeling cytotoxic immune lineages and finely tuning inflammatory responses, thereby promoting health span and longevity. This study offers novel insights into potential strategies for modulating immunosenescence.",
+    "legacy": true
   },
   {
     "id": "97",
@@ -681,7 +769,9 @@
     "bottomLine": "גם אם אתם מתעניינים בבריאות, כדאי ללמוד את ההבדל המהותי: המטרה היא לא רק לחיות זמן רב יותר, אלא לחיות בריאים ופעילים שנים רבות יותר.",
     "category": "מחקר",
     "publishDate": "5 במרץ 2026",
-    "sourceUrl": "https://doi.org/10.1007/s11357-026-02160-8"
+    "sourceUrl": "https://doi.org/10.1007/s11357-026-02160-8",
+    "abstract": "Given the growing global interest in Healthy Longevity Medicine (HLM), the field lacks understanding about public knowledge and interest, which are crucial for any public health intervention relying on HLM. This study presents findings from the Healthy Longevity (HELO) survey conducted in Singapore, assessing public knowledge regarding lifespan (number of years a person is alive), healthspan (number of years a person spends in good health), and interest in HLM. This nationwide cross-sectional survey, conducted between June and August 2024, involved 3034 participants. Main domains including questions on demographics, living arrangements, medical information, health behaviours, income and financial status were tested for associations with knowledge about lifespan and healthspan, and interest in HLM clinics using binary logistic regression. While 82.3% of 46 years old [IQR, 34-59] participants correctly defined lifespan, 41.3% accurately defined healthspan and 55.5% expressed interest in HLM clinics. Younger age, male gender, Chinese ethnicity, higher education and income, full-time employment, lower body mass index, supplement use, moderate (vs. no) alcohol consumption, high exercise frequency and enrolment in (self-paid) annual health screenings were associated with better knowledge and stronger interest in HLM clinics. These findings highlight the need for targeted education to enhance understanding of healthspan and implement evidence-based preventive health programmes, supporting the clinical translation of geroscience into Precision Geromedicine through HLM clinics.",
+    "legacy": true
   },
   {
     "id": "94",
@@ -690,7 +780,9 @@
     "bottomLine": "אם אתם או קרוב משפחה מאובחנים עם סרטן דרכי מרה בכבד, שאלו את האונקולוג על טיפול ניאו-אדג'ובנטי (לפני ניתוח) - זה עשוי לשפר את סיכויי ההחלמה.",
     "category": "טכנולוגיה רפואית",
     "publishDate": "5 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41780001/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41780001/",
+    "abstract": "No neoadjuvant treatment has been considered to be standard therapy for patients with resectable intrahepatic cholangiocarcinoma with high-risk factors for recurrence. The GOLP regimen (gemcitabine-oxaliplatin, lenvatinib, and an anti-programmed death 1 antibody) has shown promising efficacy with a manageable safety profile in advanced intrahepatic cholangiocarcinoma and biliary tract cancer. In a phase 2-3 trial, we randomly assigned, in a 1:1 ratio, patients with resectable high-risk intrahepatic cholangiocarcinoma to the neoadjuvant group (intravenous gemcitabine-oxaliplatin plus toripalimab every 3 weeks for three cycles and oral lenvatinib once daily for 9 weeks, followed by curative resection) or the control group (curative resection and no neoadjuvant treatment). All patients received adjuvant capecitabine for eight cycles after surgery. The primary end point was event-free survival. Secondary end points included overall survival and safety. A total of 178 patients underwent randomization (88 patients to the neoadjuvant group and 90 to the control group). At the interim analysis at a median follow-up of 16.9 months, the median event-free survival was significantly longer in the neoadjuvant group (18.0 months; 95% confidence interval [CI], 13.8 to 27.6) than in the control group (8.7 months; 95% CI, 7.2 to 12.4) (P&lt;0.001). Overall survival at 24 months was 79% (95% CI, 70 to 90) in the neoadjuvant group and 61% (95% CI, 50 to 75) in the control group (hazard ratio for death, 0.43; 95% CI, 0.23 to 0.79; P&#x2009;=&#x2009;0.005, which did not meet the significance criterion [two-sided alpha, 0.0019]). Across all treatment phases, adverse events occurred in 97% of the patients in the neoadjuvant group and in 70% of those in the control group. During the neoadjuvant phase, adverse events of grade 3 or higher occurred in 28% of the patients, and treatment-related adverse events of grade 3 or higher in 26%. No treatment-related adverse event led to death. Neoadju",
+    "legacy": true
   },
   {
     "id": "93",
@@ -699,7 +791,9 @@
     "bottomLine": "במקום לחכות למחלה, מדידת חוסן הגוף בבדיקות שגרתיות עשויה לאפשר התערבות מוקדמת יותר ומדויקת יותר - שאלו את הרופא על בדיקות המעריכות חוסן ולא רק נוכחות מחלה.",
     "category": "מחקר",
     "publishDate": "5 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41780646/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41780646/",
+    "abstract": "Population ageing has widened the gap between lifespan and healthspan, with frailty and functional dependence increasingly shaping late-life outcomes. Yet trajectories in older age remain highly heterogeneous, suggesting that vulnerability is not determined by chronological age alone but by differences in adaptive capacity. This review reframes resilience as a dynamic, multilevel construct linking molecular maintenance, regulation within the immune-endocrine-autonomic \"vital systems triad,\" and functional trajectories captured by the WHO Intrinsic Capacity framework. We synthesize evidence supporting operational resilience indicators based on recovery dynamics, physiological flexibility, and integrated biomarker profiles spanning multi-omics, autonomic and endocrine rhythms, digital measures, and functional performance. We further discuss how lifestyle, psychosocial, and emerging pharmacological strategies converge on shared resilience pathways and generate measurable molecular and physiological signatures. Finally, we propose an integrated longevity medicine framework as a translational model to incorporate resilience assessment into clinical decision-making, predictive modelling, and prevention-oriented policy. Positioning resilience as a modifiable target may help shift ageing strategies from disease-centred care toward preserving adaptive capacity, functional independence, and meaningful engagement across the life course.",
+    "legacy": true
   },
   {
     "id": "92",
@@ -708,7 +802,9 @@
     "bottomLine": "מחקרים אלה עדיין בשלב מוקדם, אך חשוב להבין כיצד התערבויות פוטנציאליות להארכת חיים עשויות להשפיע על יעילות פעילות גופנית.",
     "category": "מחקר",
     "publishDate": "4 במרץ 2026",
-    "sourceUrl": "https://doi.org/10.4081/ejtm.2026.15051"
+    "sourceUrl": "https://doi.org/10.4081/ejtm.2026.15051",
+    "abstract": "Exercise is associated with decreased risk of multi-morbidity and mortality while rapamycin can extend lifespan and decrease age-related pathologies in model systems. An increasing number of physically active older adults are now taking rapamycin off label with the goal of further extending healthspan than either intervention alone (1). However, there is a paucity of data to understand whether combining these treatments can have positive or detrimental effects on fundamental mechanisms of aging, metabolism, and healthy longevity (2). Despite the lifespan extending effects, frequent rapamycin dosing disrupts metabolic health during sedentary conditions (3) and restricts skeletal muscle hypertrophy after electrical stimulation which would seemingly appear contrary to healthy longevity. Intermittent once-weekly rapamycin can also confer lifespan extension while alleviating metabolic disruptions of more frequent dosing both in sedentary and exercise-trained young mice (3,4,5). Besides glucose homeostasis, rapamycin did not hinder skeletal muscle and physical performance after voluntary exercise in young, female mice (4). However, it remains unknown how different rapamycin dosing schedules impact metabolic, physical and molecular adaptions to voluntary exercise training in the context of aging. Our preliminary findings suggest that 8-weeks of progressive weighted wheel running (PWR) (6) started later in life (22 months old), partially restored age-related deficits in adiposity, glucose metabolism, physical performance, skeletal muscle mass, and a composite skeletal muscle multi-omic aging score toward that of young, sedentary controls (5 months old). However, frequent rapamycin (2mg/kg, 5d/wk) exacerbated age- related pro-inflammatory pathways and induced whole-body insulin resistance in sedentary conditions and appears to attenuate or prevent PWR-induced improvements to insulin sensitivity, treadmill exercise capacity, skeletal muscle mass, and skeletal muscle multi-omi",
+    "legacy": true
   },
   {
     "id": "91",
@@ -717,7 +813,9 @@
     "bottomLine": "לימוד הרגלי החיים של אנשים שהגיעו לגיל מופלג יכול לספק תובנות מעשיות להזדקנות בריאה יותר.",
     "category": "אורח חיים",
     "publishDate": "4 במרץ 2026",
-    "sourceUrl": "https://doi.org/10.4081/ejtm.2026.15015"
+    "sourceUrl": "https://doi.org/10.4081/ejtm.2026.15015",
+    "abstract": "Across geographically and culturally diverse Blue Zones, octogenarians and nonagenarians share a strikingly consistent set of lifestyle patterns that appear to contribute to their exceptional longevity and preserved function, offering a natural model of successful aging in the very old (1). Despite differences in culture and environment, these individuals typically follow plant-forward, minimally processed diets centered on legumes, vegetables, whole grains, and healthy fats, with occasional modest portions of animal protein. Meals are typically moderate in energy and tend to occur earlier in the day, limiting late-evening caloric intake. These patterns are often embedded in culturally transmitted norms, such as the Okinawan concept of ikigai (sense of purpose), moai (stable social support networks), and hara hachi bu (mindful caloric moderation) (2). These culturally embedded practices often function as ‘behavioral scaffolds’ that facilitate sustained adherence to health-promoting behaviors by reducing cognitive load, decision fatigue, and reliance on individual motivation. Physical activity is not structured as formal exercise but is woven into daily life through walking, gardening, household tasks, and purposeful movement, characterized by high-frequency, low-intensity activity, frequent weight-bearing and postural challenges, minimal prolonged sedentary behavior, and sustained engagement across the lifespan (3). Equally important are strong psychosocial protective factors, including close social ties, multigenerational engagement, meaningful daily roles, and a clear sense of purpose, factors that are consistently associated with lower mortality risk, reduced inflammation, and better cognitive and emotional health in later life (4). These individuals also show effective stress regulation through simple daily rituals, such as prayer, brief rest periods, and communal gatherings, and maintain relatively stable sleep–wake and circadian patterns characterized by regul",
+    "legacy": true
   },
   {
     "id": "90",
@@ -726,7 +824,9 @@
     "bottomLine": "הבנה נכונה של ההבדל בין תוחלת חיים כוללת לתוחלת חיים בריאה היא מפתח לקבלת החלטות מושכלות לגבי אורח חיים ובריאות.",
     "category": "מחקר",
     "publishDate": "4 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41775955/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41775955/",
+    "abstract": "Given the growing global interest in Healthy Longevity Medicine (HLM), the field lacks understanding about public knowledge and interest, which are crucial for any public health intervention relying on HLM. This study presents findings from the Healthy Longevity (HELO) survey conducted in Singapore, assessing public knowledge regarding lifespan (number of years a person is alive), healthspan (number of years a person spends in good health), and interest in HLM. This nationwide cross-sectional survey, conducted between June and August 2024, involved 3034 participants. Main domains including questions on demographics, living arrangements, medical information, health behaviours, income and financial status were tested for associations with knowledge about lifespan and healthspan, and interest in HLM clinics using binary logistic regression. While 82.3% of 46&#xa0;years old [IQR, 34-59] participants correctly defined lifespan, 41.3% accurately defined healthspan and 55.5% expressed interest in HLM clinics. Younger age, male gender, Chinese ethnicity, higher education and income, full-time employment, lower body mass index, supplement use, moderate (vs. no) alcohol consumption, high exercise frequency and enrolment in (self-paid) annual health screenings were associated with better knowledge and stronger interest in HLM clinics. These findings highlight the need for targeted education to enhance understanding of healthspan and implement evidence-based preventive health programmes, supporting the clinical translation of geroscience into Precision Geromedicine through HLM clinics.",
+    "legacy": true
   },
   {
     "id": "89",
@@ -744,7 +844,9 @@
     "bottomLine": "טיפול במבוגרים כרוך בעומס נפשי כבד - חשוב לזהות סימני לחץ ולחפש תמיכה מקצועית מוקדם ככל האפשר.",
     "category": "אורח חיים",
     "publishDate": "3 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41767904/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41767904/",
+    "abstract": "As the global population ages, the number of caregivers has risen accordingly. Though caregiving has many rewards, it may also cause psychological stress. To manage this burden, caregivers may adopt various coping strategies, including cannabis use. This systematic review aimed to synthesize existing literature on cannabis use among caregivers for older adults. A database search in PubMed, PsycINFO, and CINAHL identified 357 unique peer-reviewed articles to screen and five were included in the review. Studies were included if they reported empirical data on cannabis use among caregivers for older adults. Of the five included studies, four studies found that caregivers reporting high stress or emotional burden used cannabis to cope, with two finding new or increased use during the COVID-19 pandemic. One study found that using cannabis improved caregivers' self-reported health and well-being; another found positive caregiver attitudes toward recreational cannabis. Two studies found higher caregiver anxiety was associated with increased cannabis use. Despite limited research, these studies underscore the role of cannabis as a potential coping mechanism for caregivers of older adults experiencing emotional burden. Additional research should seek to characterize longitudinal patterns of cannabis use among caregivers and its potential impact on both caregiver and care recipients.",
+    "legacy": true
   },
   {
     "id": "87",
@@ -753,7 +855,9 @@
     "bottomLine": "תזונה היא רק חלק מהתמונה - מצב כלכלי וזמינות משאבים משפיעים באופן משמעותי על בריאות המוח בהזדקנות.",
     "category": "תזונה",
     "publishDate": "3 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41770650/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41770650/",
+    "abstract": "Global variation in dementia incidence reflects demographic and socioeconomic forces, yet the role of staple dietary patterns remains less defined. While population ageing is a key determinant of dementia burden, differences in cereal consumption, particularly rice, wheat, and maize, have received limited attention. This ecological study examined whether national cereal consumption patterns are associated with dementia incidence across countries independent of confounding factors. Country-level data from 204 nations were compiled, with complete case analyses conducted in 184 countries. Alzheimer's disease and other dementias incidence in 2021 served as the outcome variable. Predictors included per capita consumptions of total cereals, rice, wheat, and maize, alongside genetic predisposition, economic affluence, urban living, ageing indexed by life expectancy at age sixty, and meat consumption. Pearson and partial correlations, principal component analysis, and stepwise multiple regression were applied. Wheat consumption was positively associated with dementia incidence, affluence, and longevity, whereas rice and maize consumption showed inverse associations. Partial correlations confirmed a persistent inverse association for rice consumption and a weaker inverse association for total cereal consumption after adjustment. Principal component analysis identified a socioeconomic component aligned with wheat consumption and ageing, while rice and maize loaded inversely. Stepwise regression demonstrated that ageing was the strongest predictor of dementia incidence, while rice and total cereal consumption retained small independent inverse associations. Global dementia incidence is driven primarily by population ageing and socioeconomic development. Cereal type reflects distinct developmental contexts, with rice-based patterns associated with a modestly lower dementia burden.",
+    "legacy": true
   },
   {
     "id": "86",
@@ -789,7 +893,9 @@
     "bottomLine": "מחקר בסיסי מעניין שתורם להבנת ביולוגיית ההזדקנות, אך עדיין רחוק מאוד מיישום בבני אדם — אין להשתמש בתרכובת זו כתוסף תזונה.",
     "category": "מחקר",
     "publishDate": "2 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41765995/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41765995/",
+    "abstract": "Transcription is a major cellular energy sink tightly coupled to growth, metabolism, and aging. Thiolutin, a widely used RNA polymerase inhibitor in yeast, has unclear long-term effects on aging. We show that thiolutin oppositely affects replicative and chronological aging in Saccharomyces cerevisiae by remodeling transcription, metabolism, and proteostasis. Thiolutin extends replicative lifespan, increasing reproductive potential and prolonging the mitotic phase, despite slower growth and lower ATP. This longevity is linked to global transcriptional repression, including reduced ribosome biogenesis, translation, and mitochondrial oxidative phosphorylation, and dampening of TOR1-dependent growth programs. In parallel, thiolutin triggers a selective adaptive response with activation of RPN4-mediated proteasome remodeling and redox-responsive genes, without HOG1 induction. Conversely, thiolutin accelerates early chronological aging: post-mitotic survival drops alongside repression of reserve carbohydrate genes (GPH1, GSY2, TSL1), suggesting impaired adaptation when entering stationary phase. FT-Raman spectroscopy confirms coordinated depletion of RNA, proteins, lipids, and carbohydrates. Thus, thiolutin promotes a low-energy, stress-adaptive state that benefits budding yeast cells but compromises early survival of non-budding populations, underscoring transcription&#x2013;energy coupling in aging trajectories.",
+    "legacy": true
   },
   {
     "id": "82",
@@ -807,7 +913,9 @@
     "bottomLine": "זוהי סקירה תיאורטית שמציעה מסגרת רעיונית, אך טרם מספקת כלים מעשיים ליישום מיידי.",
     "category": "מחקר",
     "publishDate": "1 במרץ 2026",
-    "sourceUrl": "https://doi.org/10.20944/preprints202602.1770.v1"
+    "sourceUrl": "https://doi.org/10.20944/preprints202602.1770.v1",
+    "abstract": "Aging is a fundamental biological process characterized by morphological and functional decline ultimately leading to death. Current research in aging is directed toward extending both healthspan and lifespan by elucidating the molecular and cellular mechanisms that drive aging and by developing interventions capable of delaying, preventing, or reversing age-associated physiological decline and multimorbidity. In this chapter, we take a broader view beyond the healthspan and lifespan of individuals, to consider deep issues impacting the duration and nature of our embodiment, including the nature of change, the meaning of personal persistence, and the future of humanity at multiple scales. If you don’t change, you die out (or become irrelevant); but if you change, are you still present? We argue that aging, like traumatic injury and cancer, is a fundamental challenge to an embodied mind seeking to maintain its distinct nature, differentiated from the environment. Understanding aging thus must take place within the context of a broader story of how biological individuals come to exist, how they continue to exist despite continual challenge, and how their plasticity can be leveraged for transformative change beyond mere persistence. Here, we will present our aging framework grounded in the collective intelligence of cells, then we will discuss the implication for the human- and the species-level aspects of artificial chimerism and its corollary - multiscale (non-Darwinian) evolution. We conclude with some important open questions for humanity with respect to the implications of rejuvenation and longevity technologies.",
+    "legacy": true
   },
   {
     "id": "80",
@@ -816,7 +924,9 @@
     "bottomLine": "הרגלי אורח חיים בריאים עשויים להאט את ההזדקנות הביולוגית ברמה המולקולרית, מעבר להשפעה על תחושת הרווחה.",
     "category": "אורח חיים",
     "publishDate": "1 במרץ 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41763011/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41763011/",
+    "abstract": "Lifestyle factors play a critical role in healthy aging, yet their relationships with aging biomarkers remain insufficiently characterized, particularly in Asian populations. This study aimed to examine the cross-sectional and longitudinal associations between 15 modifiable lifestyle factors and two DNA methylation (DNAm) clocks (GrimAge acceleration [AgeDev] and DunedinPACE) in a cohort of older Asian adults. We conducted a cross-sectional analysis of 631 participants (median age 70.0 years; 72.6% female) and a longitudinal analysis of 114 participants (mean follow-up 3.96 years) from the Singapore Diet and Healthy Aging (DaHA) cohort. Lifestyle exposures were assessed using validated self-administered questionnaires. Peripheral blood DNAm profiles were generated using the Illumina MethylationEPIC array. Multivariable linear regression models were applied to evaluate associations between lifestyle factors and DNAm clocks, adjusting for sociodemographic covariates, health status, and immune cell-type proportions. In cross-sectional analyses, smoking history showed robust positive associations with accelerated epigenetic aging (GrimAge AgeDev: &#x3b2; = 1.45, 95% CI 1.13-1.77, p &lt; 0.0001; DunedinPACE: &#x3b2; = 0.63, 95% CI 0.22-1.05, p = 0.003). Conversely, weekly physical activity was associated with slower aging (GrimAge AgeDev: &#x3b2; = -0.22, 95% CI -0.40 to -0.04, p = 0.02), as was daily engagement in cognitively stimulating activities (GrimAge AgeDev: &#x3b2; = -0.16, 95% CI -0.31 to -0.01, p = 0.04). Weekly feelings of stress were initially associated with greater GrimAge AgeDev, but this relationship was attenuated after full adjustment. No significant longitudinal associations were detected, which may reflect limited statistical power and the stability of long-standing lifestyle behaviors over the follow-up period. These findings highlight significant cross-sectional associations between key modifiable lifestyle factors, particularly smoking, physical a",
+    "legacy": true
   },
   {
     "id": "79",
@@ -825,7 +935,9 @@
     "bottomLine": "הבנת התהליכים השונים בהם איברים שונים מזדקנים עשויה לאפשר בעתיד טיפולים מותאמים אישית להאטת הזדקנות.",
     "category": "מחקר",
     "publishDate": "1 במרץ 2026",
-    "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260228082717.htm"
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260228082717.htm",
+    "abstract": "Scientists have built a massive cellular atlas showing how aging reshapes the body across 21 organs. Studying nearly 7 million cells, they found that aging starts earlier than expected and unfolds in a coordinated way throughout the body. About a quarter of cell types change in number over time, and many of these shifts differ between males and females. The research also highlights shared genetic “hotspots” that could become targets for anti-aging therapies.",
+    "legacy": true
   },
   {
     "id": "78",
@@ -843,7 +955,9 @@
     "bottomLine": "כלי המחקר החדש עשוי לזרז את זיהוי ההתערבויות היעילות, אך עדיין מדובר במודל חייתי ולא באדם.",
     "category": "מחקר",
     "publishDate": "28 בפברואר 2026",
-    "sourceUrl": "https://doi.org/10.64898/2026.02.25.707674"
+    "sourceUrl": "https://doi.org/10.64898/2026.02.25.707674",
+    "abstract": "ABSTRACT Mouse lifespan studies are slow and costly, limiting the number of interventions that have demonstrated robust anti-aging effects. This highlights the need for rapid early-stage screening tools capable of assessing both efficacy and potential side effects. Here, we present a short-term performance assay designed to rapidly profile functional benefits and early toxicity of longevity interventions in mice. Over an 8-week period, mice received one of five candidate anti-aging treatments: 17α-estradiol, rapamycin + Smer28, berberine + resveratrol, sildenafil and pinealon. The protocol longitudinally monitored body weight and temperature, and food intake, alongside post-treatment assessments of grip strength, locomotor activity, Y-maze cognition, social behavior, and hematological and urinary parameters. The screen revealed compound-specific phenotypes: 17α-estradiol induced significant weight loss, increased grip strength, and dorsal alopecia, consistent with metabolic remodeling. Sildenafil reduced basal body temperature and preserved locomotor activity. Berberine + resveratrol decreased food intake and fasting glucose without major changes in physical performance, resembling caloric restriction-like metabolic effects. Rapamycin + Smer28 modestly improved strength and sociability but induced anemia in 2 of 5 mice, indicating potential dose-dependent toxicity. Pinealon showed a trend toward improved working memory without detectable adverse effects. This multi-parametric approach enables discover healthspan extending interventions facilitating prioritization and dose refinement before committing to full lifespan studies. Finally, to our knowledge, this represents the first comprehensive preclinical aging study in mice fully funded through tokenized decentralized science (DeSci), demonstrating how community-governed, on-chain funding can support resource-intensive in vivo research.",
+    "legacy": true
   },
   {
     "id": "76",
@@ -852,7 +966,9 @@
     "bottomLine": "מדובר במחקר בסיסי שמרחיב את ההבנה המדעית, אך טרם מוביל ליישומים קליניים.",
     "category": "גנטיקה",
     "publishDate": "28 בפברואר 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41760805/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41760805/",
+    "abstract": "Comparative biology plays a crucial role in uncovering fundamental biological mechanisms and providing evolutionary models for their variation. This approach is particularly valuable for studying aging, given the remarkable diversity in aging trajectories across the tree of life. Many evolutionary theories of aging were proposed well before the discovery of the molecular mechanisms involved, and they remain largely theoretical. Moreover, the growing number of model organisms and the expanding array of experimental and theoretical approaches used to study aging have often remained compartmentalized. As a result, integrating these diverse insights into a unified framework has become increasingly important. As a step toward this goal, this field perspective outlines general biological mechanisms that help explain the variability in aging patterns and longevity across the animal kingdom.",
+    "legacy": true
   },
   {
     "id": "75",
@@ -861,7 +977,9 @@
     "bottomLine": "מדובר במחקר טרום-קליני — השתלים הללו עדיין לא זמינים לשימוש רפואי שגרתי.",
     "category": "טכנולוגיה רפואית",
     "publishDate": "28 בפברואר 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41761324/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41761324/",
+    "abstract": "The evolution of spinal implant materials must keep pace with advances in our understanding of bone biomechanics and changing clinical demands in spine surgery. While early innovations primarily addressed trauma and spinal deformities using titanium alloys as the gold standard, an aging population has led to an increasing detection of osteoporosis and metastatic spine disease. These conditions fundamentally alter bone quality and mechanical behaviour and pose significant challenges for traditional metallic implants. These are not only due to stress shielding and increased risk of failure in compromised bone but also their radiopacity, which produces imaging artifacts that obscure anatomical detail and complicate disease monitoring and radiotherapy. Innovations in advanced polymers, bioactive material integrations, and additive manufacturing have delivered a glimpse into the next generation of implants tailored to the multifaceted demands of modern spinal surgery. This paper studies the evolution of spinal pathologies to deliver the guided engineering of future implant materials that offer optimal mechanical compatibility, biological integrability, radiological advantages, and allow for enhanced processibility and customization for patient-specific applications. This paradigm shift promises improved implant longevity, enhanced biological response, superior imaging and radiotherapy outcomes, and greater potential for personalized solutions to ultimately advance care for patients with osteoporosis, metastatic disease, and other complex spinal conditions.",
+    "legacy": true
   },
   {
     "id": "74",
@@ -870,7 +988,9 @@
     "bottomLine": "נשים צריכות להקפיד על בדיקות לב תקופתיות ולשלב פעילות גופנית ותזונה מגנת לב כבר היום.",
     "category": "מחקר",
     "publishDate": "28 בפברואר 2026",
-    "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260227061818.htm"
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260227061818.htm",
+    "abstract": "Heart disease is on track to tighten its grip on American women. New projections from the American Heart Association warn that over the next 25 years, cardiovascular disease will rise sharply, driven largely by a surge in high blood pressure, diabetes, and obesity. By 2050, nearly 60% of women in the U.S. could have high blood pressure, and close to one in three women ages 22 to 44 may already be living with some form of heart disease.",
+    "legacy": true
   },
   {
     "id": "73",
@@ -888,7 +1008,9 @@
     "bottomLine": "ניתן להשוות את הביצועים הגופניים שלכם לערכי ייחוס מבוססי מחקר ולזהות תחומים לשיפור לפני שנוצרות בעיות.",
     "category": "מחקר",
     "publishDate": "27 בפברואר 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41749014/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41749014/",
+    "abstract": "Simple performance-based tests such as gait speed, the Five-Times-Sit-to-Stand Test (FTSST), balance tests, and handgrip strength are associated with health outcomes. We aimed to establish age- and sex-specific reference (normative) values for these tests in the English population. Adults aged&#x2009;&#x2265;&#x2009;50&#xa0;years (female n&#x2009;=&#x2009;4,234; male n&#x2009;=&#x2009;3,424) from the English Longitudinal Study of Ageing were included. Weighted percentiles ranging from the 5th to the 95th&#xa0;percentile [P5-95] were calculated. Best gait speed performance was found among 60-64-year-olds (female P5-95: 0.54-1.46&#xa0;m/s; male P5-95: 0.60-1.56&#xa0;m/s) and the worst among&#x2009;&#x2265;&#x2009;85-year-olds (female P5-95: 0.23-0.98&#xa0;m/s; male P5-95: 0.26-1.05&#xa0;m/s). Best FTSST performance was found among 50-54- and 55-59-year-olds (female P5-95: 15.6-5.6&#xa0;s; male P5-95: 14.1-5.5&#xa0;s) and the worst among&#x2009;&#x2265;&#x2009;85-year-olds (female P5-95: 26.3-9.8&#xa0;s; male P5-95: 23.4-8.6&#xa0;s). Balance tests showed variable age patterns; however, performance in single-leg balance with eyes closed was best among the youngest available age group and worst among the oldest available age group. The highest handgrip strength (standing position) was found among 50-54- and 55-59-year-olds (female P5-95: 15-38&#xa0;kg; male P5-95: 32-58&#xa0;kg) and lowest among&#x2009;&#x2265;&#x2009;85-year-olds (female P5-95: 9-24&#xa0;kg; male P5-95: 19-38&#xa0;kg), with a similar pattern for the sitting testing position. These values can serve as a benchmark for clinical assessment, guide interventions, and support future research on physical function and healthy ageing.",
+    "legacy": true
   },
   {
     "id": "71",
@@ -897,7 +1019,9 @@
     "bottomLine": "המחקר מספק תובנות חשובות על מה מייחד אנשים שחיים לגיל מופלג, אך זכרו שמדובר באוכלוסייה ספציפית ותוצאות לא בהכרח ישימות לכולם.",
     "category": "מחקר",
     "publishDate": "27 בפברואר 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41749124/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41749124/",
+    "abstract": "The study of centenarians from a biopsychosocial perspective would allow for understanding the complex interactions among biological, psychological, and social factors, and their impact on defining a healthy aging phenotype in settings with specific conditions. The aim of this study was to describe the baseline characteristics of a centenarian cohort across demographics, clinical, functional, cognitive, and biological measures. This report outlines the Colombian Centenarian Project and the variables used to assess their overall clinical status (including prior chronic diseases) and specific conditions (such as cognitive status and quality of life), as well as the biological variables assessed. A total of 160 centenarians were included, with a median age of 101 years; 72% were women. Most participants (77%) were from low or very low socioeconomic backgrounds, and only 5% had completed at least secondary education. Neurological disorder was the most prevalent chronic disease (24%), followed by arterial hypertension (22%) and cardiovascular disease (17%). A total of 56 centenarians (35%) were free of any age-related chronic disease. Frailty/pre-frailty and sarcopenia were highly prevalent, affecting 98% and 75% of participants, respectively. A favorable self-perceived health status was reported by 62%, and 86% exhibited positive satisfaction with life. 47% had no dementia/questionable dementia, whereas 45% of centenarians were independent or mildly dependent. We present a real-life baseline study on centenarians. Our findings contribute to understanding extreme longevity and may facilitate future studies, progress in healthcare, lifestyle decisions, and societal policies that benefit long-lived people.",
+    "legacy": true
   },
   {
     "id": "70",
@@ -906,7 +1030,9 @@
     "bottomLine": "אם אתם עומדים בקריטריונים לחיסון נגד שלבקת השזורה, ייתכן שתפיקו יתרון כפול — הן במניעת מחלה והן בהאטת תהליכי הזדקנות.",
     "category": "טכנולוגיה רפואית",
     "publishDate": "27 בפברואר 2026",
-    "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260225081153.htm"
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260225081153.htm",
+    "abstract": "A shingles shot might do more than prevent a painful rash — it could actually help slow down the aging process. In a large national study of more than 3,800 Americans age 70 and older, those who received the shingles vaccine showed slower biological aging compared to those who didn’t. Researchers found lower levels of chronic inflammation and slower changes in gene activity linked to aging, suggesting the vaccine may calm the body’s “inflammaging” — the low-grade inflammation tied to heart disease, frailty, and cognitive decline.",
+    "legacy": true
   },
   {
     "id": "69",
@@ -915,7 +1041,9 @@
     "bottomLine": "לפני נטילת תוספי תזונה למוח, כדאי להתייעץ עם רופא — גם מוצרים פופולריים עשויים להיות כרוכים בסיכונים לא ידועים.",
     "category": "תזונה",
     "publishDate": "27 בפברואר 2026",
-    "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260226042458.htm"
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260226042458.htm",
+    "abstract": "A massive study of more than 270,000 people has uncovered a surprising link between a common amino acid and how long men live. Researchers found that higher levels of tyrosine—an amino acid found in protein-rich foods and often marketed as a focus-boosting supplement—were associated with shorter life expectancy in men, potentially trimming nearly a year off lifespan.",
+    "legacy": true
   },
   {
     "id": "68",
@@ -942,7 +1070,9 @@
     "bottomLine": "אמנם לא ניתן לשנות את משקל הלידה שלכם, אך הבנת הקשר הזה מדגישה את חשיבות הבריאות במהלך ההריון ובשנים המוקדמות של החיים.",
     "category": "גנטיקה",
     "publishDate": "26 בפברואר 2026",
-    "sourceUrl": "https://doi.org/10.1186/s12916-026-04737-8"
+    "sourceUrl": "https://doi.org/10.1186/s12916-026-04737-8",
+    "abstract": "Birthweight readily measurable marker of fetal growth that may influence health across the lifespan. We aimed to investigate the potential causal association between birthweight and healthy aging and to identify the mediating roles of subsequent socioeconomic, behavioral, functional, and disease-related factors to inform life-course strategies to promote healthy aging and reduce health inequities. We performed two-sample Mendelian randomization analyses in European-ancestry participants to estimate the effect of birthweight ( n = 298,142–423,683) on two robust, composite healthy aging phenotypes (genetically independent phenotype of aging (aging-GIP) and multivariate aging-related genetic factor (mvAge)) and six individual aging phenotypes, including healthspan, resilience, parental lifespan, self-rated health, phenotypic age deceleration, and 90 th percentile self-longevity ( n = 34,710–1,958,774), and screened for 100 candidate mediators ( n = 14,267–1,812,017) using a two-step mediation analysis. Genetically determined each 1-SD higher birthweight was associated with higher aging-GIP (β [95% CI] in different models ranging from 0.131 [0.066–0.196] to 0.162 [0.089–0.235] SDs) and mvAge (0.036 [0.010–0.063] to 0.045 [0.024–0.067]), independent of later-life obesity indicators; also with more interpretable benefits, including 12%–16% higher odds of longer healthspan, a 0.079–0.089 SD improvement in resilience, and a 1.22–1.74 year increase in parental lifespan. Of 100 candidates, 26 and 25 mediated the effect of birthweight on aging-GIP and mvAge, respectively, including socioeconomic indicators (education, household income, occupational attainment; individual mediation proportion: 12.72%–27.79%); behaviors (e.g., cheese intake, age at first sex; 10.38%–29.56%); physical functions (e.g., blood pressure, grip strength; 7.57%–42.65%); and cardiometabolic diseases (e.g., type 2 diabetes, cardiovascular diseases; 25.02%–70.11%). Higher birthweight within the normal rang",
+    "legacy": true
   },
   {
     "id": "65",
@@ -969,7 +1099,9 @@
     "bottomLine": "מדובר במחקר בסיסי מבטיח, אך הדרך לתרופות זמינות עדיין ארוכה — בשלב זה אין המלצות מעשיות לקהל הרחב.",
     "category": "טכנולוגיה רפואית",
     "publishDate": "25 בפברואר 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41735603/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41735603/",
+    "abstract": "Ferroptosis is an oxidative, lipid peroxidation-driven form of regulated cell death that occurs when antioxidant and organelle-protective systems are compromised. Increasing evidence implicates ferroptosis as a process that can exert both tumour-suppressive and tumour-promoting effects depending on cellular context at multiple stages of cancer evolution (from tumour initiation to metastatic colonization), sparking substantial interest in therapeutically exploiting this mechanism of cell death. Yet, despite rapid preclinical progress, clinical translation of ferroptosis-based strategies remains nascent. In this Review, we examine the major barriers to translation, including pharmacological limitations, tumour-intrinsic heterogeneity, microenvironmental and immune constraints, and gaps in current preclinical modelling. We also highlight emerging opportunities such as new ferroptosis-inducing agents, biomarker-guided patient selection and rational combinations with chemotherapy, radiotherapy, targeted agents or immunotherapies. Finally, we outline a translational roadmap for integrating ferroptosis-based therapies into oncology practice. By defining key challenges and future directions, this Review aims to position ferroptosis as a viable therapeutic paradigm and to accelerate progress towards clinical application.",
+    "legacy": true
   },
   {
     "id": "62",
@@ -978,7 +1110,9 @@
     "bottomLine": "המחקר מדגיש את חשיבות הבריאות במהלך ההריון — ההשפעות עשויות להימשך לאורך כל החיים של הילד.",
     "category": "גנטיקה",
     "publishDate": "25 בפברואר 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41735977/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41735977/",
+    "abstract": "Birthweight readily measurable marker of fetal growth that may influence health across the lifespan. We aimed to investigate the potential causal association between birthweight and healthy aging and to identify the mediating roles of subsequent socioeconomic, behavioral, functional, and disease-related factors to inform life-course strategies to promote healthy aging and reduce health inequities. We performed two-sample Mendelian randomization analyses in European-ancestry participants to estimate the effect of birthweight (n&#x2009;=&#x2009;298,142-423,683) on two robust, composite healthy aging phenotypes (genetically independent phenotype of aging (aging-GIP) and multivariate aging-related genetic factor (mvAge)) and six individual aging phenotypes, including healthspan, resilience, parental lifespan, self-rated health, phenotypic age deceleration, and 90th percentile self-longevity (n&#x2009;=&#x2009;34,710-1,958,774), and screened for 100 candidate mediators (n&#x2009;=&#x2009;14,267-1,812,017) using a two-step mediation analysis. Genetically determined each 1-SD higher birthweight was associated with higher aging-GIP (&#x3b2; [95% CI] in different models ranging from 0.131 [0.066-0.196] to 0.162 [0.089-0.235] SDs) and mvAge (0.036 [0.010-0.063] to 0.045 [0.024-0.067]), independent of later-life obesity indicators; also with more interpretable benefits, including 12%-16% higher odds of longer healthspan, a 0.079-0.089 SD improvement in resilience, and a 1.22-1.74&#xa0;year increase in parental lifespan. Of 100 candidates, 26 and 25 mediated the effect of birthweight on aging-GIP and mvAge, respectively, including socioeconomic indicators (education, household income, occupational attainment; individual mediation proportion: 12.72%-27.79%); behaviors (e.g., cheese intake, age at first sex; 10.38%-29.56%); physical functions (e.g., blood pressure, grip strength; 7.57%-42.65%); and cardiometabolic diseases (e.g., type 2 diabetes, cardiovascular diseases; 25.02%-7",
+    "legacy": true
   },
   {
     "id": "61",
@@ -987,7 +1121,9 @@
     "bottomLine": "שמירה על בריאות הלב וכלי הדם — לחץ דם תקין, פעילות גופנית, תזונה בריאה — עשויה להגן על המוח גם מפני אלצהיימר.",
     "category": "מחקר",
     "publishDate": "25 בפברואר 2026",
-    "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260224023159.htm"
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260224023159.htm",
+    "abstract": "Subtle changes in brain blood flow and oxygen use are closely linked to hallmark signs of Alzheimer’s, including amyloid plaques and memory-related brain shrinkage. Simple, noninvasive scans may one day help spot risk earlier—by looking at the brain’s vascular health, not just its plaques.",
+    "legacy": true
   },
   {
     "id": "60",
@@ -1014,7 +1150,9 @@
     "bottomLine": "ממצאים אלו מחזקים את הצורך בגישה מותאמת מגדרית לתזונה ולאורח חיים להזדקנות בריאה, במקום המלצות אחידות לכולם.",
     "category": "תזונה",
     "publishDate": "24 בפברואר 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41727172/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41727172/",
+    "abstract": "Age-related skeletal muscle decline (sarcopenia) is a major contributor to frailty and mortality during aging, yet the extent to which sex shapes muscle aging and its response to dietary interventions remains poorly understood. Here, we use the short-lived vertebrate Nothobranchius furzeri (African turquoise killifish; ATK) to investigate how sex and intermittent fasting (IF) interact to regulate lifespan and skeletal-muscle aging. We establish and optimize an IF regimen that significantly extends lifespan in both male and female killifish, albeit with classical trade-offs including reduced growth and reproductive output. Despite these costs, IF markedly improves swimming performance in aged animals of both sexes. Structural analyses of killifish on a normal diet reveal pronounced sexual dimorphism in muscle aging. Males exhibit age-associated myofiber hyperplasia, whereas females maintain fiber number but undergo hypertrophic remodeling. IF partially reverses both phenotypes, restoring a more youthful fiber size distribution in both males and females. Single-nucleus RNA sequencing uncovers sex-specific remodeling of muscle-fiber composition in killifish on a normal diet, with females displaying an age-associated shift toward oxidative slow-twitch fibers that is reversed by IF, while males show relatively stable fiber-type proportions under normal and IF feeding regimens. Cell-cell communication analyses further reveal a global decline in intercellular signaling with age, alongside sex-specific restoration of distinct pathways under IF, including axon guidance and IGF signaling in females and metabolic ANGPTL signaling in males. Finally, bulk transcriptomic profiling demonstrates that aging follows largely sexually dimorphic molecular trajectories, whereas IF induces both sex-specific and shared responses. Notably, under IF, both sexes exhibit upregulation of ribosome biogenesis and genes supporting myofibrillar organization and contraction, likely underlying preser",
+    "legacy": true
   },
   {
     "id": "57",
@@ -1023,7 +1161,9 @@
     "bottomLine": "מדובר במחקר בסיסי בתולעים; יידרשו מחקרים נרחבים נוספים לפני שניתן יהיה להמליץ על תוספי קורילין לבני אדם.",
     "category": "מחקר",
     "publishDate": "24 בפברואר 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41730400/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41730400/",
+    "abstract": "Corylin is a natural flavonoid isolated from the seeds of Psoralea corylifolia L., a traditional medicinal herb historically used to treat bone-related disorders such as osteoporosis. However, its role in organismal aging and the underlying molecular mechanisms remain largely unexplored. This study aimed to evaluate the anti-aging efficacy of corylin and elucidate the molecular basis of its action. Using Caenorhabditis elegans (C. elegans) as a model organism, we systematically assessed the impact of corylin on lifespan and multiple aging-associated phenotypes, including locomotor capacity, muscle integrity, lipofuscin accumulation, and resistance to thermal, pathogenic, and oxidative stress. Neuroprotective potential was evaluated using transgenic models of Parkinson's and Huntington's diseases. To uncover the mechanisms involved, we analyzed the DAF-16/SKN-1 signaling axis and autophagy-related processes using transgenic reporter strains, RNA interference, and RT-qPCR. Corylin treatment significantly extended lifespan, improved locomotor performance, and reduced lipofuscin accumulation. Furthermore, it enhanced resistance to environmental stresses and conferred neuroprotection in models of neurodegeneration. Mechanistically, corylin promoted nuclear translocation of DAF-16 and upregulated the expression of DAF-16/SKN-1 target genes. This transcriptional activation was associated with enhanced autophagic flux and improved mitochondrial quality. Crucially, the beneficial effects of corylin were abolished in daf-16 and skn-1 mutants, as well as under autophagy-deficient conditions. Corylin exerts multifaceted anti-aging effects in C. elegans by coordinately activating the DAF-16/SKN-1 signaling axis, thereby enhancing autophagic flux and maintaining mitochondrial homeostasis. These findings identify corylin as a promising natural candidate for aging intervention.",
+    "legacy": true
   },
   {
     "id": "56",
@@ -1032,7 +1172,9 @@
     "bottomLine": "בדיקה זו עדיין לא זמינה לשימוש קליני שגרתי, אך מבשרת עידן חדש של אבחון מוקדם ומניעה של דמנציה.",
     "category": "טכנולוגיה רפואית",
     "publishDate": "24 בפברואר 2026",
-    "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260222085203.htm"
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260222085203.htm",
+    "abstract": "Scientists have created a blood test that can estimate when Alzheimer’s symptoms are likely to begin. By measuring a protein called p-tau217, the model predicts symptom onset within roughly three to four years. The protein mirrors the silent buildup of amyloid and tau in the brain long before memory loss appears. This advance could speed up preventive drug trials and eventually guide personalized care.",
+    "legacy": true
   },
   {
     "id": "55",
@@ -1050,7 +1192,9 @@
     "bottomLine": "הבנת דפוס ההזדקנות האישי שלך עשויה לסייע בתכנון טוב יותר של צרכים רפואיים וחברתיים לטווח ארוך.",
     "category": "מחקר",
     "publishDate": "23 בפברואר 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41724508/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41724508/",
+    "abstract": "Studies on ageing trajectories typically foreground intrinsic capacities and focus on frailty and mortality outcomes. Instead, research capturing aspects of people's living environment alongside individuals' capacities is limited. This study aimed to identify qualitatively distinctive ageing profiles among deceased older adults in China using individual-based and environment-based indicators. It further examined sociodemographic correlates of profile membership and investigated associations between these profiles and end-of-life and death-related outcomes. This is a retrospective cohort study. Individual level, longitudinal data from the Chinese Longitudinal Healthy Longevity Study (CLHLS) between 2008 and 2018 were analysed. The study included older participants of the CLHLS (2008-2018) who died between survey waves (N=9755). Ageing profiles were categorised using latent class modelling based on individuals' intrinsic capacity (functional, physical, cognitive, mental and social dimensions; 20 indicators) and environment characteristics (healthcare-related, financial and social aspects; 10 items). Sociodemographic correlates of profile membership included age, sex, education, marital status, living arrangement and residence location. End-of-life and death experiences were assessed by length of survival and functional status measured at the wave prior to death, pain at death and terminal delirium. Within the study sample, four profiles emerged: healthy-and-supported (57%), cognitively-competent-but-functionally-dependent (12%), functionally-capable-but-cognitively-challenged (18%) and frail-and-support-lacking (13%). While profiles were primarily distinguished by functional and cognitive capacities and financial status, social participation was insufficient across all groups. Sociodemographic disparities (sex, education, marital status, living arrangement and residence) were associated with profile membership. The first and third profiles enjoyed a better quality of ",
+    "legacy": true
   },
   {
     "id": "53",
@@ -1059,7 +1203,9 @@
     "bottomLine": "שילוב של תזונה מאוזנת, פעילות גופנית קבועה ושגרת שינה תקינה עשוי לתמוך בתהליכי ניקוי תאיים המגנים על בריאות המוח.",
     "category": "אורח חיים",
     "publishDate": "23 בפברואר 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41724666/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41724666/",
+    "abstract": "Alzheimer's disease (AD) is a progressive, age-related, neurodegenerative disorder marked by cognitive decline, memory loss, and accumulation of amyloid beta (A&#x3b2;) plaques and tau tangles. A key feature of AD is impaired protein homeostasis, often driven by autophagy dysfunction. Autophagy, a cellular degradation and recycling process, plays a vital role in maintaining neuronal health and is increasingly recognized as a therapeutic target in AD. Lifestyle factors such as diet, physical activity, and sleep can positively influence autophagy and support cognitive function. Intermittent fasting (IF) and calorie restriction (CR) activate autophagy and promote longevity; physical activity enhances cerebral blood flow and neurotrophic signaling; and adequate sleep supports autophagic processes, while sleep deprivation disrupts them. However, excessive autophagy may be detrimental. Understanding how lifestyle modulates autophagy is essential for developing non-pharmacological strategies to delay or prevent AD. This review explores the mechanistic links between autophagy and lifestyle interventions to support brain health in aging.",
+    "legacy": true
   },
   {
     "id": "52",
@@ -1077,7 +1223,9 @@
     "bottomLine": "מדובר במחקר בסיסי שמרחיב את ההבנה המדעית; טיפולים מעשיים עדיין רחוקים, אך המחקר מדגיש את החשיבות של הגנה על בריאות המוח לאורך החיים.",
     "category": "גנטיקה",
     "publishDate": "22 בפברואר 2026",
-    "sourceUrl": "https://doi.org/10.7554/elife.101533.2.sa2"
+    "sourceUrl": "https://doi.org/10.7554/elife.101533.2.sa2",
+    "abstract": "Genomic stability is critical for cellular function, however, in the central nervous system highly metabolically active differentiated neurons are challenged to maintain their genome over the organismal lifespan without replication. DNA damage in neurons increases with chronological age and accelerates in neurodegenerative disorders, resulting in cellular and systemic dysregulation. Distinct DNA damage response strategies have evolved with a host of polymerases. The Y-family translesion synthesis (TLS) polymerases are well known for bypassing and repairing damaged DNA in dividing cells. However, their expression, dynamics, and role if any, in enduring postmitotic differentiated neurons of the brain are completely unknown. We show through systematic longitudinal studies for the first time that DNA polymerase kappa (POLK), a member of the Y-family polymerases, is highly expressed in neurons. With chronological age, there is a progressive and significant reduction of nuclear POLK with a concomitant accumulation in the cytoplasm that is predictive of brain tissue age. The reduction of nuclear POLK in old brains is congruent with an increase in DNA damage markers. The nuclear POLK colocalizes with damaged sites and DNA repair proteins. The cytoplasmic POLK accumulates with stress granules and endo/lysosomal markers. Nuclear POLK expression is significantly higher in GABAergic interneurons compared to excitatory pyramidal neurons and lowest in non-neurons, possibly reflective of the inherent biological differences such as firing rates and neuronal activity. Interneurons associated with microglia have significantly higher levels of cytoplasmic POLK in old age. Finally, we show that neuronal activity itself can lead to an increase in nuclear POLK levels and a reduction of the cytoplasmic fraction. Our findings open a new avenue in understanding how different classes of postmitotic neurons deploy TLS polymerase(s) to maintain their genomic integrity over time, which will hel",
+    "legacy": true
   },
   {
     "id": "50",
@@ -1086,7 +1234,9 @@
     "bottomLine": "למרות שבדיקות שעון אפיגנטי עדיין אינן זמינות באופן נרחב, שמירה על אורח חיים בריא - תזונה מאוזנת, פעילות גופנית וניהול לחץ - עשויה להאט הזדקנות ביולוגית.",
     "category": "מחקר",
     "publishDate": "22 בפברואר 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41721741/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41721741/",
+    "abstract": "Aging is the strongest risk factor for dementia; however, few studies have examined the association of biological aging with incident dementia. We analyzed 6069 cognitively unimpaired women (mean age&#x2009;=&#x2009;70.0&#x2009;&#xb1;&#x2009;3.8&#x2009;years) in the Women's Health Initiative Memory Study to examine the association of accelerated biological aging, measured with second and third-generation epigenetic clocks (AgeAccelPheno and AgeAccelGrim2, and DunedinPACE, respectively) with incident mild cognitive impairment (MCI) and probable dementia. Multivariable Cox proportional hazards models adjusted for age, education, race, ethnicity, smoking, hormone therapy regimen, physical activity, body mass index, and estimated white blood cell counts. For comparison, we also examined first-generation epigenetic clocks (AgeAccelHorvath; AgeAccelHannum). We evaluated effect modification by age, race/ethnicity, hormone therapy regimen, menopause type (natural vs. surgical), and APOE &#x3b5;4 carriage. There were 1307 incident MCI or probable dementia events over a median follow-up of 9.3 (25th percentile&#x2009;=&#x2009;6.1, 75th percentile&#x2009;=&#x2009;16.1) years. The adjusted HRs (95% CI; p-value) for incident MCI/probable dementia per one-standard deviation increment were 1.07 (1.01-1.15; p&#x2009;=&#x2009;0.03) for DunedinPACE, 1.11 (1.02-1.20; p&#x2009;=&#x2009;0.01) for AgeAccelGrim2, and 1.01 (0.95-1.07; p&#x2009;=&#x2009;0.74) for AgeAccelPheno. Only AgeAccelGrim2 remained significant under the Bonferroni-corrected threshold for significance (p&#x2009;&lt;&#x2009;0.02). Other epigenetic clocks were not associated with incident MCI/probable dementia. There was no effect modification in most subgroup analyses (p-interaction &#x2265;&#x2009;0.05). In this cohort study of older women, accelerated biological aging measured by AgeAccelGrim2 was associated with higher risk of incident MCI/probable dementia. These findings provide evidence linking epigenetic biomark",
+    "legacy": true
   },
   {
     "id": "49",
@@ -1095,7 +1245,9 @@
     "bottomLine": "פעילות גופנית מתונה עד אינטנסיבית מומלצת לבריאות, אך ספורטאי אולטרה-מרתון כדאי להיוועץ במומחים לגבי מעקב רפואי והתאוששות נאותה.",
     "category": "מחקר",
     "publishDate": "22 בפברואר 2026",
-    "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260221060946.htm"
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260221060946.htm",
+    "abstract": "Running extreme distances may strain more than just muscles and joints. New research suggests ultramarathons can alter red blood cells in ways that make them less flexible and more prone to breakdown, potentially interfering with how they deliver oxygen throughout the body. Scientists found signs of both mechanical stress from intense blood flow and molecular damage linked to inflammation and oxidative stress.",
+    "legacy": true
   },
   {
     "id": "48",
@@ -1104,7 +1256,9 @@
     "bottomLine": "מדובר במחקר בסיסי שמעמיק את ההבנה של הזדקנות המוח, אך טרם ברור אם וכיצד ניתן לתרגם אותו לטיפולים.",
     "category": "מחקר",
     "publishDate": "21 בפברואר 2026",
-    "sourceUrl": "https://doi.org/10.7554/elife.101533.2.sa1"
+    "sourceUrl": "https://doi.org/10.7554/elife.101533.2.sa1",
+    "abstract": "Genomic stability is critical for cellular function, however, in the central nervous system highly metabolically active differentiated neurons are challenged to maintain their genome over the organismal lifespan without replication. DNA damage in neurons increases with chronological age and accelerates in neurodegenerative disorders, resulting in cellular and systemic dysregulation. Distinct DNA damage response strategies have evolved with a host of polymerases. The Y-family translesion synthesis (TLS) polymerases are well known for bypassing and repairing damaged DNA in dividing cells. However, their expression, dynamics, and role if any, in enduring postmitotic differentiated neurons of the brain are completely unknown. We show through systematic longitudinal studies for the first time that DNA polymerase kappa (POLK), a member of the Y-family polymerases, is highly expressed in neurons. With chronological age, there is a progressive and significant reduction of nuclear POLK with a concomitant accumulation in the cytoplasm that is predictive of brain tissue age. The reduction of nuclear POLK in old brains is congruent with an increase in DNA damage markers. The nuclear POLK colocalizes with damaged sites and DNA repair proteins. The cytoplasmic POLK accumulates with stress granules and endo/lysosomal markers. Nuclear POLK expression is significantly higher in GABAergic interneurons compared to excitatory pyramidal neurons and lowest in non-neurons, possibly reflective of the inherent biological differences such as firing rates and neuronal activity. Interneurons associated with microglia have significantly higher levels of cytoplasmic POLK in old age. Finally, we show that neuronal activity itself can lead to an increase in nuclear POLK levels and a reduction of the cytoplasmic fraction. Our findings open a new avenue in understanding how different classes of postmitotic neurons deploy TLS polymerase(s) to maintain their genomic integrity over time, which will hel",
+    "legacy": true
   },
   {
     "id": "47",
@@ -1113,7 +1267,9 @@
     "bottomLine": "מדובר במחקר בסיסי חשוב, אך עדיין רחוק מיישום קליני — אין כרגע המלצות מעשיות לציבור.",
     "category": "גנטיקה",
     "publishDate": "21 בפברואר 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41719283/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41719283/",
+    "abstract": "Allosteric regulation enables proteins to couple local structural changes to distal functional outcomes, yet the underlying mechanisms often remain difficult to fully decipher. Using yeast SIR2, an NAD&#x2009;&#x207a;&#x2009;-dependent deacetylase, as a model system, this study systematically elucidates how cofactor binding reshapes its conformational dynamics and internal communication network. Through multiple 3-&#x3bc;s molecular dynamics simulations combined with a graph-based deep learning model (Neural Relational Inference), we identify a highly reproducible characteristic response across independent replicates: the &#x3b2;1-&#x3b1;2 loop near the active site undergoes pronounced rigidification, whereas several distal structural modules exhibit concomitant increases in flexibility, together forming a \"core-locking with peripheral-release\" dynamic mode. Further signal-pathway analysis reveals that the local and distal conformational changes are not independent; instead, they are interconnected through newly identified \"relay-type\" residues such as Pro214 and Thr224. These residues act as bridges, converting the previously &#x3b2;1-&#x3b1;2-centered centralized network into a relay-style network coordinated by multiple nodes, thereby establishing a continuous and directionally coherent allosteric cascade. Beyond mechanistic insights, we also identify a distal cavity spatially overlapping with key relay residues, whose physicochemical properties meet the criteria of druggable pockets. This structural convergence suggests that future small-molecule allosteric activators may exploit this intrinsic communication pathway to mimic or amplify the regulatory effects of the cofactor NAD&#x2009;&#x207a;. Given that NAD&#x207a; levels decline with aging, this cavity provides a rational target for designing longevity-promoting allosteric activators.",
+    "legacy": true
   },
   {
     "id": "46",
@@ -1131,7 +1287,9 @@
     "bottomLine": "מגורים באזורים עם אוויר נקי יותר, שימוש במסנני אוויר בבית והפחתת חשיפה בימי זיהום גבוה עשויים להגן על בריאות המוח.",
     "category": "מחקר",
     "publishDate": "21 בפברואר 2026",
-    "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260220010836.htm"
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260220010836.htm",
+    "abstract": "Breathing polluted air may do more than harm your lungs — it could also increase your risk of Alzheimer’s disease. In a sweeping study of nearly 28 million older Americans, researchers found that long term exposure to fine particle air pollution was linked to a higher likelihood of developing Alzheimer’s. The connection appeared to stem largely from pollution’s direct effects on the brain, rather than through related health conditions like hypertension or depression.",
+    "legacy": true
   },
   {
     "id": "44",
@@ -1140,7 +1298,9 @@
     "bottomLine": "חיסון נגד דלקת ריאות וטיפול מהיר בזיהומים נשימתיים עשויים להיות חשובים יותר מכפי שחשבנו למניעת ירידה קוגניטיבית.",
     "category": "מחקר",
     "publishDate": "21 בפברואר 2026",
-    "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260221000321.htm"
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260221000321.htm",
+    "abstract": "A common bacterium best known for causing pneumonia and sinus infections may also play a surprising role in Alzheimer’s disease. Researchers found that Chlamydia pneumoniae can invade the retina and brain, where it sparks inflammation, nerve cell death, and the buildup of amyloid-beta—the hallmark protein linked to Alzheimer’s. Higher levels of the bacterium were found in people with Alzheimer’s, especially those carrying the high-risk APOE4 gene, and were tied to more severe cognitive decline.",
+    "legacy": true
   },
   {
     "id": "43",
@@ -1158,7 +1318,9 @@
     "bottomLine": "זהו מחקר בסיסי בשלבים מוקדמים המרחיב את ההבנה המדעית, אך טרם יישומים קליניים — שמירה על בריאות המוח באמצעות אורח חיים בריא נותרת ההמלצה העיקרית.",
     "category": "מחקר",
     "publishDate": "20 בפברואר 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41714810/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41714810/",
+    "abstract": "Schwann cells communicate with neurons not only through soluble cues but also via intercellular transfer of ribosomes and exosome-mediated delivery of cargo. Recent studies have established that Schwann cell-derived exosomes are powerful promoters of nerve repair, capable of enhancing axon regrowth, remyelination, and functional recovery in numerous models. These effects are mediated via multifactorial cargo (miRNAs, mRNAs, proteins) that modulate neurons, glia, endothelial, and immune cells. Importantly, what began as a novel biological insight is now rapidly moving toward therapeutic innovation. Schwann cell-derived exosomes thus represent both a novel mode of glia-neuron communication and a promising avenue for next-generation therapies for nerve regeneration.",
+    "legacy": true
   },
   {
     "id": "41",
@@ -1167,7 +1329,9 @@
     "bottomLine": "הפחתת שומן ויסצרלי דרך שילוב של תזונה מאוזנת, פעילות אירובית ואימוני כוח היא אסטרטגיה מרכזית לשיפור הבריאות המטבולית והאטת ההזדקנות.",
     "category": "מחקר",
     "publishDate": "20 בפברואר 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41714834/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41714834/",
+    "abstract": "Visceral adipose tissue (VAT) is increasingly recognized as a metabolically active organ that contributes to systemic metabolic dysfunction and aging. Accumulation of VAT is thought not merely to be a biomarker of but also a causal contributor to impaired metabolic health and reduced lifespan. In this Review, we summarize evidence from both animal and human studies to evaluate whether this causal relationship truly holds. Our assessment indicates that VAT is not inherently harmful; rather, its pathogenicity is context dependent and emerges under specific conditions, including lipid spillover combined with impaired preadipocyte differentiation, chronic inflammation, genetic susceptibility, hormonal changes and aging. We further explore how VAT-derived cytokines, exosomes, adipokines and lipotoxic metabolites mechanistically mediate its harmful effects. Lastly, we outline both established and emerging strategies aimed at reducing VAT burden or neutralizing its pathological impact. These insights highlight the view of VAT as a modifiable and context-sensitive contributor to metabolic disease and aging, and a promising target for promoting metabolic health and longevity.",
+    "legacy": true
   },
   {
     "id": "40",
@@ -1176,7 +1340,9 @@
     "bottomLine": "זהו מחקר בסיסי שעשוי להוביל לטיפולים עתידיים, אך טרם ישימות קלינית — בינתיים, דרכים מוכחות להפחתת דלקת כרונית כוללות פעילות גופנית, תזונה אנטי-דלקתית ושינה איכותית.",
     "category": "מחקר",
     "publishDate": "20 בפברואר 2026",
-    "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260219040816.htm"
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260219040816.htm",
+    "abstract": "A new human study has uncovered how the body naturally turns off inflammation. Researchers found that fat-derived molecules called epoxy-oxylipins rein in immune cells that can otherwise drive chronic disease. Using a drug to boost these molecules reduced pain faster and lowered harmful inflammatory cells. The discovery could pave the way for safer treatments for arthritis, heart disease, and other inflammation-related conditions.",
+    "legacy": true
   },
   {
     "id": "39",
@@ -1194,7 +1360,9 @@
     "bottomLine": "המחקר מחזק את הרעיון שהזדקנות בריאה – ולא רק אריכות ימים – היא יעד ריאלי למחקר ולהתערבות עתידית.",
     "category": "מחקר",
     "publishDate": "19 בפברואר 2026",
-    "sourceUrl": "https://doi.org/10.1007/s11357-026-02144-8"
+    "sourceUrl": "https://doi.org/10.1007/s11357-026-02144-8",
+    "abstract": "Sex differences in aging are robust and ubiquitous. Demographic differences in aging generated by sex have long been recognized, but the underlying biological basis for these differences and the potential for sex-specific interventions remain understudied. To explore sex differences in the response to pro-longevity interventions, we utilized the C. elegans aging model and asked whether male lifespan and reproductive healthspan can be extended via compounds known to have pro-longevity effects in hermaphrodites. We tested seven different compounds at two concentrations each and found that lifespan was extended under all tested conditions. However, reproductive healthspan measured by mating success in late life improved under only two tested conditions, sulforaphane and metformin. These results demonstrate that lifespan and healthspan can be decoupled in C. elegans males and offer a new framework for screening pro-longevity compounds and for studying sex differences in aging in a classical aging model.",
+    "legacy": true
   },
   {
     "id": "37",
@@ -1203,7 +1371,9 @@
     "bottomLine": "בעתיד, המידע הרפואי האישי שלכם עשוי להישמר בבטחה לעשרות שנים, לטובת טיפול מותאם אישית מתמשך.",
     "category": "טכנולוגיה רפואית",
     "publishDate": "19 בפברואר 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41709004/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41709004/",
+    "abstract": "Long-term preservation of digital information is vital for safeguarding the knowledge of humanity for future generations. Existing archival storage solutions, such as magnetic tapes and hard disk drives, suffer from limited media lifespans that render them unsuitable for long-term data retention1-3. Optical storage approaches, particularly laser writing in robust media such as glass, have emerged as promising alternatives with the potential for increased longevity. Previous work4-16 has predominantly optimized individual aspects such as data density but has not demonstrated an end-to-end system, including writing, storing and retrieving information. Here we report an optical archival storage technology based on femtosecond laser direct writing in glass that addresses the practical demands of archival storage, which we call Silica. We achieve a data density of 1.59&#x2009;Gbit&#x2009;mm-3 in 301 layers for a capacity of 4.8&#x2009;TB in a 120&#xa0;mm square, 2&#x2009;mm thick piece of glass. The demonstrated write regimes enable a write throughput of 25.6 Mbit&#x2009;s-1 per beam, limited by the laser repetition rate, with an energy efficiency of 10.1&#x2009;nJ per bit. Moreover, we extend the storage ability to borosilicate glass, offering a lower-cost medium and reduced writing and reading complexity. Accelerated ageing tests on written voxels in borosilicate suggest data lifetimes exceeding 10,000&#x2009;years.",
+    "legacy": true
   },
   {
     "id": "36",
@@ -1221,7 +1391,9 @@
     "bottomLine": "אם אתם מתאימים לחיסון נגד שלבקת השזורה, שוחח עם הרופא שלכם – יש לכך יתרונות מעבר למניעת המחלה עצמה.",
     "category": "מחקר",
     "publishDate": "19 בפברואר 2026",
-    "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260217005759.htm"
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260217005759.htm",
+    "abstract": "A major new study has spotlighted three familiar medicines that could take on an unexpected new role in the fight against Alzheimer’s disease — with a shingles vaccine emerging as the front-runner. After reviewing 80 existing drugs, an international panel of experts identified Zostavax, Viagra (sildenafil), and riluzole as the most promising candidates for repurposing.",
+    "legacy": true
   },
   {
     "id": "34",
@@ -1248,7 +1420,9 @@
     "bottomLine": "מחקר בסיסי המעמיק את ההבנה כיצד תחזוקה נכונה של חלבונים תורמת לאריכות ימים – טרם ברור כיצד ליישם זאת בבני אדם.",
     "category": "מחקר",
     "publishDate": "18 בפברואר 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41703241/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41703241/",
+    "abstract": "The proteasome is essential for cellular protein homeostasis through selective destruction of damaged and misfolded proteins. Failure of proteasome-dependent turnover accompanied by accumulation and aggregation of aberrant proteins is a hallmark of aging and late-onset neurodegenerative diseases. SKN-1A/Nrf1, a member of the NFE2L/Nrf family of transcription factors, is a master regulator of proteasome biogenesis. Through transcriptional control of proteasome subunit gene expression, SKN-1A/Nrf1 controls homoeostatic and stress-responsive upregulation of proteasome levels in adaptation to proteasome dysfunction or protein misfolding. SKN-1A/Nrf1 acts in concert with another Nrf family transcription factor, SKN-1C/Nrf2, to regulate many aspects of physiology including stress responses, redox balance, immunity, and metabolism. Here, we demonstrate that a small deletion in the promoter of the pbs-5 gene, which encodes an essential proteasome subunit, uncouples its expression from transcriptional regulation by SKN-1A/Nrf1. This disruption leads to compensatory SKN-1A/Nrf1-dependent upregulation of other proteasome subunit genes, resulting in a homeostatic imbalance in proteasomal gene expression. This pbs-5 regulatory mutation phenocopies some, but not all, aspects of SKN-1A/Nrf1 inactivation, providing evidence that coordinated regulation of proteasomal subunit gene expression underlies a subset of SKN-1A/Nrf1's physiological roles. In comparing the effects of the pbs-5 promoter deletion with isoform-specific inactivation of SKN-1A or SKN-1C, we show that the pbs-5 promoter mutation completely abrogates multiple lifespan extension paradigms. These results reveal that coordinated homeostatic regulation of proteasome subunit gene expression is critical for longevity and healthy aging.",
+    "legacy": true
   },
   {
     "id": "31",
@@ -1257,7 +1431,9 @@
     "bottomLine": "מחקר בסיסי שעשוי להוביל לטיפולים עתידיים בסרטן, אך טרם קיימות יישומים קליניים.",
     "category": "מחקר",
     "publishDate": "18 בפברואר 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41703542/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41703542/",
+    "abstract": "Histone H3.3K27M mutations are identified in diffuse midline glioma (DMG), resulting in a global reduction in H3K27me3. Analyzing the histone recognition mechanism at H3K27 position can enhance the understanding of this highly lethal mutation. Here we identify a novel histone reader CBFA2T2, which recognizes non-mutated or un-modified histone H3K27. Biochemical assays confirm this binding specificity, indicating that it is mediated by NHR2 domain of CBFA2T2. CBFA2T2 represses the transcription of metabolic genes involved in carbon metabolism, glycolysis/gluconeogenesis and the TCA cycle pathways through its binding to H3K27, thereby regulating metabolite levels. These alter the alpha-ketoglutarate/Succinate ratio and indirectly impacts H3K27me3 level, through affecting the H3K27me3 demethylases. Our results uncover a novel mechanism by which CBFA2T2 transcriptionally regulates metabolism and tumor growth in H3.3K27M cells. These findings suggest that CBFA2T2 and its targeted genes may serve as potential therapeutic targets for the treatment of H3.3K27M cancer.",
+    "legacy": true
   },
   {
     "id": "30",
@@ -1266,7 +1442,9 @@
     "bottomLine": "לטפח מיקרוביום בריא דרך תזונה עשירה בסיבים תזונתיים, מזונות מותססים והימנעות משימוש מיותר באנטיביוטיקה — אלה צעדים מעשיים לבריאות לטווח ארוך.",
     "category": "מחקר",
     "publishDate": "17 בפברואר 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41697396/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41697396/",
+    "abstract": "The gut microbiota plays a key role in aging and longevity. Therefore, identifying longevity-associated microbes in healthy and long-lived individuals and elucidating the molecular mechanisms through which they influence longevity are essential steps toward developing effective anti-aging interventions. In this study, we performed 16S rRNA sequencing on 301 fecal samples collected across three age groups. Long-lived individuals (&#x2265;&#x2009;90&#xa0;years) had more diverse gut microbiota than typical older individuals (60-89&#xa0;years), with diversity comparable to that of younger adults (45-59&#xa0;years). Compared with typical older individuals, long-lived individuals exhibited a marked increase in the relative abundance of Bacteroidota and Akkermansia, accompanied by a decreased abundance of Prevotella_9 and Megamonas. Additionally, the microbiota from this age group showed significant enrichment in unsaturated fatty acid metabolism, ketone body synthesis and degradation, and tryptophan metabolism, suggesting that differences in microbiota composition and function may contribute to longevity. Finally, we developed a qPCR-based method to detect differentially abundant microbiota and established a classification model capable of distinguishing between age groups. In conclusion, the unique composition and function of the gut microbiota in long-lived individuals offer insights for identifying methods and targets for anti-aging interventions. KEY POINTS: &#x2022; Long-lived individuals exhibited a marked increase in Bacteroidota and Akkermansia &#x2022; Long-lived individuals exhibited enrichment in unsaturated fatty acid metabolism &#x2022; We developed a qPCR-based method to detect differentially abundant microbiota.",
+    "legacy": true
   },
   {
     "id": "29",
@@ -1275,7 +1453,9 @@
     "bottomLine": "בעוד שטכנולוגיות אלה עדיין במעבדה, הן מבטיחות בעתיד אבחונים אישיים יותר של 'גיל ביולוגי' ופתרונות מותאמים אישית להאטת ההזדקנות.",
     "category": "טכנולוגיה רפואית",
     "publishDate": "17 בפברואר 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41697908/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41697908/",
+    "abstract": "To advance personalized healthcare and assess potential rejuvenation strategies, biomarkers reflecting biological age are crucial. We have introduced imaging-based chromatin and epigenetic age (ImAge), an imaging-based biomarker derived from the spatial organization of chromatin and epigenetic marks within single nuclei, capturing intrinsic age-related changes. ImAge effectively captures and quantifies the effects of interventions modulating biological age, showing sensitivity through significant decreases following rejuvenation strategies (such as caloric restriction and partial reprogramming through transient Oct4, Sox2, Klf4, and Myc (OSKM) expression) and increases after treatments like chemotherapy. Furthermore, lower ImAge correlated with higher locomotor activity, suggesting it captures functional improvements alongside biological age reversal, offering a promising single-cell tool to evaluate longevity interventions. As ImAge is an integrative method requiring good-quality imaging and meticulous computational analysis, we aim to provide thorough guidance to extract and validate it. This comprehensive protocol will detail the workflow for both wet laboratory procedures (sample preparation and imaging) and the proper utilization of our open-sourced computational pipeline (environment setup and processing of the imaging data) to extract and validate ImAge.",
+    "legacy": true
   },
   {
     "id": "28",
@@ -1302,7 +1482,9 @@
     "bottomLine": "הבנה מעמיקה יותר של תפקיד הסירטואינים עשויה להוביל לטיפולים מותאמים אישית בסרטן השד.",
     "category": "מחקר",
     "publishDate": "16 בפברואר 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41692938/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41692938/",
+    "abstract": "Sirtuins (SIRT1-SIRT7) are NAD&#x207a;-dependent regulators of mitochondrial metabolism, chromatin remodeling, and stress resilience pathways-processes that are central to both aging biology and breast cancer (BC) heterogeneity. We systematically evaluated their prognostic and transcriptional patterns across molecular subtypes of BC. We constructed an integrated BC dataset comprising gene expression and survival data containing tumors from 55 datasets. Prognostic associations with recurrence-free survival (RFS, n&#x2009;=&#x2009;4384) were evaluated by univariate Cox and Kaplan-Meier analyses using best cutoffs with FDR control, first for individual sirtuins and then for multigene combinations. Differential expression across normal, tumor, and metastatic tissues, as well as pairwise coexpression (Spearman's &#x3c1;), was assessed using the TNMplot platform. Among individual genes, SIRT3 showed the most consistent association with improved RFS across PAM50 subtypes. Multigene signatures outperformed individual sirtuins and displayed clear subtype specificity. A three-gene panel (SIRT3+SIRT5+SIRT6) stratified risk in Luminal A (p&#x2009;=&#x2009;8.1e-7), Luminal B (p&#x2009;=&#x2009;6.6e-6), HER2-enriched (p&#x2009;=&#x2009;1.0e-4), and Basal-like BC (p&#x2009;=&#x2009;3.8e-5). In Basal-like tumors, the combination of SIRT3, SIRT6, and SIRT7 achieved the best performance (p&#x2009;=&#x2009;2.6e-7). Top-performing panels were not simple aggregates of individually significant genes, indicating synergistic, context-dependent effects. Expression analyses revealed concordant downregulation of SIRT3 and SIRT5 in tumors, accompanied by consistent upregulation of SIRT7. Coexpression analysis revealed disease-specific rewiring: tumors exhibited a reinforced axis linking SIRT3/SIRT5/SIRT6/SIRT2, and attenuation of SIRT1 and SIRT4 coupling. Distinct integrated sirtuin scores thus capture subtype-specific metabolic/epigenetic states and provide robust RFS stratification across BC",
+    "legacy": true
   },
   {
     "id": "25",
@@ -1311,7 +1493,9 @@
     "bottomLine": "מניעת זיהומים באמצעות חיסונים, היגיינה והתנהגות בריאותית היא חלק חשוב מאסטרטגיית הזדקנות בריאה.",
     "category": "מחקר",
     "publishDate": "16 בפברואר 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41692968/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41692968/",
+    "abstract": "Some common infections are associated with poorer age-related health outcomes; however, findings are limited to a small number of pathogens and frequently inconclusive. This study aimed to expand the range of pathogens investigated in relation to frailty and mortality in older age. We investigated relationships between seropositivity for 18 viruses, bacteria and protozoa with concurrent frailty and prospective mortality in middle-aged and older adults within two UK population-based cohorts: UK Biobank (N&#x2009;=&#x2009;9427; aged 40-70&#x2009;years) and Medical Research Council National Survey of Health and Development (N&#x2009;=&#x2009;1791; aged 60-65&#x2009;years). Multiplex serological assays were used to identify seropositivity for each pathogen and frailty was assessed using a frailty index measuring the accumulation of age-related health deficits. Mortality was determined from linked administrative records. Adjusting for sex, age, income and education, previous infection with Toxoplasma gondii ((&#x3b2;&#x2009;=&#x2009;0.77%; 95% CI, 0.42-1.11) and Helicobacter pylori (0.63%; 95% CI, 0.28-0.97) were associated with higher frailty equivalent to 3.8 or 3.1&#x2009;years of aging, as was inflammation-weighted pathogen burden (0.41%/SD, 95% CI, 0.25-0.57; 0.42%/SD, 95% CI, 0.26-0.58). Previous infection with Chlamydia trachomatis, human herpes simplex virus 1 and cytomegalovirus were associated with increased frailty after adjustment for sex and age, although relationships were confounded by socioeconomic circumstances. No common infections were robustly associated with mortality. Our results indicate that infection with H. pylori and T. gondii, and the combined burden of infection may detrimentally impact ageing health. These pathogens may warrant targeting beyond current clinical measures to mitigate the development of frailty.",
+    "legacy": true
   },
   {
     "id": "24",
@@ -1320,7 +1504,9 @@
     "bottomLine": "המחקר מקדם את ההבנה של הבסיס הגנטי לאלצהימר ועשוי להוביל לטיפולים ממוקדים יותר בעתיד.",
     "category": "גנטיקה",
     "publishDate": "16 בפברואר 2026",
-    "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260215084954.htm"
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260215084954.htm",
+    "abstract": "Scientists have created the most detailed maps yet of how genes control one another inside the brains of people with Alzheimer’s disease. Using a powerful new AI-based system called SIGNET, the team uncovered cause-and-effect relationships between genes across six major brain cell types, revealing which genes are truly driving harmful changes. The most dramatic disruptions were found in excitatory neurons, where thousands of genetic interactions appear to be extensively rewired as the disease progresses.",
+    "legacy": true
   },
   {
     "id": "23",
@@ -1356,7 +1542,9 @@
     "bottomLine": "זהו מחקר בסיסי חשוב שעשוי להוביל בעתיד לבדיקות דם שיעריכו את קצב ההזדקנות הביולוגי שלכם.",
     "category": "מחקר",
     "publishDate": "15 בפברואר 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41690959/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41690959/",
+    "abstract": "Extracellular vesicles (EVs) are key mediators of intercellular communication and may reflect physiological changes during aging. We analyzed plasma-derived EVs from a healthy aging cohort stratified by age, using size exclusion chromatography, surface profiling, nanoparticle tracking, and small RNA sequencing. While EV size and concentration remained largely unchanged, older individuals showed shifts in EV immunophenotype consistent with immunosenescence and displayed distinct miRNA signatures enriched in muscle-specific and metabolism-related miRNAs, including miR-206, miR-143-3p, miR-122-5p, and miR-20b-3p-linked to muscle, metabolic, and vascular function. Notably, miR-6529-5p, associated with neuroprotection, was elevated in aging. Target gene analysis revealed involvement in aging pathways such as Ras, VEGF, and MAPK signaling. EV miRNAs and particle counts correlated with biological aging markers, including GDF-15, visceral fat, and muscle quality. These findings highlight coordinated age-related changes in EVs reflecting musculoskeletal and metabolic aging and support their potential as minimally invasive biomarkers of biological aging and functional decline.",
+    "legacy": true
   },
   {
     "id": "19",
@@ -1383,7 +1571,9 @@
     "bottomLine": "אימוני כוח אינם רק לצעירים — שמירה על כוח שרירים בגיל המבוגר יכולה להאריך חיים באופן ממשי.",
     "category": "מחקר",
     "publishDate": "14 בפברואר 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41686437/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41686437/",
+    "abstract": "Muscular strength is an important resilience marker relevant to maintaining functional independence and longevity. To examine associations between muscular strength and mortality in women aged 63 to 99 years accounting for accelerometer-measured physical activity and sedentary behavior, systemic inflammation, and other markers of aging. The Objective Physical Activity and Cardiovascular Health study was a prospective cohort study from baseline (March 2012 to April 2014) through February 19, 2023. Participants were ambulatory women aged 63 to 99 years who completed physical performance testing and 7 days of accelerometer wear. Dominant hand grip strength,measured in kg by quartile (1: &lt;14, 2: 14-19, 3: 19-24, and 4: &gt;24) and time in seconds to complete 5 unassisted chair stands by quartile (standard criteria: 1: &gt;16.7, 2: 16.6-13.7, 3: 13.6-11.2, and 4: &#x2264;11.1). All-cause mortality. The present study included 5472 women (mean [SD] age, 78.7 [6.7] years; 1851 [33.8%] Black; 915 [16.7%] Hispanic/Latina; 2706 [49.5%] White) followed up for a mean (SD) of 8.4 (2.4) years. There were 1964 deaths during the study period. Controlling for age and sociodemographic, lifestyle, and clinical factors, significant inverse trends in mortality were evident across quartiles 2 through 4 of grip strength (quartile 2: hazard ratio [HR], 0.94; 95% CI, 0.85-1.06; quartile 3: HR, 0.85; 95% CI, 0.75-0.97; quartile 4: HR, 0.67; 95% CI, 0.58-0.78; P for trend&#x2009;&lt;&#x2009;.001) and chair stand time (quartile 2: HR, 0.79; 95% CI, 0.69-0.88; quartile 3: HR, 0.76; 95% CI, 0.67-0.87; quartile 4: HR, 0.63; 95% CI, 0.54-0.73; P for trend&#x2009;&lt;&#x2009;.001). Further controlling simultaneously for sedentary time and moderate to vigorous physical activity attenuated associations (grip strength: quartile 2: HR, 0.95; 95% CI, 0.86-1.07; quartile 3: HR, 0.87; 95% CI, 0.76-0.99; quartile 4: HR, 0.70; 95% CI, 0.61-0.82; P for trend&#x2009;&lt;&#x2009;.001; chair stands: quartile ",
+    "legacy": true
   },
   {
     "id": "16",
@@ -1392,7 +1582,9 @@
     "bottomLine": "גם אם הגנטיקה שלכם פחות אידיאלית — תזונה בריאה יכולה להוות גורם מכריע בהארכת תוחלת החיים שלכם.",
     "category": "תזונה",
     "publishDate": "14 בפברואר 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41686892/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41686892/",
+    "abstract": "Associations between healthy dietary patterns and life expectancy remain unclear. Here, we reported the prospective associations of five dietary patterns with mortality and life expectancy in 103,649 UK Biobank participants. Over a median follow-up period of 10.6 years, 4314 total deaths were documented. Alternate Healthy Eating Index-2010, Alternate Mediterranean Diet (AMED), healthful Plant-based Diet Index (hPDI), Dietary Approaches to Stop Hypertension, and Diabetes Risk Reduction Diet (DRRD) were associated with lower all-cause mortality and longer life expectancy, with DRRD showing slightly stronger associations than hPDI. Compared with the bottom quintile, achieving the top quintile of dietary scores was associated with 1.9 to 3.0 years of life gained at 45 years in men and 1.5 to 2.3 years in women. The life gained was longest in DRRD for males and AMED for females. The significant associations remained when accounting for genetic susceptibility. Our findings underscore the advantages of healthy dietary patterns in prolonging life expectancy, regardless of longevity genes.",
+    "legacy": true
   },
   {
     "id": "15",
@@ -1419,7 +1611,9 @@
     "bottomLine": "תזונה עשירה במזונות מותססים, דגנים מלאים ופולים עשויה לתמוך ברמות פוליאמינים בריאות.",
     "category": "תזונה",
     "publishDate": "13 בפברואר 2026",
-    "sourceUrl": "https://doi.org/10.1007/s00726-026-03497-2"
+    "sourceUrl": "https://doi.org/10.1007/s00726-026-03497-2",
+    "abstract": "Polyamines - putrescine, spermidine, and spermine - are ubiquitous cationic molecules that are essential for cellular proliferation and homeostasis. Their intracellular concentrations decline with age, contributing to physiological and cognitive deterioration. Recent studies have revealed that spermidine supplementation extends lifespan and improves cognitive and cardiac function in various model organisms, suggesting that maintaining polyamine balance has anti-aging potential. Polyamine metabolism is tightly regulated through biosynthesis, degradation, and transport; however, age-associated upregulation of spermine oxidase (SMOX) and accumulation of its toxic byproduct acrolein promote oxidative damage and cellular senescence. Suppressing SMOX activity or polyamine degradation attenuates senescence markers and DNA damage, highlighting spermine catabolism as a therapeutic target. Polyamines also modulate epigenetic regulation, including DNA methylation and histone acetylation, thereby influencing gene expression and chromatin structure during aging. Moreover, polyamine-dependent hypusination of eIF5A sustains protein synthesis in senescent cells. These multifaceted actions indicate that polyamine metabolism integrates redox control, translational regulation, epigenetic maintenance and autophagy to determine cellular and organismal longevity. While animal studies demonstrate clear anti-aging effects of spermidine and spermine, human clinical evidence remains limited, with variable outcomes likely due to bioavailability and metabolic conversion. Future strategies combining dietary or probiotic polyamine enhancement, enzyme-targeted inhibitors, and personalized metabolic interventions hold promise for extending healthspan. Collectively, maintaining optimal polyamine homeostasis emerges as a key approach to counteract aging and age-related diseases.",
+    "legacy": true
   },
   {
     "id": "12",
@@ -1428,7 +1622,9 @@
     "bottomLine": "המיקרוביום הוא לא רק חיידקים - גם וירוסים חשובים, אך עדיין מוקדם מדי ליישומים מעשיים.",
     "category": "מחקר",
     "publishDate": "13 בפברואר 2026",
-    "sourceUrl": "https://doi.org/10.3389/fragi.2025.1731621"
+    "sourceUrl": "https://doi.org/10.3389/fragi.2025.1731621",
+    "abstract": "A growing body of evidence indicates that the human virome, comprising both the gut and circulating viral communities, plays a critical role in shaping host physiology across the lifespan. In the context of aging, this complex viral ecosystem is increasingly recognized as a key modulator of immune function, inflammation, and metabolic balance, with direct implications for healthspan and longevity. While much attention has traditionally focused on bacterial components of the microbiota, recent advances in metagenomics have uncovered age-related shifts in the composition and function of the virome, including expansion of specific bacteriophage families, reactivation of latent viruses, and the persistence of commensal viral pathobionts. These changes are tightly linked to immunosenescence, chronic inflammation, and neurodegeneration, hallmarks of unhealthy aging. Notably, centenarians appear to harbor a unique virome signature marked by increased viral diversity, enhanced lytic activity, and the enrichment of phage-encoded metabolic functions, suggesting a potential protective role in extreme longevity. Despite these insights, significant challenges remain in virome profiling, including technical biases, database limitations, and the vast proportion of taxonomically unassigned sequences known as \"viral dark matter\". This review highlights emerging data on the aging virome, underscores its relevance within the Geroscience framework, and discusses current barriers and future directions for translating virome research into clinical aging studies.",
+    "legacy": true
   },
   {
     "id": "11",
@@ -1437,7 +1633,9 @@
     "bottomLine": "מחקר מעניין אך מוקדם מדי להמליץ על תוספי תזונה - המתינו למחקרים קליניים.",
     "category": "מחקר",
     "publishDate": "13 בפברואר 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41679824/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41679824/",
+    "abstract": "Polygonatum kingianum is a known tonic herb of Traditional Chinese Medicine, extensively consumed in China, but the structure and activity of its polysaccharides remain to be clarified. In this study, a homogeneous fructan fraction, designated PKP-1b, was isolated and purified from this plant and structurally identified as an agavin-type fructan. In both Caenorhabditis elegans and a D-galactose-induced aging mouse model, PKP-1b exhibited significant anti-aging effects, including lifespan extension, improved motor function, reduced lipofuscin accumulation, and mitigation of neurodegenerative changes. Mechanistic investigations revealed that PKP-1b exerts its anti-aging effects by inhibiting the insulin/IGF-1 signaling (IIS) pathway, which in turn promotes nuclear translocation of the transcription factor DAF-16/FOXO, upregulates expression of the antioxidant gene sod-3, thereby enhancing overall antioxidant capacity and reducing oxidative damage. These findings elucidate the anti-aging mechanism of PKP-1b from P. kingianum and provide a theoretical foundation for its application in developing anti-aging products.",
+    "legacy": true
   },
   {
     "id": "10",
@@ -1446,7 +1644,9 @@
     "bottomLine": "שמרו על 7-8 שעות שינה איכותיות כבר מגיל העמידה - זו השקעה בעצמאות העתידית שלכם.",
     "category": "מחקר",
     "publishDate": "13 בפברואר 2026",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41680365/"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41680365/",
+    "abstract": "Sleep duration has been contemporaneously associated with physical frailty, but their prospective association remains unclear. In this study, we used data from 10,792 participants in the Singapore Chinese Health Study who were followed up over 20 years. Sleep durations were recorded at baseline (mean age: 52y), second follow-up (mean age: 64y) and third follow-up (mean age: 72y). Physical frailty was assessed using a modified frailty phenotype at the third follow-up. Compared to 7h/day, short sleep durations of &#x2264;5h/day at baseline and second follow-up were associated with increased likelihood of physical frailty [ORs (95% CIs): 1.43 (1.14-1.79) and 1.29 (1.04-1.60)]. Long sleep durations of &#x2265;9h/day at baseline and second follow-up were also associated with increased likelihood of physical frailty [ORs (95% CIs): 1.62 (1.26-2.08) and 1.27 (1.06-1.53)]. Compared to those who maintained 6-8h/day of sleep at both time-points, baseline short sleepers who prolonged their sleep by &#x2265;2h at second follow-up, as well as baseline long sleepers who shortened their sleep by &#x2265;2h at second follow-up, still had increased likelihood of physical frailty at third follow-up. In this cohort, both short and long sleep durations at midlife, irrespective of changes thereafter, were associated with increased likelihood of physical frailty in late life.",
+    "legacy": true
   },
   {
     "id": "9",
@@ -1455,7 +1655,9 @@
     "bottomLine": "דיכאון חדש בגיל מבוגר דורש בירור רפואי מקיף, לא רק טיפול פסיכיאטרי.",
     "category": "מחקר",
     "publishDate": "13 בפברואר 2026",
-    "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260210040623.htm"
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260210040623.htm",
+    "abstract": "Depression in older adults may sometimes signal the early stages of Parkinson’s disease or Lewy body dementia. Researchers found that depression often appears years before diagnosis and remains elevated long afterward, unlike in other chronic illnesses. This suggests depression may reflect early brain changes rather than emotional distress alone.",
+    "legacy": true
   },
   {
     "id": "8",
@@ -1464,7 +1666,9 @@
     "bottomLine": "אתגרו את המוח שלכם באופן קבוע עם משימות חדשות ומורכבות - ההשפעה יכולה להימשך עשרות שנים.",
     "category": "מחקר",
     "publishDate": "13 בפברואר 2026",
-    "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260211073023.htm"
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260211073023.htm",
+    "abstract": "A simple brain-training program that sharpens how quickly older adults process visual information may have a surprisingly powerful long-term payoff. In a major 20-year study of adults 65 and older, those who completed five to six weeks of adaptive “speed of processing” training — along with a few booster sessions — were significantly less likely to develop dementia, including Alzheimer’s disease, even two decades later. Participants who received the boosted speed training had a 25% lower dementia risk compared to those who received no training, making it the only intervention in the trial to show such a lasting protective effect.",
+    "legacy": true
   },
   {
     "id": "7",
