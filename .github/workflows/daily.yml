@@ -1,22 +1,24 @@
-name: Longevity News Sync (manual, review-gated)
+name: Longevity News Sync (weekly, review-gated)
 
-# The schedule was removed on 29.08.2026.
-#
 # This workflow used to run every day at 06:00 UTC and push AI-written health
 # summaries straight to master - so they went live on the site with nobody
 # having read them. On a site about metformin, fasting, supplements and
 # anti-ageing drugs, that is not an acceptable default.
 #
 # What changed:
-#   * no schedule - it runs only when a person starts it
-#   * it no longer pushes to master. New articles land on a content-review
-#     branch and reach the live site only through a pull request, which is the
-#     human review step that was missing.
+#   * 29.08.2026: it no longer pushes to master. New articles land on a
+#     content-review branch and reach the live site only through a pull
+#     request, which is the human review step that was missing.
+#   * 10.10.2026: weekly schedule restored (Sunday). A run only opens a pull
+#     request, so the schedule cannot publish anything by itself. Weekly, not
+#     daily, so review requests don't pile up unread.
 #
-# To publish:  Actions -> this workflow -> Run workflow -> review and merge
-#              the pull request it opens.
+# To publish:  review and merge the pull request it opens.
+# To run now:  Actions -> this workflow -> Run workflow.
 
 on:
+  schedule:
+    - cron: "0 6 * * 0" # Sunday 06:00 UTC (08:00-09:00 Israel)
   workflow_dispatch:
 
 jobs:
