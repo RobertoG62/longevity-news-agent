@@ -9,7 +9,9 @@
  * original abstract. NotebookLM picks up the change through Drive auto-sync.
  *
  *   syncArticles  — append published articles the doc doesn't have yet
- *   setupTrigger  — run once: schedule syncArticles every Sunday 12:00 Israel
+ *   setupTrigger  — run once: schedule syncArticles daily at 12:00 Israel.
+ *                   Daily, not weekly: articles go live whenever a review PR is
+ *                   merged, and a weekly run would leave the doc a week behind.
  */
 
 const ARTICLES_URL = 'https://robertog62.github.io/longevity-news-agent/content/articles.json';
@@ -51,7 +53,7 @@ function setupTrigger() {
     .forEach((t) => ScriptApp.deleteTrigger(t));
   ScriptApp.newTrigger('syncArticles')
     .timeBased()
-    .onWeekDay(ScriptApp.WeekDay.SUNDAY)
+    .everyDays(1)
     .atHour(12)
     .inTimezone('Asia/Jerusalem')
     .create();
