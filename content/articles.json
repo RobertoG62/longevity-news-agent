@@ -1,5 +1,45 @@
 [
   {
+    "id": "174",
+    "title": "תוספת אבץ מאוחרת משמרת איזון חלבונים ומשפרת חיסון בהזדקנות",
+    "summary": "מחקר בתולעת C. elegans מראה שיחס האבץ בגוף יורד בכ-90% בין יום 1 ליום 13 בבגרות. תוספת של אבץ במינון נמוך (10 מיקרומולר) לבעלי חיים מבוגרים שיפרה את משך החיים הבריא, עמידות לחום ולחץ חמצוני, והגבירה סינתזה של חלבונים תוך החזרת ירידה תלוית גיל בגורמי הגנה תאיים. האבץ גם העניק הגנה בשני מודלים של מחלות חלבון, כולל דיכוי הצטברות פוליגלוטמין והאטה של שיתוק הנגרם על ידי אמילואיד-בטא. מחקר זה טרם עבר ביקורת עמיתים.",
+    "bottomLine": "מחקר בסיסי — עדיין אין המלצה מעשית.",
+    "category": "מחקר",
+    "publishDate": "11 באוקטובר 2026",
+    "sourceUrl": "https://doi.org/10.64898/2026.10.07.757281",
+    "abstract": "The progressive collapse of protein homeostasis is a defining feature of aging, yet upstream events deteriorating protein synthesis remain poorly defined. Zinc is an essential micronutrient and structural cofactor, but its role in the aging ribosomal proteome is poorly understood. Here, using Caenorhabditis elegans, we show that the whole-body zinc-to-sulfur ratio declines by ~90% between day 1 and day 13 of adulthood. Supplementing aged animals with a low dose of ZnCl2 (10 μM) restored organismal zinc levels and improved healthspan, thermotolerance, and oxidative stress resistance, whereas higher doses were toxic. Quantitative proteomics revealed that structural constituents of the ribosome were the most enriched functional category altered by zinc, accompanied by robust induction of metallothionein MTL-1. Zinc-supplemented animals exhibited increased protein synthesis and a transient increase in ribosomal proteins, while 45S pre-rRNA levels remained unaffected, indicating that zinc acts on ribosome structure rather than biogenesis. Zinc supplementation coordinately reversed the age-associated decline of antioxidant, chaperone, proteasome, and energy-metabolism factors. Furthermore, zinc conferred protection in two proteotoxicity models, suppressing polyglutamine aggregation and delaying amyloid-beta-induced paralysis. Our findings establish that zinc preserves translational proteostasis, identifying late-life zinc supplementation as a translatable micronutrient intervention against age-related proteinopathies."
+  },
+  {
+    "id": "173",
+    "title": "תרכובת מג'ינסנג משפרת הזדקנות בריאה דרך ויסות ליזוזומלי",
+    "summary": "מחקר בתולעת C. elegans זיהה את הג'ינסנוזיד Rg3, תרכובת טבעית מג'ינסנג, כמולקולה המאריכה תוחלת חיים ומשמרת תפקודים פיזיולוגיים כמו תנועה ורגישות למגע. החומר שיפר את תפקוד הליזוזומים והזרימה האוטופגית בנוירונים, דיכא הצטברות של חלבונים פגומים והגן מפני ניוון דופמינרגי. המנגנון מערב שינוי בשומנים סיגנליים בממברנות ליזוזומליות והפעלת תוכנית גנטית שמרנית של שמירה על ליזוזומים.",
+    "bottomLine": "מחקר בסיסי — עדיין אין המלצה מעשית.",
+    "category": "מחקר",
+    "publishDate": "11 באוקטובר 2026",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42858183/",
+    "abstract": "Lysosomal decline and proteostasis collapse are defining features of aging and major contributors to neurodegenerative vulnerability, yet interventions that preserve neuronal lysosomal function across aging remain poorly defined. Here, we identify 20(S)-ginsenoside Rg3, a ginseng-derived natural product, as a geroprotective small molecule in Caenorhabditis elegans. Rg3 extended lifespan and preserved key physiological outputs, including locomotion and pharyngeal pumping, indicating that Rg3 delays functional aging. Rg3 also maintained mechanosensory neuron integrity and touch sensitivity, suppressed neuronal polyglutamine aggregation, and protected dopaminergic neurons against &#x3b1;-synuclein-induced degeneration. At the cellular level, Rg3 restored age-impaired lysosomal function and autophagic flux in neurons. Mechanistically, Rg3 shifted neuronal phosphoinositide reporter signatures toward a PI(4)P-enriched and PI(3)P-reduced state, consistent with signaling lipid remodeling at lysosomal membranes. This phosphoinositide shift coincided with reduced RSKS-1/S6K phosphorylation, indicating suppression of TOR complex 1 (TORC1), and promoted nuclear localization of HLH-30, the C. elegans ortholog of transcription factor EB (TFEB), thereby engaging a conserved lysosomal program. Collectively, these results define Rg3 as a natural-product geroprotector that couples lysosomal lipid remodeling to TORC1-HLH-30 signaling to preserve lysosomal competence, neuronal proteostasis, and organismal fitness during aging. Our study nominates phosphoinositide control of lysosomal identity as a therapeutic entry point for healthy aging and neuroprotection."
+  },
+  {
+    "id": "172",
+    "title": "תזונה דלקתית וקשר לבעיות בריאותיות בגיל מבוגר: שלושה מחקרי אוכלוסייה",
+    "summary": "שלושה מחקרי אוכלוסייה בארצות הברית, אנגליה וסין בדקו את הקשר בין פוטנציאל דלקתי של התזונה לבעיות של דליפת שתן ומעיים. במדגמים חתכיים נמצא קשר בין תזונה דלקתית לסימפטומים, אך מדידות בסיסיות לא הראו קשר ברור לתופעות עתידיות. ההבדלים במדידת התזונה, שינויים בתזונה עקב סימפטומים וגורמים מבלבלים מקשים על פרשנות הממצאים.",
+    "bottomLine": "הממצאים מורחבים ראיות חתכיות אך אינם מבססים שהפחתת פוטנציאל דלקתי בתזונה מונעת בעיות סבל.",
+    "category": "תזונה",
+    "publishDate": "11 באוקטובר 2026",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42859694/",
+    "abstract": "Dietary inflammatory potential has been associated with prevalent continence problems, but cross-population comparability and prospective associations remain uncertain. We examined these questions in three population studies. Repeated cross-sectional analyses of the National Health and Nutrition Examination Survey (NHANES) 2005-2010 related a 25-component Dietary Inflammatory Index (DII) to monthly mucus, liquid, or solid leakage. A 15-component DII enabled a partially harmonized comparison with the English Longitudinal Study of Aging (ELSA). The Chinese Longitudinal Healthy Longevity Survey (CLHLS) 2008-2018 used a 13-food directional score and combined urinary and bowel continence impairment. Analyses included logistic regression, splines, repeated measures, and sensitivity checks for dietary measurement, weighting, and missing covariates. Among 13,385 NHANES participants, each DII unit was associated with prevalent leakage (odds ratio 1.075, 95% confidence interval 1.029-1.124), with similar estimates across survey periods. Concurrent estimates were 1.136 (1.066-1.210) per 15-component DII unit in ELSA and 1.440 (1.135-1.828) per score standard deviation in CLHLS. Combined weighting in ELSA and cognitive adjustment in CLHLS attenuated the estimates, with intervals including the null. Cumulative incident estimates were 0.974 (0.902-1.051) in ELSA and 1.044 (0.920-1.184) in CLHLS, using the respective exposure units. Concurrent associations were observed in the main analyses, but baseline scores showed no clear associations with incident outcomes. Dietary measurement differences, symptom-related dietary changes, and functional or socioeconomic confounding limit interpretation. These findings extend cross-sectional evidence without establishing that lowering dietary inflammatory potential prevents continence-related symptoms."
+  },
+  {
+    "id": "171",
+    "title": "חמישה דפוסי מוח שונים מאחורי דיכאון — האם מדובר במחלה אחת או בכמה?",
+    "summary": "חוקרים זיהו חמישה פרופילים מוחיים שונים אצל 263 אנשים הסובלים מדיכאון, כאשר כל פרופיל מציג דפוס תקשורת שונה בין אזורי מוח וקשר לתסמינים כמו חרדה, טראומה והתמכרות. הממצא מעלה אפשרות שדיכאון אינו מצב ביולוגי אחד, אלא כמה דפוסי פעילות מוחית שונים המסתתרים תחת אותה אבחנה. הבנה זו עשויה להוביל לטיפולים מותאמים אישית בעתיד.",
+    "bottomLine": "מחקר בסיסי — עדיין אין המלצה מעשית.",
+    "category": "מחקר",
+    "publishDate": "11 באוקטובר 2026",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261008005251.htm",
+    "abstract": "Depression may not be one biological condition, but several distinct patterns of brain activity hiding under the same diagnosis. Researchers studying 263 people with depression identified five brain profiles, each showing different patterns of communication between brain regions and associations with symptoms such as anxiety, trauma, and substance abuse."
+  },
+  {
     "id": "170",
     "title": "פרוביוטיקה כאסטרטגיה להאטת דלקת והזדקנות",
     "summary": "סקירה מדעית מצביעה על כך שפרוביוטיקה ספציפית יכולה לרסן את תהליך ה'דלקת-הזקנה' — דלקת כרונית קלה המאפיינת התבגרות — על ידי שיקום שלמות מחסום המעיים, הפחתת שחרור חומרים דלקתיים ועידוד ייצור חומצות שומן קצרות שרשרת אנטי-דלקתיות כמו בוטיראט. ראיות קליניות מראות שתוספי פרוביוטיקה יכולים לשפר מדדים מטבוליים, להאט ניוון עצבים ואף להשפיע על סמני הזדקנות כמו אורך הטלומרים, אם כי נותרו אתגרים בנושאי התאמה אישית ומינון.",
