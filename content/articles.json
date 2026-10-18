@@ -1,5 +1,55 @@
 [
   {
+    "id": "179",
+    "title": "חיידקים פרוביוטיים המייצרים ביופילם מגנים על נוירונים מפני הזדקנות בתולעת C. elegans",
+    "summary": "מחקר בתולעת C. elegans בדק האם זן חיידקים פרוביוטיים Bacillus subtilis בעל יכולת גבוהה לייצור ביופילם במעי יכול להגן על נוירונים כולינרגיים. תולעים שהוזנו מזן B4U 50 הראו פחות פגמים מורפולוגיים (קשרים וקרעים בסיבי עצב) עם הגיל בהשוואה לזן ביקורת, גם כאשר המעבר לזן המגן נעשה בשלב מאוחר יותר בחיים. השפעה מגנה חזקה יותר נצפתה בשילוב התזונה הפרוביוטית עם תכשיר גינקו בילובה.",
+    "bottomLine": "מחקר בסיסי — עדיין אין המלצה מעשית",
+    "category": "מחקר",
+    "publishDate": "18 באוקטובר 2026",
+    "sourceUrl": "https://doi.org/10.1007/s11357-026-02594-0",
+    "abstract": "Aging is accompanied by progressive functional decline and morphological defects of cholinergic neurons. Some probiotic bacteria with proficiency for biofilm formation in the gut are being discussed as potentially neuroprotective. Here, we screened Bacillus subtilis (B. subtilis) strains for biofilm production, using an in vitro assay. Thereafter, a transgenic Caenorhabditis elegans (C. elegans) strain with its cholinergic neurons expressing green fluorescent protein (GFP) was fed for up to 15 days on either the identified biofilm-producing B. subtilis strain B4U 50 or the control B. subtilis strain 168, with or without addition of a standardized Ginkgo biloba preparation. The morphology of the cholinergic neurons was monitored at several consecutive days by fluorescence microscopy. The occurrence of morphological defects such as knots and ruptures within the axons of cholinergic neurons, as observed with increasing age, was significantly lower in nematodes provided with the B4U 50 strain. Even worms whose diet was switched to B4U 50 later in life showed less damage of their neurons, as compared to worms fed on the control strain. Supplementation with the Ginkgo biloba preparation was neuroprotective in worms fed on either B. subtilis strain, while a stronger beneficial effect was observed upon combined administration of B. subtilis B4U 50 and the Ginkgo biloba preparation. In conclusion, feeding a B. subtilis strain proficient for biofilm formation, B4U 50, was neuroprotective when compared to a diet consisting of control B. subtilis, delaying the onset of aging-associated morphological defects in cholinergic neurons of C. elegans."
+  },
+  {
+    "id": "178",
+    "title": "שיקום מבוסס מציאות מדומה משפר איזון וניידות בחולי פרקינסון",
+    "summary": "מחקר רטרוספקטיבי בקרב 250 מבוגרים בני 50-60 עם מחלת פרקינסון השווה תוכנית שיקום בת 8 שבועות מבוססת מציאות מדומה לפיזיותרפיה קונבנציונלית. המחקר בחן את ההשפעה על איזון, ניידות תפקודית, פרמטרים של הליכה, סיכון לנפילות, היענות לטיפול ושביעות רצון. הממצאים נבדקו במסגרת גישת אריכות ימים בריאה ושימור עצמאות תפקודית.",
+    "bottomLine": "מחקר בסיסי — עדיין אין המלצה מעשית",
+    "category": "טכנולוגיה רפואית",
+    "publishDate": "18 באוקטובר 2026",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42889421/",
+    "abstract": "Parkinson's disease is a progressive neurodegenerative disorder associated with balance impairment, gait dysfunction, falls, disability, and progressive loss of functional independence. Healthy longevity emphasises the preservation of functional ability and well-being rather than survival alone. Virtual reality-based rehabilitation provides an interactive, technology-assisted approach to balance and gait training, but comparative evidence addressing multiple functional domains simultaneously remains limited. This study aims to compare the effectiveness of virtual reality-based rehabilitation with conventional physiotherapy on balance, functional mobility, gait parameters, fall-risk reclassification, adherence, and satisfaction in adults with idiopathic Parkinson's disease, and to interpret these findings within a healthy-longevity and functional-independence framework. This retrospective, multiclinic comparative cohort study reviewed clinical records of 250 adults aged 50 to 60 years with idiopathic Parkinson's disease and Hoehn and Yahr stage II-III. Participants comprised 125 individuals who received an eight-week virtual reality-based rehabilitation programme and 125 who received conventional physiotherapy. Balance was assessed using the Berg Balance Scale (BBS), functional mobility using the Timed Up and Go (TUG) test, and gait performance using gait speed, stride length, and cadence. Fall-risk categories, treatment adherence, and participant satisfaction were also evaluated. Within-group changes were assessed using paired-samples t-tests, while between-group differences in change scores were assessed using independent-samples t-tests with Cohen's d as the effect-size measure. Categorical fall-risk changes were assessed using chi-square tests. Groups were comparable at baseline for age, sex, Hoehn and Yahr stage, disease duration, comorbidity, BBS, TUG, gait speed, and stride length. Baseline cadence differed significantly between groups. Virtual reality-based r"
+  },
+  {
+    "id": "177",
+    "title": "חשיפה לפינסטריד קוצרת תוחלת חיים ופוגעת בתנועה בזבובי פרי ועכברים",
+    "summary": "מחקר בזבובי פרי (Drosophila) ובעכברים בדק את ההשפעות של פינסטריד, תרופה נפוצה לטיפול בהגדלת ערמונית ונשירת שיער. התוצאות מצביעות על כך שחשיפה לתרופה קשורה לעלייה בהצטברות חמצן תגובתי במעיים, לקיצור תוחלת חיים בשני המינים, ולירידה משמעותית בעמידות לרעב אצל זכרים. בנוסף, החשיפה לפינסטריד נקשרה גם לשינויים במבנה צומת שרירי-עצבי, ירידה ביכולת התנועתית, וירידה בביטוי החלבון CASK.",
+    "bottomLine": "מחקר בסיסי — עדיין אין המלצה מעשית",
+    "category": "מחקר",
+    "publishDate": "18 באוקטובר 2026",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42891761/",
+    "abstract": "Finasteride is one of the core medications for treating androgen-associated diseases in men. It exhibits multiple therapeutic functions, including inhibiting 5&#x3b1;-reductase, reducing dihydrotestosterone levels, and improving conditions, including prostate enlargement and hair loss. Using Drosophila as the primary model and a mouse behavioral assay as a complementary approach, we combined developmental and behavioral assessments, morphological analyses of motor and sensory neurons, transcriptomics, and genetic methods to investigate developmental, neuronal, and behavioral changes associated with Finasteride exposure and explore their potential molecular basis. Our results indicate that Finasteride exposure is associated with increased intestinal reactive oxygen species (ROS) accumulation and shortened lifespan in both sexes, together with significantly reduced starvation resistance in males. In addition, Finasteride exposure was also associated with altered neuromuscular junction (NMJ) morphology, reduced locomotor performance, and decreased cask expression. Motor-neuron CASK overexpression improved NMJ morphology and locomotor performance in Finasteride-exposed flies. Overall, this study reveals changes in lifespan and locomotor phenotypes associated with Finasteride exposure and further highlights the importance of investigating its broader biological effects in other experimental systems."
+  },
+  {
+    "id": "176",
+    "title": "התגלה המנגנון שבאמצעותו פעילות גופנית הופכת הזדקנות שרירים",
+    "summary": "מדענים חשפו מנגנון ביולוגי המסביר כיצד פעילות גופנית יכולה להפוך חלק מהנזק הנגרם מהזדקנות שרירים. המפתח הוא גן בשם DEAF1, שהופך פעיל יתר עם הגיל ומפריע ליכולת השרירים לפנות חלבונים פגומים ולתקן את עצמם. פעילות גופנית יכולה לעזור להחזיר את האיזון, ולאפשר לשרירים מבוגרים להתחדש ולחזור לכוח, אם כי היתרונות עשויים להיחלש כאשר המערכת הופכת משובשת מדי.",
+    "bottomLine": "מחקר בסיסי — עדיין אין המלצה מעשית",
+    "category": "מחקר",
+    "publishDate": "18 באוקטובר 2026",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261015003550.htm",
+    "abstract": "Scientists have uncovered a hidden biological mechanism that helps explain how exercise can reverse some of the damage caused by muscle aging. The key is a gene called DEAF1, which becomes overactive with age and interferes with the muscles’ ability to clear damaged proteins and repair themselves. Exercise can help restore this balance, allowing older muscles to rebuild and regain strength, although the benefits may diminish when the system becomes too disrupted."
+  },
+  {
+    "id": "175",
+    "title": "תאי מוח שאמורים להגן עלינו עשויים לתרום לירידה הקוגניטיבית",
+    "summary": "מדענים גילו גורם מפתיע לירידה הקוגניטיבית הקשורה לגיל, הכרוך בתאי מוח שבעבר נחשבו מיטיבים לחלוטין. כאשר תאים אלה הופכים לבלתי תקינים, הם עלולים לייצר כמויות חריגות של מיאלין, מה שמפריע לסיבי עצב ועשוי לתרום להחמרה בזיכרון ובכישורי חשיבה. המחקר מציע הסבר חדש לתהליכי ההזדקנות המוחית.",
+    "bottomLine": "מחקר בסיסי — עדיין אין המלצה מעשית",
+    "category": "מחקר",
+    "publishDate": "18 באוקטובר 2026",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261015073222.htm",
+    "abstract": "Scientists have uncovered a surprising cause of age-related cognitive decline involving brain cells previously thought to be entirely beneficial. As these cells become dysfunctional, they can produce abnormal amounts of myelin, disrupting nerve fibers and potentially contributing to worsening memory and thinking skills."
+  },
+  {
     "id": "174",
     "title": "תוספת אבץ מאוחרת משמרת איזון חלבונים ומשפרת עמידות בהזדקנות",
     "summary": "מחקר בתולעת C. elegans מראה שיחס האבץ בגוף יורד בכ-90% בין יום 1 ליום 13 בבגרות. תוספת של אבץ במינון נמוך (10 מיקרומולר) לבעלי חיים מבוגרים שיפרה את משך החיים הבריא, עמידות לחום ולחץ חמצוני, והגבירה סינתזה של חלבונים תוך החזרת ירידה תלוית גיל בגורמי הגנה תאיים. מינונים גבוהים יותר היו רעילים לבעלי החיים. האבץ גם העניק הגנה בשני מודלים של מחלות חלבון, כולל דיכוי הצטברות פוליגלוטמין והאטה של שיתוק הנגרם על ידי אמילואיד-בטא. מחקר זה טרם עבר ביקורת עמיתים.",
