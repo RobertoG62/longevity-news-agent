@@ -1,5 +1,45 @@
 [
   {
+    "id": "187",
+    "title": "מודל סימולציה מראה חיסכון כלכלי ניכר בטיפול משופר באוסטאופורוזיס בטייוואן",
+    "summary": "מחקר סימולציה בטייוואן העריך את ההשפעה של שיפור אבחון, טיפול ודבקות בטיפול באוסטאופורוזיס בקרב נשים לאחר גיל המעבר עד 2045. גישה משולבת של איתור מקרים משופר ושיפור דבקות למשטר התרופות מנעה 42,605 שברים וחסכה 4.64 מיליארד דולר טייוואני עד 2045. התוצאות מדגישות את החשיבות של ניהול אנטי-אוסטאופורוטי מקיף במדיניות בריאות מבוססת ראיות.",
+    "bottomLine": "מחקר מודל סימולציה — התוצאות תומכות במדיניות ציבורית לשיפור סקר ודבקות בטיפול, אך החלטות אישיות על טיפול צריכות להתקבל עם רופא.",
+    "category": "מחקר",
+    "publishDate": "1 בנובמבר 2026",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42965757/",
+    "abstract": "This study used a microsimulation model to assess the impact of improved osteoporosis diagnosis, treatment, and adherence in Taiwan. The combined approach prevented 42,605 fractures and saved NT$4.64 billion by 2045. The results emphasize the importance of comprehensive anti-osteoporosis management in evidence-based healthcare policy. Taiwan's rapidly aging population presents mounting challenges for osteoporosis management, with healthcare resources increasingly constrained under the National Health Insurance system. This study projected the clinical and economic impact of enhanced osteoporosis diagnosis, treatment, and adherence strategies among postmenopausal women in Taiwan from 2025 to 2045. A cross-sectional microsimulation model projected annual osteoporotic fracture incidence and costs among postmenopausal women aged &#x2265;65 years. Fracture risk was estimated using simplified Fracture Risk Assessment Tool (FRAX), with inputs from published literature and national health insurance data informing demographic distribution, treatment patterns, and healthcare costs. Three scenarios evaluated: (1) improved medication adherence alone, (2) increased case finding through enhanced screening and treatment rates, and (3) combined case finding and adherence improvements. In the reference scenario, the annual number of osteoporotic fractures are projected to increase by&#xa0;99% from 137,557 in 2025&#xa0;to 273,820 in 2045, with annual&#xa0;costs rising from NT$20.10 billion to NT$39.32 billion. Enhanced case finding prevented 12,061 fractures and saved NT$1.21 billion in 2025, escalating to 23,983 prevented fractures and NT$2.49 billion saved by 2045. Improved adherence alone prevented 14,853 fractures (NT$1.57 billion saved) in 2025, increasing to 22,525 fractures (NT$2.33 billion saved) by 2045. The combined approach demonstrated superior outcomes, preventing 22,045 fractures (NT$2.32 billion saved) in 2025 and 42,605 fractures (NT$4.64 billion saved) by 2045. Compr"
+  },
+  {
+    "id": "186",
+    "title": "מסגרת רב-ממדית לאחיות למיטוב תקופת הבריאות בגיל המבוגר",
+    "summary": "סקירה זו מציגה את מסגרת האחיות מכוונת האריכות (LONF) — מודל תפעולי שמארגן את עבודת האחות סביב חמש פונקציות חוזרות: קביעת יעדים, הערכת יכולת פנימית ותפקודית, שיבוץ סיכון, מתן התערבויות ומעקב. המסגרת מתמקדת בפער בין תוחלת החיים לתקופת הבריאות ומטפלת במדדים תפקודיים ומדווחים על ידי המטופל כתוצאות ראשוניות. המסגרת דורשת בדיקות היתכנות פרוספקטיביות והערכה במערכות בריאות מגוונות לפני יישום רחב.",
+    "bottomLine": "מחקר בסיסי — עדיין אין המלצה מעשית.",
+    "category": "מחקר",
+    "publishDate": "1 בנובמבר 2026",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42966205/",
+    "abstract": "Population ageing has increased the number of years many people live with functional limitation and chronic illness, widening the gap between lifespan and healthspan. Nursing is well positioned to address this gap because nurses repeatedly observe function, symptoms, self-care, behavior, and the fit between a person and the care environment. This narrative review develops the Longevity-Oriented Nursing Framework (LONF), an operational model that links these perspectives without replacing comprehensive geriatric assessment or disease-specific care. Literature was identified through structured searches of PubMed, Scopus, Web of Science, CINAHL, and authoritative organizational repositories, followed by an August 2026 targeted update. LONF organizes practice around five recurring functions: establishing person-prioritized goals and a baseline; assessing intrinsic capacity, functional ability, clinical status, behavior, psychosocial context, and environmental supports; stratifying risk from both current findings and within-person change; delivering nurse-led interventions and coordinating referrals; and monitoring response through in-person and digital follow-up. The framework treats validated functional and patient-reported measures as primary outcomes. Biological-age measures may be documented only as adjunctive, exploratory information because clinical validity, comparability, and action thresholds remain unsettled. Nursing-sensitive indicators are proposed for trajectory surveillance, goal concordance, self-management support, referral closure, safety, equity, and continuity. LONF adds to conventional care by making longitudinal healthspan stewardship explicit and accountable while preserving the established role of geriatric nursing for people with frailty, multimorbidity, disability, and complex care needs. The framework requires prospective feasibility testing, consensus on a core outcome set, and evaluation across diverse health systems before broad implementati"
+  },
+  {
+    "id": "185",
+    "title": "54% מהמשתתפים הצעירים עם סוכרת סוג 2 השיגו רמיסיה תוך חצי שנה",
+    "summary": "מחקר חדש הראה שיותר ממחצית המבוגרים הצעירים עם סוכרת סוג 2 הצליחו להשיג רמיסיה תוך שישה חודשים באמצעות שילוב של דיאטה דלת קלוריות ופעילות גופנית מובנית. בקרב המשתתפים מתחת לגיל 45 שעקבו אחר תוכנית אינטנסיבית, 54% השיגו רמיסיה, לעומת רק 4% שקיבלו טיפול רגיל.",
+    "bottomLine": "ממצא מעודד אך טיפול אינטנסיבי דורש ליווי מקצועי והתאמה אישית — יש להתייעץ עם הרופא המטפל לפני שינוי בטיפול.",
+    "category": "אורח חיים",
+    "publishDate": "1 בנובמבר 2026",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261029072129.htm",
+    "abstract": "A promising new study suggests that more than half of younger adults with type 2 diabetes could achieve remission in just six months through a combination of a low-calorie diet and structured exercise. Researchers found that 54% of participants under age 45 who followed an intensive diet and exercise program achieved remission, compared with just 4% receiving usual care."
+  },
+  {
+    "id": "184",
+    "title": "בדיקת דם עשויה לחזות סיכון לירידה קוגניטיבית מאלצהיימר עד 10 שנים מראש",
+    "summary": "מחקר בינלאומי גדול מצא שבדיקת דם פשוטה יכולה לעזור לחזות ירידה קוגניטיבית הקשורה באלצהיימר שנים לפני הופעת הסימפטומים. אנשים בסיכון הגבוה ביותר נמצאו בסיכון של 38% לפגיעה תוך חמש שנים ו-78% משוער תוך 10 שנים. החוקרים מאמינים שהממצא עשוי לסלול את הדרך להתערבות מוקדמת ולטיפולים עתידיים שנועדו למנוע אלצהיימר לפני תחילת בעיות זיכרון.",
+    "bottomLine": "מחקר ראשוני — יש לחכות לפרסום מלא ולהמלצות קליניות לפני שניתן יהיה להשתמש בבדיקה לצורכי סקר או החלטות טיפוליות.",
+    "category": "מחקר",
+    "publishDate": "1 בנובמבר 2026",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm",
+    "abstract": "A major international study found that a simple blood test could help predict Alzheimer’s-related cognitive decline years before symptoms appear, with the highest-risk individuals facing a 38% chance of impairment within five years and an estimated 78% chance within 10 years. Scientists believe the discovery could pave the way for earlier intervention and future treatments designed to prevent Alzheimer’s before memory problems begin."
+  },
+  {
     "id": "183",
     "title": "Nigella sativa מציגה השפעות מבטיחות במספר מנגנוני הזדקנות, אך ללא הוכחה להארכת בריאות בבני אדם",
     "summary": "סקירה של מחקרי מעבדה, בעלי חיים ומספר ניסויים קליניים בבני אדם מצאה שתימוקינון, המרכיב הפעיל ב-Nigella sativa (קצח שחור), משפיע על מספר מסלולים המעורבים בהזדקנות. במחקרים בבני אדם נמצאו שיפורים צנועים בגורמי סיכון קרדיומטבוליים, סמני דלקת, מתח חמצוני ומדדי קוגניציה מסוימים. הראיות שהצמח מאריך תוחלת בריאות בבני אדם טרם הוכחו, ויש צורך במחקרים ארוכים יותר עם תכשירים מתוקננים.",
