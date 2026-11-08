@@ -1,5 +1,45 @@
 [
   {
+    "id": "187",
+    "title": "חמישה טיפולים להארכת חיים בעכברים מעלים את רמות הארגותיונאין ומשנים את חילוף החומרים של שומנים",
+    "summary": "מחקר בעכברי מעבדה זכרים בדק חמישה טיפולים מוכחים להארכת חיים: רפמיצין, אקרבוז, 17α-אסטרדיול, קנגליפלוזין והגבלה קלורית. ניתוח מטבולומי של שבעה רקמות מצא שכל חמשת הטיפולים העלו את רמות הארגותיונאין — נוגד חמצון תזונתי — בפלזמה ובמוח, וארבעה מתוכם גם בשריר. בנוסף נמצאו שינויים משמעותיים בחילוף החומרים של שומנים במספר רקמות. מדובר במחקר בסיסי בבעלי חיים שעשוי לסייע בפיתוח בדיקות מטבולומיות למיון תרופות נגד הזדקנות.",
+    "bottomLine": "מחקר בסיסי — עדיין אין המלצה מעשית.",
+    "category": "מחקר",
+    "publishDate": "8 בנובמבר 2026",
+    "sourceUrl": "https://doi.org/10.3389/fragi.2026.1972744",
+    "abstract": "The pace of aging can be delayed by mutations, dietary manipulations, and drugs, yet the metabolic mechanisms underlying longevity interventions remain poorly understood. Here we present a multi-tissue metabolomic analysis of male UM-HET3 mice treated from 4 to 12 months of age with five validated longevity interventions: rapamycin, acarbose, 17α-estradiol, canagliflozin, or caloric restriction. Using a feature-stabilized XGBoost pipeline applied to seven tissues, we show that metabolomic profiles can identify treated mice as likely recipients of a lifespan-extending intervention well before survival differences emerge. A leave-one-intervention-out procedure confirmed that models trained on any four interventions successfully classified mice from a fifth, unseen intervention, implying shared metabolic alterations across mechanistically distinct treatments. The most influential metabolites - defined as the minimum set explaining 50% of cumulative model gain - differed substantially across tissues. Only ergothioneine, a dietary antioxidant, ranked highly in more than two tissues: it was elevated by all five interventions in plasma and brain, and by four of five in muscle. Enrichment analyses further identified coordinated remodeling of lipid classes in plasma, perigonadal fat, and kidney. These findings reveal tissue-specific metabolic reprogramming shared across mechanistically distinct longevity interventions and, pending validation against interventions that do not extend lifespan, suggest a path toward metabolomic screening of candidate anti-aging drugs."
+  },
+  {
+    "id": "186",
+    "title": "אורח חיים בריא קשור לפחות אשפוזים ולתמותה נמוכה יותר בנשים לאחר גיל המעבר",
+    "summary": "מחקר שעקב אחר 111,000 נשים לאחר גיל המעבר למשך עד 30 שנה מצא שכל עלייה בנקודה אחת במדד אורח חיים בריא (הכולל פעילות גופנית, אי-עישון, תזונה בריאה, הימנעות מאלכוהול, שינה מספקת ומשקל תקין) הייתה קשורה לירידה של 5% בסיכון לאשפוז ראשון ושל 7% בסיכון לתמותה בעשר השנים הראשונות. הקשר נותר עקבי גם מעבר ל-10 שנים. הממצאים תומכים במאמצי בריאות הציבור לקדם התנהגויות בריאות באוכלוסיות מזדקנות.",
+    "bottomLine": "מדובר במחקר תצפיתי רחב היקף וארוך טווח — הוא תומך בערך של שילוב מספר הרגלי חיים בריאים, אך נדרש מחקר מבוקר לפני מסקנות סופיות על סיבתיות.",
+    "category": "אורח חיים",
+    "publishDate": "8 בנובמבר 2026",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42995706/",
+    "abstract": "A healthy lifestyle-characterized by physical activity, non-smoking, healthy diet, no alcohol, adequate sleep, and normal body mass index-has been linked to reduced chronic and acute disease risk. However, its impact on hospitalizations and mortality in postmenopausal women remains unclear. This study evaluated the association between a composite Healthy Lifestyle Index (HLI) and risk of all-cause hospitalization and mortality. We analyzed 111,000 postmenopausal women aged 50-79&#xa0;years at enrollment in the Women's Health Initiative (1993-1998, United States), followed for up to 30&#xa0;years. HLI scores (range 0-24; higher&#xa0;=&#xa0;healthier) were derived from baseline lifestyle and anthropometric measures. Outcomes included first hospitalization, recurrent hospitalizations, and mortality. Cox regression estimated hazard ratios (HRs) and 95&#xa0;% confidence intervals (CIs), excluding events within two years. A total of 75,703 women were hospitalized and 35,530 died. During the first 10&#xa0;years, each HLI-unit increase was associated with lower risk of first hospitalization (HR 0.95, 95&#xa0;%CI 0.94, 0.95) and mortality (HR 0.93, 95&#xa0;%CI 0.92, 0.93). Associations remained consistent beyond 10&#xa0;years. Healthier lifestyle patterns were associated with reduced hospitalization and mortality risk in postmenopausal women, which supports public health efforts to promote healthy behaviors in aging populations."
+  },
+  {
+    "id": "185",
+    "title": "שתיית 2-3 כוסות קפה מכילות קפאין ביום קשורה לסיכון נמוך יותר לדמנציה",
+    "summary": "מחקר שעקב אחר משתתפים עד 43 שנה מצא שצריכה של 2-3 כוסות קפה מכיל קפאין ביום נמצאה בקשר לסיכון נמוך משמעותית לדמנציה ולתפקוד קוגניטיבי טוב יותר. הקשר נמצא ללא תלות בסיכון הגנטי של האדם, אך קפה נטול קפאין לא הראה אותו קשר. מדובר במחקר תצפיתי שאינו מוכיח סיבתיות — ייתכן שאנשים בעלי בריאות טובה יותר נוטים יותר לשתות קפה.",
+    "bottomLine": "מדובר במחקר תצפיתי — אין לראות בו המלצה לשנות הרגלי צריכה, אך מי ששותה כבר 2-3 כוסות קפה ביום יכול להמשיך בנחת.",
+    "category": "תזונה",
+    "publishDate": "8 בנובמבר 2026",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261105224550.htm",
+    "abstract": "Drinking two to three cups of caffeinated coffee daily was linked to a dramatically lower risk of dementia and better cognitive functioning in a study spanning up to 43 years. The benefits appeared regardless of genetic risk, but decaffeinated coffee did not show the same association."
+  },
+  {
+    "id": "184",
+    "title": "חיסון שפעת במינון גבוה קשור לירידה של 55% בסיכון לאלצהיימר",
+    "summary": "מחקר תצפיתי שבדק כמעט 200,000 מבוגרים בני 65 ומעלה מצא שמי שקיבל חיסון שפעת במינון גבוה היה בעל סיכון נמוך ב-55% לפתח אלצהיימר, בהשואה לירידה של 40% שנמצאה בעבר עם חיסון במינון סטנדרטי. הממצא מצטרף לראיות הולכות וגדלות על קשר אפשרי בין חיסונים לבין בריאות המוח, אך חשוב לזכור שמדובר במחקר תצפיתי ולא בניסוי מבוקר. יש צורך במחקר נוסף כדי לבחון האם החיסון עצמו מגן, או שאנשים בריאים יותר נוטים יותר לקבל את גרסת החיסון במינון הגבוה.",
+    "bottomLine": "מדובר במחקר תצפיתי ראשוני — יש צורך במחקר מבוקר לפני שניתן להמליץ על מעבר לחיסון במינון גבוה לצורך הגנה מפני אלצהיימר.",
+    "category": "מחקר",
+    "publishDate": "8 בנובמבר 2026",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261105224609.htm",
+    "abstract": "A surprising new study suggests that a stronger flu shot could offer older adults significantly greater protection against Alzheimer&#039;s disease. Researchers at UTHealth Houston analyzed nearly 200,000 adults ages 65 and older and found that those who received a high-dose influenza vaccine had a nearly 55% lower risk of developing Alzheimer&#039;s, compared with a 40% reduction previously associated with the standard-dose vaccine."
+  },
+  {
     "id": "183",
     "title": "Nigella sativa מציגה השפעות מבטיחות במספר מנגנוני הזדקנות, אך ללא הוכחה להארכת בריאות בבני אדם",
     "summary": "סקירה של מחקרי מעבדה, בעלי חיים ומספר ניסויים קליניים בבני אדם מצאה שתימוקינון, המרכיב הפעיל ב-Nigella sativa (קצח שחור), משפיע על מספר מסלולים המעורבים בהזדקנות. במחקרים בבני אדם נמצאו שיפורים צנועים בגורמי סיכון קרדיומטבוליים, סמני דלקת, מתח חמצוני ומדדי קוגניציה מסוימים. הראיות שהצמח מאריך תוחלת בריאות בבני אדם טרם הוכחו, ויש צורך במחקרים ארוכים יותר עם תכשירים מתוקננים.",
