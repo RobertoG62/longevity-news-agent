@@ -1,5 +1,55 @@
 [
   {
+    "id": "188",
+    "title": "ארבעה חלבונים בדם קשורים לבריאות רב-דורית, אריכות ימים וחוסן",
+    "summary": "מחקר בבני אדם שעקב אחר 852 אחים בני תשעים ומעלה ו-2,282 צאצאיהם ובני זוגם (עד 22 שנות מעקב) זיהה ארבעה חלבוני פלזמה — GSN, F2, CRTAC1 ו-HP — שקשורים באופן עקבי להישרדות מוגברת בגיל העמידה והזיקנה, להארכת תקופת בריאות קרדיו-מטבולית ולאריכות ימים משפחתית. החלבונים הללו מייצגים חוסן כללי ועשויים לשמש כמדדים מבטיחים להזדקנות בריאה.",
+    "bottomLine": "ממצאי קשר ראשוניים שמזהים סמנים פוטנציאליים לחוסן ולהזדקנות בריאה; יש צורך במחקרים נוספים לפני שימוש קליני או אבחנתי.",
+    "category": "מחקר",
+    "publishDate": "15 בנובמבר 2026",
+    "sourceUrl": "https://doi.org/10.1016/j.ebiom.2026.106551",
+    "abstract": "Summary Background The risk of chronic diseases and multimorbidity increases with age, yet, individuals of the same age can strongly differ in healthspan, ranging from early manifestation of age-related disease to robust health into very old age. Plasma biomarkers, including metabolites and proteins, can capture intrinsic health status, thereby providing insights into the nature of this variation. These biomarkers have been widely explored to understand chronic and early disease risk but less so for disease resilience in mid- and late-life survival (i.e. after 90 years), or for multigenerational longevity. Methods We quantified 326 plasma proteins using data-independent mass spectrometry in two generations of the Leiden Longevity Study cohort: F1 nonagenarian siblings (late-life; age ≥89; N=852) and F2 offspring and their partners (mid-life; age 30-80; N=2,282). Baseline plasma protein levels were tested for association with mid- and late-life survival, with up to 22 years of follow-up, and cardiometabolic healthspan, with up to 16 years of follow-up. By comparing F2 offspring and partners, we tested for plasma proteins associating with familial longevity. Findings Four proteins: GSN, F2, CRTAC1, and HP, consistently associated with increased mid- and late-life survival, prolonged cardiometabolic healthspan, and familial longevity; representing overall resilience. Moreover, six proteins: APCS, C7, FCN2, HPR, GSN, and PIGR, associated with mortality independent of MetaboHealth, a well-established metabolomics-based mortality score. Interpretation We identified GSN, F2, CRTAC1, and HP as promising candidate indicators of healthy aging and resilience, meriting further study. Funding ZonMw, LUF, BBMRI-NL, VOILA, Jörg Bernards-Stiftung, Köln Fortune, and CECAD Research in context Evidence before this study As the population ages, implementing biomarkers that are able to distinguish vulnerable individuals from highly resilient ones may help to alleviate the burden on our "
+  },
+  {
+    "id": "187",
+    "title": "חוסן פיזיולוגי — גישה משלימה לשעוני הזדקנות למעקב בריאותי אישי",
+    "summary": "מאמר עיוני מציע כי חוסן פיזיולוגי — היכולת של מערכת ביולוגית לשמור על תפקוד או להשתפר מול אתגרים — מציע זווית השלמה לשעוני הזדקנות, שמודדים מצב ביולוגי אך לא יכולת תגובה לאתגרים. התפתחות טכנולוגיות חישה לבישות מאפשרת כעת מדידה רציפה של פרמטרים פיזיולוגיים, ביוכימיים וסביבתיים, ועשויה לספק חלון ראשון לחוסן זה. החוסן הקליני עשוי לסייע בריבוד סיכונים ובהנחיית התערבויות, במיוחד באוכלוסיות עם ריבוי מחלות.",
+    "bottomLine": "מחקר תיאורטי — עדיין אין המלצה מעשית; המושג עשוי להוביל בעתיד לכלי הערכה אישיים יותר.",
+    "category": "מחקר",
+    "publishDate": "15 בנובמבר 2026",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43033135/",
+    "abstract": "Aging research has increasingly recognized the need for accurate biomarkers of aging, with aging clocks emerging as a powerful tool to quantify the degree of age-related biological change. However, broad clinical implementation and the establishment of wide use of these biomarkers of aging remain ongoing. Resilience reflects a dynamic property of physiological homeostasis and offers a complementary lens to functionally interpret aging. Resilience does not capture the ground state the biological system is in, but rather its ability to maintain or improve function when challenged by adversity. Advances in wearable sensing technologies now enable scalable, continuous, and laboratory-independent assessment of physiological, biochemical, and environmental parameters, which potentially offer a first window into resilience. Clinically, resilience holds promise for person-centered risk stratification and guiding interventions, particularly in multimorbid populations. As such, we propose two lines of clinical resilience: first, reflecting involvement in disease onset mechanisms, and a second representing the capability to withstand and recover from medical interventions such as surgery or systemic pharmacotherapy. Integrating resilience into clinical frameworks may support personalized, proactive, and preventive approaches to aging, ultimately leading to meaningful clinical outcomes."
+  },
+  {
+    "id": "186",
+    "title": "סקירה: כושר גופני, תזונה ושינה נתמכים בראיות חזקות יותר מטיפולים מולקולריים להזדקנות בריאה",
+    "summary": "סקירה ביקורתית של מחקרים עד 2026 מצאה שמנגנוני ההזדקנות מובנים היטב, אך טיפולים מולקולריים כמו סנוליטיקה, תוספי NAD+, עיכוב mTOR, מטפורמין וספרמידין הם סבירים ביולוגית אך אין להם עדיין ראיות חד-משמעיות להארכת תוחלת חיים בבני אדם בריאים. לעומתם, כושר לב-נשימתי, כוח שרירים, תזונה איכותית, שינה סדירה, הימנעות מעישון, ניהול סיכון קרדיו-מטבולי וקשרים חברתיים נתמכים בראיות חזקות הרבה יותר מבחינת תוצאות בריאותיות בבני אדם.",
+    "bottomLine": "כדאי להתמקד בגורמי אורח חיים מוכחים — פעילות גופנית, תזונה, שינה איכותית וניהול גורמי סיכון — במקום בתוספים או טיפולים ניסיוניים שעדיין לא הוכחו בבני אדם.",
+    "category": "מחקר",
+    "publishDate": "15 בנובמבר 2026",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43034819/",
+    "abstract": "Population aging has intensified interest in interventions that preserve function and delay multiple chronic diseases by modifying the biology of aging. The field now spans molecular geroscience, experimental therapeutics, biomarker development, and preventive medicine, but the maturity of evidence varies substantially. This study aimed to synthesize foundational mechanisms, clinical and translational strategies, and lifestyle determinants relevant to healthy longevity, while distinguishing established practice from emerging or unproven interventions. A critical narrative review of PubMed/MEDLINE and reference lists was conducted from January 2000 through August 2026. Priority was given to consensus frameworks, human randomized trials, prospective cohorts, systematic reviews, and influential mechanistic studies. Evidence was interpreted according to study design, clinical relevance, reproducibility, and safety. The expanded 12-hallmark framework depicts aging as an interconnected network involving genomic damage, impaired maintenance systems, maladaptive stress responses, inflammation, and dysbiosis. Senolytics, epigenetic reprogramming, nicotinamide adenine dinucleotide (NAD+) augmentation, mechanistic target of rapamycin (mTOR) inhibition, metformin, and spermidine are biologically plausible, but none yet has definitive evidence of extending lifespan in healthy humans. Epigenetic clocks are useful research biomarkers, although a lower clock estimate is not synonymous with rejuvenation or proven risk reduction. By contrast, cardiorespiratory fitness, muscle strength, dietary quality, restorative and regular sleep, avoidance of tobacco, management of cardiometabolic risk, and social connection are supported by much stronger human-outcome evidence. Responsible longevity medicine should integrate geroscience with rigorous preventive care, use biomarkers as adjuncts rather than diagnoses, and reserve experimental geroprotectors for well-designed trials. The near-term o"
+  },
+  {
+    "id": "185",
+    "title": "שגרת יום קבועה קשורה לפחות כאב ודיכאון אצל מבוגרים",
+    "summary": "חוקרים מאוניברסיטת מיזורי מצאו שמבוגרים שעקבו אחר לוחות זמנים יומיים קבועים דיווחו על פחות כאב פיזי ופחות תסמיני דיכאון, גם כאשר סבלו מנדודי שינה. שמירה על זמנים קבועים לשינה, אכילה ופעילויות אחרות עשויה לסייע בוויסות השעון הביולוגי של הגוף, המשפיע על מצב הרוח, שינה ובריאות כללית. מדובר במחקר תצפיתי שמצא קשר סטטיסטי, לא הוכחה לסיבתיות.",
+    "bottomLine": "ממצא ראשוני התומך בשמירה על שגרה יומית קבועה, אך יש צורך במחקר מבוקר כדי לקבוע האם שינוי השגרה אכן משפר את התסמינים.",
+    "category": "אורח חיים",
+    "publishDate": "15 בנובמבר 2026",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
+    "abstract": "A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally. University of Missouri researchers found that older adults who followed consistent daily schedules reported less physical pain and fewer symptoms of depression, even when they struggled with insomnia. Keeping regular times for sleeping, eating, and other activities may help regulate the body&#039;s internal clock, which influences mood, sleep, and overall health."
+  },
+  {
+    "id": "184",
+    "title": "שני אזורי מוח מתחילים להתכווץ עד עשור לפני אובדן הזיכרון באלצהימר",
+    "summary": "חוקרים מג'ונס הופקינס זיהו באמצעות סריקות מוח שני אזורים המעורבים בזיכרון ובריגשות שמתחילים להתכווץ לפני ההיפוקמפוס, האזור שנבדק בדרך כלל לאבחון אלצהימר. השינויים המוקדמים קשורים להצטברות חלבון טאו חריג ועשויים להופיע עד עשור לפני תחילת אובדן הזיכרון. הממצא עשוי לאפשר זיהוי מוקדם יותר של אנשים בסיכון.",
+    "bottomLine": "ממצא זה עדיין מחקרי — אין המלצה מעשית לבדיקת סריקות מוח מונעות ללא תסמינים, אך הוא עשוי להוביל לכלי אבחון מוקדמים יותר בעתיד.",
+    "category": "מחקר",
+    "publishDate": "15 בנובמבר 2026",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
+    "abstract": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins. Brain scans revealed that two regions involved in memory and emotion start shrinking before the hippocampus, the area doctors typically examine for signs of Alzheimer’s. These early changes are linked to abnormal tau protein buildup and could provide a powerful new way to identify people at risk."
+  },
+  {
     "id": "183",
     "title": "Nigella sativa מציגה השפעות מבטיחות במספר מנגנוני הזדקנות, אך ללא הוכחה להארכת בריאות בבני אדם",
     "summary": "סקירה של מחקרי מעבדה, בעלי חיים ומספר ניסויים קליניים בבני אדם מצאה שתימוקינון, המרכיב הפעיל ב-Nigella sativa (קצח שחור), משפיע על מספר מסלולים המעורבים בהזדקנות. במחקרים בבני אדם נמצאו שיפורים צנועים בגורמי סיכון קרדיומטבוליים, סמני דלקת, מתח חמצוני ומדדי קוגניציה מסוימים. הראיות שהצמח מאריך תוחלת בריאות בבני אדם טרם הוכחו, ויש צורך במחקרים ארוכים יותר עם תכשירים מתוקננים.",
