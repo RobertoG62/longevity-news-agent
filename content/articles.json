@@ -1,5 +1,45 @@
 [
   {
+    "id": "187",
+    "title": "יוגה כתרגיל משלים להזדקנות בריאה: סקירה מדעית",
+    "summary": "סקירה מדעית בוחנת ראיות לקשר בין יוגה והזדקנות בריאה. מחקרים מצביעים על יתרונות אפשריים באיזון, גמישות, כוח גפיים תחתונות, הליכה, לחץ דם, תפקודים קוגניטיביים מסוימים, רווחה נפשית ואיכות חיים. עם זאת, הראיות הטרוגניות ויוגה לא הוכיחה עדיפות עקבית על פני תוכניות פעילות גופנית אחרות. שיפורים בסמנים ביולוגיים לא מהווים הוכחה להאטה של הזדקנות ביולוגית או להארכת תוחלת חיים.",
+    "bottomLine": "יוגה עשויה להיות תוספת שימושית לאסטרטגיות הזדקנות בריאה מבוססות, אך אינה טיפול מוכח להארכת חיים.",
+    "category": "אורח חיים",
+    "publishDate": "22 בנובמבר 2026",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43066420/",
+    "abstract": "Ageing is associated with progressive loss of physiological reserve, increasing vulnerability to chronic disease, and declining physical and cognitive function. Healthy ageing therefore involves preservation of mobility, cognition, psychological well-being, independence, and quality of life in addition to longevity. Yoga is a multicomponent mind-body practice combining physical postures, regulated breathing, relaxation, and meditative or attentional techniques. This narrative review examines evidence linking yoga with biological and functional domains relevant to healthy ageing. Available studies suggest potential benefits in balance, flexibility, lower-limb strength, gait and physical performance, blood pressure, selected cognitive outcomes, psychological well-being, and quality of life. Mechanistic studies also report changes in oxidative stress, inflammatory signaling, telomerase activity, neurotrophic factors, and stress-related pathways. However, the evidence remains heterogeneous. Many mechanistic studies are small, short-term, uncontrolled, or based on multicomponent interventions, and yoga has not consistently shown superiority over other active exercise programs. Improvements in surrogate biomarkers cannot be interpreted as proof of biological age reversal or increased lifespan. Yoga is therefore best considered a potentially useful adjunct to established healthy-ageing strategies rather than a proven longevity therapy. Future research should emphasize adequately powered randomized trials, standardized interventions, active comparators, and long-term clinically meaningful outcomes."
+  },
+  {
+    "id": "186",
+    "title": "פרופילי אורח חיים עם פעילות גופנית גבוהה ודיאטה מזינה נקשרו ליכולת תפקודית טובה יותר",
+    "summary": "מחקר אורך בקרב 656 משתתפים (גילאים 20-100) בחן קשרים בין פרופילי אורח חיים ליכולת תפקודית כללית. נמצא שפרופילים עם פעילות גופנית גבוהה יותר, זמן ישיבה נמוך, צריכה נמוכה של מזון מעובד במיוחד ושינה איכותית נקשרו ליכולת תפקודית טובה יותר ב-8-11 נקודות אחוזון. לא נמצא קשר אורכי לאורך 3 שנות מעקב.",
+    "bottomLine": "ממצאים ראשוניים מתצפית – נדרש מחקר מבוקר לבדיקת קשרים סיבתיים בין אורח חיים ליכולת תפקודית.",
+    "category": "אורח חיים",
+    "publishDate": "22 בנובמבר 2026",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43067250/",
+    "abstract": "Intrinsic capacity (IC), a pillar of healthy ageing, may be influenced by lifestyle behaviours. We evaluated associations between lifestyle profiles and IC trajectories. In this longitudinal study, 656 participants (63% female; age 20-100 years) from the INSPIRE-T cohort with complete lifestyle and IC data were included. Age-adjusted lifestyle profiles were identified using Latent Profile Analysis based on dietary patterns (DPs) (Plant-based, ultra-processed foods-associated [UPF-associate], Mediterranean [MDS], or DASH), leisure-time and transportation physical activity (LTPA), sedentary time, and sleep quality. IC scores derived from cognition, locomotion, psychology, vitality, and sensory domains were classified according to age- and sex-standardised IC centiles at baseline and 3-year follow-up (the number of participants contributing data varied across visits). Linear mixed-effects models examined associations between lifestyle profiles and IC centile trajectories. We identified 13 lifestyle profiles when switching between the 4 DPs (3 for Plant-based, MDS, and DASH, and 4 for UPF-associated). A profile characterised by low LTPA, low intake of the Plant-based DP, high sedentary time, and poor sleep quality was associated with 8 percentile points lower IC at baseline than a profile with a similar diet and sleep pattern, but with higher LTPA and lower sedentary behaviour (&#x3b2;: -8.20, 95%CI: -12.79; -3.60). Furthermore, a profile of low LTPA, high scores for UPF-associated DP, high sedentary time, and poor sleep quality was associated with 11 percentile points lower IC at baseline than a profile in which the quality of sleep was better and the intake of an UPF-associated DP was lower (&#x3b2;: -11.08, 95%CI: -16.44; -5.71). No longitudinal associations were observed. Lifestyle profiles with higher LTPA, low sedentary behaviour, low intake of an UPF-associated diet, and better sleep quality were cross-sectionally associated with better IC."
+  },
+  {
+    "id": "185",
+    "title": "הלב מזדקן בצורה לא אחידה: דלקת וצלקות מתרכזות במסתמים ובכלי דם",
+    "summary": "מחקר חדש מגלה שההזדקנות של הלב אינה אחידה, עם ריכוזים מפתיעים של דלקת וצלקות במסתמי הלב ובכלי הדם הגדולים ולא בשריר הלב עצמו. הממצא מאתגר הנחות ארוכות שנים על הזדקנות הלב. הבנה זו עשויה לעזור לחוקרים לפתח דרכים חדשות להגנה על הלב עם ההתבגרות.",
+    "bottomLine": "מחקר בסיסי – עדיין אין המלצה מעשית.",
+    "category": "מחקר",
+    "publishDate": "22 בנובמבר 2026",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261115085550.htm",
+    "abstract": "Scientists have discovered that the heart ages unevenly, with surprising hotspots of inflammation and scarring concentrated in the valves and major blood vessels rather than the heart muscle. The findings challenge long-standing assumptions about cardiac aging and could help researchers develop new ways to protect the heart as we grow older."
+  },
+  {
+    "id": "184",
+    "title": "קריאה לעונג נקשרה בהפחתה של 33% בסיכון לאלצהיימר",
+    "summary": "מחקרים מצביעים על קשר בין קריאה לעונג לבין שיפור זיכרון, הפחתת מתח, שיפור בבריאות הנפש והפחתה של 33% בסיכון למחלת אלצהיימר. ממצאים מראים שחמש דקות של קריאת ספרות יפה יכולות להפחית מתח ב-20%. הקשרים הללו מצביעים על יתרונות אפשריים של הרגל פשוט זה לבריאות המוח.",
+    "bottomLine": "ממצאים ראשוניים – נדרשים מחקרים מבוקרים נוספים כדי לבסס קשר סיבתי בין קריאה לבין הפחתת הסיכון לדמנציה.",
+    "category": "מחקר",
+    "publishDate": "22 בנובמבר 2026",
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261118065536.htm",
+    "abstract": "Reading for pleasure may have surprisingly powerful benefits for the brain, with studies linking it to better memory, reduced stress, improved mental health, and a lower risk of dementia. Researchers highlight findings that just five minutes of fiction can reduce stress by up to 20%, while reading has also been associated with a 33% lower risk of Alzheimer&#039;s disease."
+  },
+  {
     "id": "183",
     "title": "Nigella sativa מציגה השפעות מבטיחות במספר מנגנוני הזדקנות, אך ללא הוכחה להארכת בריאות בבני אדם",
     "summary": "סקירה של מחקרי מעבדה, בעלי חיים ומספר ניסויים קליניים בבני אדם מצאה שתימוקינון, המרכיב הפעיל ב-Nigella sativa (קצח שחור), משפיע על מספר מסלולים המעורבים בהזדקנות. במחקרים בבני אדם נמצאו שיפורים צנועים בגורמי סיכון קרדיומטבוליים, סמני דלקת, מתח חמצוני ומדדי קוגניציה מסוימים. הראיות שהצמח מאריך תוחלת בריאות בבני אדם טרם הוכחו, ויש צורך במחקרים ארוכים יותר עם תכשירים מתוקננים.",
